@@ -1,3 +1,5 @@
+//This file provides shared formatting/aggregation helpers (averages, ranges, durations, grouping by explanation) used by both the Summary UI and the exported summary text file.
+
 import type { DecodedRow } from '../types'
 
 export function avg(arr: number[]): string {

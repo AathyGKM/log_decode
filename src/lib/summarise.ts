@@ -1,3 +1,5 @@
+//This file aggregates decoded rows and communication sessions into the SummaryStats used to drive the Summary panel (health, connectivity, LWM2M activity, errors/warnings, etc).
+
 import type { CountedStat, DecodedRow, SummaryStats, TimelineSession } from '../types'
 import { compareDateTime, parseDateTime } from './dateTime'
 

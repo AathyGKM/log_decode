@@ -1,3 +1,5 @@
+//This file normalises log event strings (dates, times, hex addresses, numbers) so similar events with differing variable values can be matched against the knowledge base.
+
 export function normalise(text: string): string {
   let s = text.trim()
 

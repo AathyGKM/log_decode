@@ -1,3 +1,5 @@
+//This file loads and parses the logkey.csv knowledge base into KeyEntry records used to decode raw log events into human-readable explanations.
+
 import type { KeyEntry } from '../types'
 
 export async function parseKey(): Promise<KeyEntry[]> {

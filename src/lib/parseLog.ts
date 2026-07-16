@@ -1,3 +1,5 @@
+//This file parses a raw device log CSV (in either the "Date, Time, Event" or "Timestamp, Code" format) into an array of LogRow records.
+
 import type { LogRow } from '../types'
 
 const KNOWN_SOURCES = ['NBIT', 'LWM2M', 'SNSR', 'FLSV', 'GKCOAP', 'LOGG', 'M95M01']

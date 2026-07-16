@@ -1,3 +1,5 @@
+//This file formats a file's SummaryStats and PerformanceScore into a plain-text report for the "Download all summaries" export.
+
 import type { CountedStat, PerformanceScore, SummaryStats } from '../types'
 import { avg, minMax, formatDuration, groupByExplanation } from './summaryFormat'
 

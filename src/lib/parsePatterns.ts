@@ -1,3 +1,5 @@
+//This file loads and parses transmission_patterns.json into TransmissionPattern records used to detect known event sequences in the decoded log.
+
 import type { TransmissionPattern } from '../types'
 
 export async function parsePatterns(): Promise<TransmissionPattern[]> {

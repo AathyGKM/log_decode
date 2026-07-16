@@ -1,3 +1,5 @@
+//This file pops a rendered React element into a new browser window, copying over the current page's stylesheets so it renders styled correctly.
+
 import type { ReactElement } from 'react'
 import { createRoot } from 'react-dom/client'
 

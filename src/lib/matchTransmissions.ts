@@ -1,3 +1,5 @@
+//This file matches sequences of decoded rows against the transmission patterns to detect and group known multi-step transmission events (e.g. standard reading, alarm transmissions).
+
 import type { DecodedRow, TransmissionPattern, Transmission, TimelineEvent } from '../types'
 import { compareDateTime } from './dateTime'
 

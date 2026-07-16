@@ -1,3 +1,5 @@
+//This file computes an overall device performance percentage from the decoded log's summary stats and communication sessions, broken down into weighted sub-scores.
+
 import type { PerformanceScore, PerformanceSubScore, SummaryStats, TimelineSession } from '../types'
 
 interface RawSubScore {

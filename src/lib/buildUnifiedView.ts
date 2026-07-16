@@ -1,3 +1,5 @@
+//This file merges decoded rows, matched transmission ranges, and communication sessions into a single chronological list of UnifiedItem entries for display.
+
 import type { CombinedItem, DecodedRow, TimelineSession, UnifiedItem } from '../types'
 import type { TransmissionRange } from './matchTransmissions'
 import { parseDateTime, compareDateTime } from './dateTime'

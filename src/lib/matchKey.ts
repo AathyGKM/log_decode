@@ -1,3 +1,5 @@
+//This file matches each raw log row against the logkey.csv knowledge base (via exact, partial-normalised, full-normalised, and prefix matching passes) to assign an explanation and severity to every event.
+
 import type { LogRow, KeyEntry, DecodedRow } from '../types'
 import { normalise } from './normalise'
 

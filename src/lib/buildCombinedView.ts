@@ -1,3 +1,5 @@
+//This file is an alternative, currently unused merger of sessions and rows into a single combined view (kept for reference; buildUnifiedView.ts is the one actually used by the app).
+
 import type { DecodedRow, Transmission, CombinedItem } from '../types'
 
 const MONTH_MAP: Record<string, number> = {
