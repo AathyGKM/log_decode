@@ -1,0 +1,37 @@
+{
+  "patterns": [
+    {
+      "id": "standard-reading",
+      "label": "Standard reading transmission",
+      "description": "Normal read cycle: dispatch scheduled → modem ACTIVE → LWM2M recovered → notify success → modem SLEEP",
+      "sequence": [
+        "Reading Dispatch Dispatch Time:",
+        "Modem Power State: ACTIVE",
+        "NBIT: Lwm2m Recovered: 0",
+        "LWM2M: Notify: 10376",
+        ["Modem Power State: SLEEP", "Modem Power State: SLEEP"]
+      ]
+    },
+    {
+      "id": "no-reading",
+      "label": "No reading transmission — notify after sleep",
+      "description": "Abnormal Tx cycle: dispatch scheduled → modem ACTIVE → Cereg only → modem SLEEP before notify → late notify",
+      "sequence": [
+        "Reading Dispatch Dispatch Time:",
+        "Modem Power State: ACTIVE",
+        "Modem Power State: SLEEP",
+        ["LWM2M: Notify: 10376","NBIT: Lwm2m Recovered: 2"]
+      ]
+    },
+        {
+      "id": "Alarm-transmission",
+      "label": "Alarm transmission",
+      "description": "Normal alarm cycle: dispatch scheduled → modem ACTIVE → LWM2M recovered → notify success → modem SLEEP",
+      "sequence": [
+        "Modem Power State: ACTIVE",
+        "NBIT: Lwm2m Recovered: 0",
+        ["LWM2M: Notify: 10377 :","Modem Power State: SLEEP", "Modem Power State: SLEEP"]
+      ]
+    }
+  ]
+}

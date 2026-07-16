@@ -1,0 +1,1201 @@
+ Timestamp, Code
+ 05/07/26 10:20:22 , LWM2M: Request: 9   : 0   : 1  Type: 10  Status: 0  
+ 05/07/26 10:20:22 , LWM2M: Observe: 10376   : 0   : 6  Status: 0  Index: 0  
+ 05/07/26 10:20:23 , LWM2M: Observe: 9   : 0   : 9  Status: 0  Index: 0  
+ 05/07/26 10:20:25 , LWM2M: Observe: 10376   : 1   : 6  Status: 0  Index: 0  
+ 05/07/26 10:20:26 , LWM2M: Observe: 10377   : 0   : 3  Status: 0  Index: 0  
+ 05/07/26 10:20:27 , LWM2M: Observe: 9   : 0   : 7  Status: 0  Index: 0  
+ 05/07/26 10:20:29 , LWM2M: Observe: 9   : 0   : 1  Status: 0  Index: 0  
+ 05/07/26 10:20:29 , NBIT: Transmission: 27780  
+ 05/07/26 10:20:31 , LWM2M: Notify: 9   : 0   : 1  Status: 0  Ack: 0  
+ 05/07/26 10:20:33 , LWM2M: Notify: 9   : 0   : 7  Status: 0  Ack: 0  
+ 05/07/26 10:20:35 , LWM2M: Notify: 9   : 0   : 9  Status: 0  Ack: 0  
+ 05/07/26 10:20:38 , LWM2M: Notify: 10376   : 0   : 6  Status: 0  Ack: 0  
+ 05/07/26 10:20:40 , LWM2M: Notify: 10376   : 1   : 6  Status: 0  Ack: 0  
+ 05/07/26 10:20:43 , LWM2M: Notify: 10376   : 0   : 6  Status: 0  Ack: 0  
+ 05/07/26 10:20:46 , LWM2M: Notify: 10376   : 0   : 6  Status: 0  Ack: 0  
+ 05/07/26 10:20:53 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 05/07/26 10:20:54 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 05/07/26 11:00:00 , LWM2M: Reading Next Run Time: 05/07/26 12:00:00  
+ 05/07/26 12:00:00 , LWM2M: Reading Next Run Time: 05/07/26 01:00:00  
+ 05/07/26 12:46:40 , LWM2M: Status Next Run Time: 05/07/26 01:00:00  
+ 05/07/26 01:00:00 , LWM2M: Reading Next Run Time: 05/07/26 02:00:00  
+ 05/07/26 01:00:00 , LWM2M: Status Next Run Time: 06/07/26 01:00:00  
+ 05/07/26 02:00:00 , LWM2M: Reading Next Run Time: 05/07/26 03:00:00  
+ 05/07/26 03:00:00 , LWM2M: Reading Next Run Time: 05/07/26 04:00:00  
+ 05/07/26 03:46:40 , LWM2M: Status Next Run Time: 05/07/26 04:00:00  
+ 05/07/26 04:00:00 , LWM2M: Reading Next Run Time: 05/07/26 05:00:00  
+ 05/07/26 04:00:00 , LWM2M: Status Next Run Time: 06/07/26 04:00:00  
+ 05/07/26 05:00:00 , LWM2M: Reading Next Run Time: 05/07/26 06:00:00  
+ 05/07/26 06:00:00 , LWM2M: Reading Next Run Time: 05/07/26 07:00:00  
+ 05/07/26 06:46:40 , LWM2M: Status Next Run Time: 05/07/26 07:00:00  
+ 05/07/26 07:00:00 , LWM2M: Reading Next Run Time: 05/07/26 08:00:00  
+ 05/07/26 07:00:00 , LWM2M: Status Next Run Time: 06/07/26 07:00:00  
+ 05/07/26 08:00:00 , LWM2M: Reading Next Run Time: 05/07/26 09:00:00  
+ 05/07/26 09:00:00 , LWM2M: Reading Next Run Time: 05/07/26 10:00:00  
+ 05/07/26 09:37:49 , SNSR: Temp(C): 30  Volt(mV): 3007  
+ 05/07/26 09:37:49 , SNSR: Average Current (uA): -0.0  
+ 05/07/26 09:46:40 , LWM2M: Status Next Run Time: 05/07/26 10:00:00  
+ 05/07/26 10:00:00 , LWM2M: Reading Next Run Time: 05/07/26 11:00:00  
+ 05/07/26 10:00:00 , LWM2M: Status Next Run Time: 06/07/26 10:00:00  
+ 05/07/26 11:00:00 , LWM2M: Reading Next Run Time: 06/07/26 12:00:00  
+ 06/07/26 12:00:00 , LWM2M: Reading Next Run Time: 06/07/26 01:00:00  
+ 06/07/26 12:00:00 , LWM2M: Query Next Run Time: 07/07/26 12:00:00  
+ 06/07/26 12:00:01 , LWM2M: Query Next Run Time: 07/07/26 12:00:00  
+ 06/07/26 12:46:40 , LWM2M: Status Next Run Time: 06/07/26 01:00:00  
+ 06/07/26 12:55:39 , LWM2M: Alarm Next Sample Time: 06/07/26 12:55:39  
+ 06/07/26 12:55:39 , LWM2M: Alarm Stop Sample Time: 07/07/26 12:55:39  
+ 06/07/26 01:00:00 , LWM2M: Reading Next Run Time: 06/07/26 02:00:00  
+ 06/07/26 01:00:00 , LWM2M: Status Next Run Time: 06/07/26 01:00:00  
+ 06/07/26 02:00:00 , LWM2M: Reading Next Run Time: 06/07/26 03:00:00  
+ 06/07/26 02:19:01 , LWM2M: Reading Next Dispatch Time: 07/07/26 02:19:01  
+ 06/07/26 02:19:01 , LWM2M: Query Next Dispatch Time: 07/07/26 02:19:01  
+ 06/07/26 02:19:02 , NBIT: Temp(C): 30  Volt(mV): 3009  Modem Power State: 2  
+ 06/07/26 02:19:06 , NBIT: Cereg: 0  
+ 06/07/26 02:19:07 , NBIT: Cereg: 1  
+ 06/07/26 02:19:13 , NBIT: Lwm2m Recovered: 10  
+ 06/07/26 02:19:14 , NBIT: Cereg: 0  
+ 06/07/26 02:19:15 , NBIT: Cereg: 2  
+ 06/07/26 02:19:17 , NBIT: Cereg: 1  
+ 06/07/26 02:19:18 , NBIT: Cereg: 1  
+ 06/07/26 02:19:23 , NBIT: SINR: 0  RSSI: 15  
+ 06/07/26 02:19:26 , NBIT: Temp(C): 30  Volt(mV): 3009  Modem Power State: 1  
+ 06/07/26 02:19:27 , NBIT: Temp(C): 30  Volt(mV): 3009  Modem Power State: 2  
+ 06/07/26 02:19:38 , NBIT: Transmission: 27790  
+ 06/07/26 02:19:38 , LWM2M: Request: 10376   : 0   : 6  Type: 10  Status: 0  
+ 06/07/26 02:19:38 , NBIT: Earfcn: 1391  
+ 06/07/26 02:19:38 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 06/07/26 02:19:38 , NBIT: Cell ID: 0966C149  
+ 06/07/26 02:19:38 , NBIT: RSRQ: 65529  RSRP: 65447  
+ 06/07/26 02:19:38 , NBIT: SINR: 8  RSSI: 65454  
+ 06/07/26 02:19:38 , NBIT: TAC: 6182  Band: 3  
+ 06/07/26 02:19:38 , NBIT: Opr Mode: 2  Tx Power: 100  ECL: 0  
+ 06/07/26 02:19:38 , NBIT: Sleep Duration: 574915  
+ 06/07/26 02:19:38 , NBIT: Rx Time(s): 365  
+ 06/07/26 02:19:38 , NBIT: Tx Time(s): 11  
+ 06/07/26 02:19:38 , LWM2M: Request: 10376   : 1   : 6  Type: 10  Status: 0  
+ 06/07/26 02:19:38 , LWM2M: Request: 10377   : 0   : 3  Type: 10  Status: 0  
+ 06/07/26 02:19:39 , LWM2M: Request: 9   : 0   : 1  Type: 10  Status: 0  
+ 06/07/26 02:19:39 , LWM2M: Request: 9   : 0   : 7  Type: 10  Status: 0  
+ 06/07/26 02:19:39 , LWM2M: Request: 9   : 0   : 9  Type: 10  Status: 0  
+ 06/07/26 02:19:41 , LWM2M: Observe: 10376   : 0   : 6  Status: 0  Index: 0  
+ 06/07/26 02:19:42 , LWM2M: Observe: 10376   : 1   : 6  Status: 0  Index: 0  
+ 06/07/26 02:19:43 , LWM2M: Observe: 10377   : 0   : 3  Status: 0  Index: 0  
+ 06/07/26 02:19:45 , LWM2M: Observe: 9   : 0   : 1  Status: 0  Index: 0  
+ 06/07/26 02:19:46 , LWM2M: Observe: 9   : 0   : 7  Status: 0  Index: 0  
+ 06/07/26 02:19:47 , LWM2M: Observe: 9   : 0   : 9  Status: 0  Index: 0  
+ 06/07/26 02:19:56 , NBIT: Temp(C): 30  Volt(mV): 3009  Modem Power State: 1  
+ 06/07/26 02:19:56 , LWM2M: Notify: 9   : 0   : 1  Status: 1  Ack: 2  
+ 06/07/26 02:20:09 , NBIT: Lwm2m Recovered: 10  
+ 06/07/26 02:20:09 , NBIT: Temp(C): 30  Volt(mV): 3009  Modem Power State: 2  
+ 06/07/26 02:20:11 , NBIT: Cereg: 0  
+ 06/07/26 02:20:12 , NBIT: Cereg: 2  
+ 06/07/26 02:20:14 , NBIT: Cereg: 1  
+ 06/07/26 02:20:15 , NBIT: Cereg: 1  
+ 06/07/26 02:20:20 , NBIT: SINR: 0  RSSI: 15  
+ 06/07/26 02:20:23 , NBIT: Temp(C): 30  Volt(mV): 3009  Modem Power State: 1  
+ 06/07/26 02:20:26 , NBIT: Transmission: 27800  
+ 06/07/26 02:20:28 , NBIT: Temp(C): 30  Volt(mV): 3009  Modem Power State: 2  
+ 06/07/26 02:20:38 , NBIT: Earfcn: 1391  
+ 06/07/26 02:20:38 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 06/07/26 02:20:38 , NBIT: Cell ID: 0966C149  
+ 06/07/26 02:20:38 , NBIT: RSRQ: 65529  RSRP: 65446  
+ 06/07/26 02:20:38 , NBIT: SINR: 8  RSSI: 65453  
+ 06/07/26 02:20:38 , NBIT: TAC: 6182  Band: 3  
+ 06/07/26 02:20:38 , NBIT: Opr Mode: 2  Tx Power: 110  ECL: 0  
+ 06/07/26 02:20:38 , NBIT: Sleep Duration: 574915  
+ 06/07/26 02:20:38 , NBIT: Rx Time(s): 555  
+ 06/07/26 02:20:38 , NBIT: Tx Time(s): 17  
+ 06/07/26 02:20:38 , LWM2M: Request: 10376   : 0   : 6  Type: 10  Status: 0  
+ 06/07/26 02:20:38 , LWM2M: Request: 10376   : 1   : 6  Type: 10  Status: 0  
+ 06/07/26 02:20:39 , LWM2M: Request: 10377   : 0   : 3  Type: 10  Status: 0  
+ 06/07/26 02:20:39 , LWM2M: Request: 9   : 0   : 7  Type: 10  Status: 0  
+ 06/07/26 02:20:39 , LWM2M: Request: 9   : 0   : 9  Type: 10  Status: 0  
+ 06/07/26 02:20:40 , LWM2M: Request: 9   : 0   : 1  Type: 10  Status: 0  
+ 06/07/26 02:20:40 , LWM2M: Observe: 10376   : 0   : 6  Status: 0  Index: 0  
+ 06/07/26 02:20:41 , LWM2M: Observe: 10376   : 1   : 6  Status: 0  Index: 0  
+ 06/07/26 02:20:42 , LWM2M: Observe: 10377   : 0   : 3  Status: 0  Index: 0  
+ 06/07/26 02:20:44 , LWM2M: Observe: 9   : 0   : 7  Status: 0  Index: 0  
+ 06/07/26 02:20:45 , LWM2M: Observe: 9   : 0   : 9  Status: 0  Index: 0  
+ 06/07/26 02:20:47 , LWM2M: Observe: 9   : 0   : 1  Status: 0  Index: 0  
+ 06/07/26 02:20:55 , NBIT: Temp(C): 30  Volt(mV): 3009  Modem Power State: 1  
+ 06/07/26 02:20:56 , LWM2M: Notify: 9   : 0   : 1  Status: 1  Ack: 2  
+ 06/07/26 02:21:08 , NBIT: Lwm2m Recovered: 10  
+ 06/07/26 02:21:08 , NBIT: Temp(C): 30  Volt(mV): 3009  Modem Power State: 2  
+ 06/07/26 02:21:10 , NBIT: Cereg: 0  
+ 06/07/26 02:21:10 , NBIT: Cereg: 2  
+ 06/07/26 02:21:13 , NBIT: Cereg: 1  
+ 06/07/26 02:21:14 , NBIT: Cereg: 1  
+ 06/07/26 02:21:19 , NBIT: SINR: 0  RSSI: 15  
+ 06/07/26 02:21:21 , NBIT: Transmission: 27810  
+ 06/07/26 02:21:21 , NBIT: Temp(C): 30  Volt(mV): 3009  Modem Power State: 1  
+ 06/07/26 02:21:22 , NBIT: Temp(C): 30  Volt(mV): 3009  Modem Power State: 2  
+ 06/07/26 02:21:33 , NBIT: Earfcn: 1391  
+ 06/07/26 02:21:33 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 06/07/26 02:21:33 , NBIT: Cell ID: 0966C149  
+ 06/07/26 02:21:33 , NBIT: RSRQ: 65528  RSRP: 65445  
+ 06/07/26 02:21:33 , NBIT: SINR: 7  RSSI: 65454  
+ 06/07/26 02:21:33 , NBIT: TAC: 6182  Band: 3  
+ 06/07/26 02:21:33 , NBIT: Opr Mode: 2  Tx Power: 120  ECL: 0  
+ 06/07/26 02:21:33 , NBIT: Sleep Duration: 574915  
+ 06/07/26 02:21:33 , NBIT: Rx Time(s): 744  
+ 06/07/26 02:21:33 , NBIT: Tx Time(s): 21  
+ 06/07/26 02:21:40 , NBIT: Temp(C): 30  Volt(mV): 3009  Modem Power State: 1  
+ 06/07/26 02:21:40 , NBIT: Temp(C): 30  Volt(mV): 3009  Modem Power State: 1  
+ 06/07/26 03:00:00 , LWM2M: Reading Next Run Time: 06/07/26 04:00:00  
+ 06/07/26 03:46:40 , LWM2M: Status Next Run Time: 06/07/26 04:00:00  
+ 06/07/26 04:00:00 , LWM2M: Reading Next Run Time: 06/07/26 05:00:00  
+ 06/07/26 04:00:00 , LWM2M: Status Next Run Time: 06/07/26 04:00:00  
+ 06/07/26 05:00:00 , LWM2M: Reading Next Run Time: 06/07/26 06:00:00  
+ 06/07/26 06:00:00 , LWM2M: Reading Next Run Time: 06/07/26 07:00:00  
+ 06/07/26 06:46:40 , LWM2M: Status Next Run Time: 06/07/26 07:00:00  
+ 06/07/26 07:00:00 , LWM2M: Reading Next Run Time: 06/07/26 08:00:00  
+ 06/07/26 07:00:00 , LWM2M: Status Next Run Time: 06/07/26 07:00:00  
+ 06/07/26 08:00:00 , LWM2M: Reading Next Run Time: 06/07/26 09:00:00  
+ 06/07/26 09:00:00 , LWM2M: Reading Next Run Time: 06/07/26 10:00:00  
+ 06/07/26 09:37:49 , SNSR: Temp(C): 30  Volt(mV): 3007  
+ 06/07/26 09:37:49 , SNSR: Average Current (uA): 1046.8749  
+ 06/07/26 09:46:40 , LWM2M: Status Next Run Time: 06/07/26 10:00:00  
+ 06/07/26 10:00:00 , LWM2M: Reading Next Run Time: 06/07/26 11:00:00  
+ 06/07/26 10:00:00 , LWM2M: Status Next Run Time: 06/07/26 10:00:00  
+ 06/07/26 11:00:00 , LWM2M: Reading Next Run Time: 06/07/26 12:00:00  
+ 06/07/26 12:00:00 , LWM2M: Reading Next Run Time: 06/07/26 01:00:00  
+ 06/07/26 12:37:49 , FLSV: LWM2M Readings Not Dispatched: 0  
+ 06/07/26 12:37:50 , NBIT: Temp(C): 32  Volt(mV): 3007  Modem Error: 5  
+ 06/07/26 12:37:50 , NBIT: Temp(C): 32  Volt(mV): 3007  Modem Power State: 2  
+ 06/07/26 12:37:54 , NBIT: Cereg: 2  
+ 06/07/26 12:37:57 , NBIT: Cereg: 1  
+ 06/07/26 12:37:59 , NBIT: Cereg: 1  
+ 06/07/26 12:38:02 , NBIT: SINR: 0  RSSI: 20  
+ 06/07/26 12:38:08 , NBIT: Temp(C): 32  Volt(mV): 3007  Modem Power State: 1  
+ 06/07/26 12:38:13 , NBIT: Temp(C): 32  Volt(mV): 3007  Modem Power State: 2  
+ 06/07/26 12:38:23 , LWM2M: Request: 10376   : 0   : 6  Type: 10  Status: 0  
+ 06/07/26 12:38:24 , NBIT: Earfcn: 1391  
+ 06/07/26 12:38:24 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 06/07/26 12:38:24 , NBIT: Cell ID: 0966C149  
+ 06/07/26 12:38:24 , NBIT: RSRQ: 65529  RSRP: 65456  
+ 06/07/26 12:38:24 , NBIT: SINR: 15  RSSI: 65463  
+ 06/07/26 12:38:24 , NBIT: TAC: 6182  Band: 3  
+ 06/07/26 12:38:24 , NBIT: Opr Mode: 2  Tx Power: 80  ECL: 0  
+ 06/07/26 12:38:24 , NBIT: Sleep Duration: 0  
+ 06/07/26 12:38:24 , NBIT: Rx Time(s): 103  
+ 06/07/26 12:38:24 , NBIT: Tx Time(s): 4  
+ 06/07/26 12:38:24 , LWM2M: Request: 9   : 0   : 7  Type: 10  Status: 0  
+ 06/07/26 12:38:24 , LWM2M: Request: 10377   : 0   : 3  Type: 10  Status: 0  
+ 06/07/26 12:38:24 , LWM2M: Request: 10376   : 1   : 6  Type: 10  Status: 0  
+ 06/07/26 12:38:25 , LWM2M: Request: 9   : 0   : 1  Type: 10  Status: 0  
+ 06/07/26 12:38:25 , LWM2M: Request: 9   : 0   : 9  Type: 10  Status: 0  
+ 06/07/26 12:38:27 , LWM2M: Observe: 10376   : 0   : 6  Status: 0  Index: 0  
+ 06/07/26 12:38:28 , LWM2M: Observe: 9   : 0   : 7  Status: 0  Index: 0  
+ 06/07/26 12:38:29 , LWM2M: Observe: 10377   : 0   : 3  Status: 0  Index: 0  
+ 06/07/26 12:38:31 , LWM2M: Observe: 10376   : 1   : 6  Status: 0  Index: 0  
+ 06/07/26 12:38:32 , LWM2M: Observe: 9   : 0   : 1  Status: 0  Index: 0  
+ 06/07/26 12:38:32 , NBIT: Transmission: 27820  
+ 06/07/26 12:38:33 , LWM2M: Observe: 9   : 0   : 9  Status: 0  Index: 0  
+ 06/07/26 12:38:42 , NBIT: Temp(C): 32  Volt(mV): 3007  Modem Power State: 1  
+ 06/07/26 12:38:42 , LWM2M: Notify: 9   : 0   : 1  Status: 1  Ack: 2  
+ 06/07/26 12:38:55 , NBIT: Lwm2m Recovered: 10  
+ 06/07/26 12:38:55 , NBIT: Temp(C): 32  Volt(mV): 3007  Modem Power State: 2  
+ 06/07/26 12:38:56 , NBIT: Cereg: 0  
+ 06/07/26 12:38:57 , NBIT: Cereg: 2  
+ 06/07/26 12:38:58 , NBIT: Cereg: 1  
+ 06/07/26 12:39:00 , NBIT: Cereg: 1  
+ 06/07/26 12:39:05 , NBIT: SINR: 0  RSSI: 19  
+ 06/07/26 12:39:07 , NBIT: Temp(C): 32  Volt(mV): 3007  Modem Power State: 1  
+ 06/07/26 12:39:13 , NBIT: Temp(C): 32  Volt(mV): 3007  Modem Power State: 2  
+ 06/07/26 12:39:22 , LWM2M: Request: 10376   : 0   : 6  Type: 10  Status: 0  
+ 06/07/26 12:39:23 , NBIT: Earfcn: 1391  
+ 06/07/26 12:39:23 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 06/07/26 12:39:23 , NBIT: Cell ID: 0966C149  
+ 06/07/26 12:39:23 , NBIT: RSRQ: 65529  RSRP: 65455  
+ 06/07/26 12:39:23 , NBIT: SINR: 16  RSSI: 65462  
+ 06/07/26 12:39:23 , NBIT: TAC: 6182  Band: 3  
+ 06/07/26 12:39:23 , NBIT: Opr Mode: 2  Tx Power: 80  ECL: 0  
+ 06/07/26 12:39:23 , NBIT: Sleep Duration: 0  
+ 06/07/26 12:39:23 , NBIT: Rx Time(s): 275  
+ 06/07/26 12:39:23 , NBIT: Tx Time(s): 9  
+ 06/07/26 12:39:23 , LWM2M: Request: 10376   : 1   : 6  Type: 10  Status: 0  
+ 06/07/26 12:39:23 , LWM2M: Request: 9   : 0   : 9  Type: 10  Status: 0  
+ 06/07/26 12:39:23 , LWM2M: Request: 9   : 0   : 7  Type: 10  Status: 0  
+ 06/07/26 12:39:24 , LWM2M: Request: 10377   : 0   : 3  Type: 10  Status: 0  
+ 06/07/26 12:39:24 , LWM2M: Request: 9   : 0   : 1  Type: 10  Status: 0  
+ 06/07/26 12:39:25 , LWM2M: Observe: 10376   : 0   : 6  Status: 0  Index: 0  
+ 06/07/26 12:39:27 , LWM2M: Observe: 10376   : 1   : 6  Status: 0  Index: 0  
+ 06/07/26 12:39:28 , LWM2M: Observe: 9   : 0   : 9  Status: 0  Index: 0  
+ 06/07/26 12:39:29 , LWM2M: Observe: 9   : 0   : 7  Status: 0  Index: 0  
+ 06/07/26 12:39:29 , NBIT: Transmission: 27830  
+ 06/07/26 12:39:31 , LWM2M: Observe: 10377   : 0   : 3  Status: 0  Index: 0  
+ 06/07/26 12:39:32 , LWM2M: Observe: 9   : 0   : 1  Status: 0  Index: 0  
+ 06/07/26 12:39:41 , NBIT: Temp(C): 32  Volt(mV): 3007  Modem Power State: 1  
+ 06/07/26 12:39:41 , LWM2M: Notify: 9   : 0   : 1  Status: 1  Ack: 2  
+ 06/07/26 12:39:53 , NBIT: Lwm2m Recovered: 10  
+ 06/07/26 12:39:54 , NBIT: Temp(C): 32  Volt(mV): 3007  Modem Power State: 2  
+ 06/07/26 12:39:55 , NBIT: Cereg: 0  
+ 06/07/26 12:39:55 , NBIT: Cereg: 2  
+ 06/07/26 12:39:58 , NBIT: Cereg: 1  
+ 06/07/26 12:39:59 , NBIT: Cereg: 1  
+ 06/07/26 12:40:04 , NBIT: SINR: 0  RSSI: 19  
+ 06/07/26 12:40:07 , NBIT: Temp(C): 32  Volt(mV): 3007  Modem Power State: 1  
+ 06/07/26 12:40:08 , NBIT: Temp(C): 32  Volt(mV): 3007  Modem Power State: 2  
+ 06/07/26 12:40:18 , LWM2M: Request: 10376   : 0   : 6  Type: 10  Status: 0  
+ 06/07/26 12:40:19 , NBIT: Earfcn: 1391  
+ 06/07/26 12:40:19 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 06/07/26 12:40:19 , NBIT: Cell ID: 0966C149  
+ 06/07/26 12:40:19 , NBIT: RSRQ: 65529  RSRP: 65455  
+ 06/07/26 12:40:19 , NBIT: SINR: 16  RSSI: 65462  
+ 06/07/26 12:40:19 , NBIT: TAC: 6182  Band: 3  
+ 06/07/26 12:40:19 , NBIT: Opr Mode: 2  Tx Power: 80  ECL: 0  
+ 06/07/26 12:40:19 , NBIT: Sleep Duration: 0  
+ 06/07/26 12:40:19 , NBIT: Rx Time(s): 454  
+ 06/07/26 12:40:19 , NBIT: Tx Time(s): 16  
+ 06/07/26 12:40:19 , LWM2M: Request: 9   : 0   : 1  Type: 10  Status: 0  
+ 06/07/26 12:40:19 , LWM2M: Request: 10377   : 0   : 3  Type: 10  Status: 0  
+ 06/07/26 12:40:19 , LWM2M: Request: 10376   : 1   : 6  Type: 10  Status: 0  
+ 06/07/26 12:40:19 , LWM2M: Request: 9   : 0   : 7  Type: 10  Status: 0  
+ 06/07/26 12:40:20 , LWM2M: Request: 9   : 0   : 9  Type: 10  Status: 0  
+ 06/07/26 12:40:22 , NBIT: Temp(C): 32  Volt(mV): 3007  Modem Error: 5  
+ 06/07/26 12:40:22 , NBIT: Temp(C): 32  Volt(mV): 3007  Modem Power State: 2  
+ 06/07/26 12:40:26 , NBIT: Cereg: 2  
+ 06/07/26 12:40:29 , NBIT: Cereg: 1  
+ 06/07/26 12:40:33 , NBIT: Cereg: 1  
+ 06/07/26 12:40:34 , NBIT: SINR: 0  RSSI: 19  
+ 06/07/26 12:40:48 , NBIT: Transmission: 27840  
+ 06/07/26 12:40:48 , LWM2M: Request: 10377   : 0   : 3  Type: 10  Status: 0  
+ 06/07/26 12:40:48 , NBIT: Earfcn: 1391  
+ 06/07/26 12:40:48 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 06/07/26 12:40:48 , NBIT: Cell ID: 0966C149  
+ 06/07/26 12:40:48 , NBIT: RSRQ: 65529  RSRP: 65454  
+ 06/07/26 12:40:48 , NBIT: SINR: 15  RSSI: 65461  
+ 06/07/26 12:40:48 , NBIT: TAC: 6182  Band: 3  
+ 06/07/26 12:40:48 , NBIT: Opr Mode: 2  Tx Power: 90  ECL: 0  
+ 06/07/26 12:40:48 , NBIT: Sleep Duration: 0  
+ 06/07/26 12:40:48 , NBIT: Rx Time(s): 94  
+ 06/07/26 12:40:48 , NBIT: Tx Time(s): 3  
+ 06/07/26 12:40:48 , LWM2M: Request: 10376   : 0   : 6  Type: 10  Status: 1  
+ 06/07/26 12:40:48 , LWM2M: Request: 9   : 0   : 1  Type: 10  Status: 1  
+ 06/07/26 12:40:49 , LWM2M: Request: 10376   : 1   : 6  Type: 10  Status: 1  
+ 06/07/26 12:40:49 , LWM2M: Request: 9   : 0   : 7  Type: 10  Status: 1  
+ 06/07/26 12:40:49 , LWM2M: Observe: 10377   : 0   : 3  Status: 0  Index: 0  
+ 06/07/26 12:40:49 , NBIT: CME Error: 3  BC66 SubState: 0  BC66 State: PROCESS_REQUEST_Bc66LinkState   
+ 06/07/26 12:40:49 , LWM2M: Request: 9   : 0   : 9  Type: 10  Status: 0  
+ 06/07/26 12:40:54 , NBIT: CME Error: 3  BC66 SubState: 0  BC66 State: PROCESS_REQUEST_Bc66LinkState   
+ 06/07/26 12:40:59 , NBIT: CME Error: 3  BC66 SubState: 0  BC66 State: PROCESS_REQUEST_Bc66LinkState   
+ 06/07/26 12:40:59 , NBIT: Temp(C): 32  Volt(mV): 3007  Modem Power State: 1  
+ 06/07/26 12:41:04 , NBIT: Temp(C): 32  Volt(mV): 3007  Modem Error: 4  
+ 06/07/26 12:41:04 , LWM2M: Observe: 9   : 0   : 1  Status: 0  Index: 0  
+ 06/07/26 12:41:04 , NBIT: Modem Disabled. Restart Time: 07/07/26 12:41:04  
+ 06/07/26 12:41:04 , NBIT: Temp(C): 32  Volt(mV): 3007  Modem Power State: 2  
+ 06/07/26 12:41:06 , NBIT: Cereg: 0  
+ 06/07/26 12:41:06 , NBIT: Temp(C): 32  Volt(mV): 3007  Modem Power State: 0  
+ 06/07/26 12:41:31 , FLSV: MCU Reset> Software Watchdog: 0802F4D6  
+ 06/07/26 12:41:31 , FLSV: Task Sleep Status Bitmap: NBIOT_TaskId NBIOT_GKCOAP_TaskId NBIOT_LWOBJ_TaskId   
+ 06/07/26 12:41:33 , NBIT: Temp(C): 32  Volt(mV): 2998  Modem Power State: 2  
+ 06/07/26 12:41:34 , LWM2M: Reading Next Run Time: 06/07/26 01:00:00  
+ 06/07/26 12:41:34 , LWM2M: Reading Next Dispatch Time: 07/07/26 02:19:01  
+ 06/07/26 12:41:34 , LWM2M: Status Next Run Time: 06/07/26 01:00:00  
+ 06/07/26 12:41:34 , LWM2M: Status Next Dispatch Time: 07/07/26 02:19:01  
+ 06/07/26 12:41:34 , LWM2M: Query Next Run Time: 07/07/26 12:00:00  
+ 06/07/26 12:41:34 , LWM2M: Query Next Dispatch Time: 07/07/26 02:19:01  
+ 06/07/26 12:41:34 , SNSR: Temp(C): 32  Volt(mV): 2998  
+ 06/07/26 12:41:34 , SNSR: Average Current (uA): 4718.75  
+ 06/07/26 12:41:37 , NBIT: Cereg: 2  
+ 06/07/26 12:41:40 , NBIT: Cereg: 1  
+ 06/07/26 12:41:43 , NBIT: Cereg: 1  
+ 06/07/26 12:41:45 , NBIT: SINR: 0  RSSI: 19  
+ 06/07/26 12:41:51 , NBIT: Temp(C): 32  Volt(mV): 2998  Modem Power State: 1  
+ 06/07/26 12:41:56 , NBIT: Temp(C): 32  Volt(mV): 2998  Modem Power State: 2  
+ 06/07/26 12:42:05 , LWM2M: Request: 10376   : 0   : 6  Type: 10  Status: 0  
+ 06/07/26 12:42:06 , NBIT: Earfcn: 1391  
+ 06/07/26 12:42:06 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 06/07/26 12:42:06 , NBIT: Cell ID: 0966C149  
+ 06/07/26 12:42:06 , NBIT: RSRQ: 65529  RSRP: 65455  
+ 06/07/26 12:42:06 , NBIT: SINR: 14  RSSI: 65462  
+ 06/07/26 12:42:06 , NBIT: TAC: 6182  Band: 3  
+ 06/07/26 12:42:06 , NBIT: Opr Mode: 2  Tx Power: 50  ECL: 0  
+ 06/07/26 12:42:06 , NBIT: Sleep Duration: 0  
+ 06/07/26 12:42:06 , NBIT: Rx Time(s): 91  
+ 06/07/26 12:42:06 , NBIT: Tx Time(s): 3  
+ 06/07/26 12:42:06 , LWM2M: Request: 10377   : 0   : 3  Type: 10  Status: 0  
+ 06/07/26 12:42:06 , LWM2M: Request: 10376   : 1   : 6  Type: 10  Status: 0  
+ 06/07/26 12:42:06 , LWM2M: Request: 9   : 0   : 1  Type: 10  Status: 0  
+ 06/07/26 12:42:07 , LWM2M: Request: 9   : 0   : 9  Type: 10  Status: 0  
+ 06/07/26 12:42:07 , LWM2M: Request: 9   : 0   : 7  Type: 10  Status: 0  
+ 06/07/26 12:42:08 , LWM2M: Observe: 10376   : 0   : 6  Status: 0  Index: 0  
+ 06/07/26 12:42:10 , LWM2M: Observe: 10377   : 0   : 3  Status: 0  Index: 0  
+ 06/07/26 12:42:11 , LWM2M: Observe: 10376   : 1   : 6  Status: 0  Index: 0  
+ 06/07/26 12:42:13 , LWM2M: Observe: 9   : 0   : 1  Status: 0  Index: 0  
+ 06/07/26 12:42:14 , LWM2M: Observe: 9   : 0   : 9  Status: 0  Index: 0  
+ 06/07/26 12:42:14 , NBIT: Transmission: 27850  
+ 06/07/26 12:42:15 , LWM2M: Observe: 9   : 0   : 7  Status: 0  Index: 0  
+ 06/07/26 12:42:24 , NBIT: Temp(C): 32  Volt(mV): 2998  Modem Power State: 1  
+ 06/07/26 12:42:24 , LWM2M: Notify: 9   : 0   : 1  Status: 1  Ack: 2  
+ 06/07/26 12:42:37 , NBIT: Lwm2m Recovered: 10  
+ 06/07/26 12:42:37 , NBIT: Temp(C): 32  Volt(mV): 2998  Modem Power State: 2  
+ 06/07/26 12:42:38 , NBIT: Cereg: 0  
+ 06/07/26 12:42:39 , NBIT: Cereg: 2  
+ 06/07/26 12:42:41 , NBIT: Cereg: 1  
+ 06/07/26 12:42:42 , NBIT: Cereg: 1  
+ 06/07/26 12:42:47 , NBIT: SINR: 0  RSSI: 19  
+ 06/07/26 12:42:49 , NBIT: Temp(C): 32  Volt(mV): 2998  Modem Power State: 1  
+ 06/07/26 12:42:55 , NBIT: Temp(C): 32  Volt(mV): 2998  Modem Power State: 2  
+ 06/07/26 12:43:04 , LWM2M: Request: 10376   : 0   : 6  Type: 10  Status: 0  
+ 06/07/26 12:43:05 , NBIT: Earfcn: 1391  
+ 06/07/26 12:43:05 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 06/07/26 12:43:05 , NBIT: Cell ID: 0966C149  
+ 06/07/26 12:43:05 , NBIT: RSRQ: 65528  RSRP: 65450  
+ 06/07/26 12:43:05 , NBIT: SINR: 5  RSSI: 65458  
+ 06/07/26 12:43:05 , NBIT: TAC: 6182  Band: 3  
+ 06/07/26 12:43:05 , NBIT: Opr Mode: 2  Tx Power: 130  ECL: 0  
+ 06/07/26 12:43:05 , NBIT: Sleep Duration: 0  
+ 06/07/26 12:43:05 , NBIT: Rx Time(s): 269  
+ 06/07/26 12:43:05 , NBIT: Tx Time(s): 9  
+ 06/07/26 12:43:05 , LWM2M: Request: 9   : 0   : 1  Type: 10  Status: 0  
+ 06/07/26 12:43:05 , LWM2M: Request: 10376   : 1   : 6  Type: 10  Status: 0  
+ 06/07/26 12:43:05 , LWM2M: Request: 10377   : 0   : 3  Type: 10  Status: 0  
+ 06/07/26 12:43:06 , LWM2M: Request: 9   : 0   : 9  Type: 10  Status: 0  
+ 06/07/26 12:43:06 , LWM2M: Request: 9   : 0   : 7  Type: 10  Status: 0  
+ 06/07/26 12:43:07 , LWM2M: Observe: 10376   : 0   : 6  Status: 0  Index: 0  
+ 06/07/26 12:43:09 , LWM2M: Observe: 9   : 0   : 1  Status: 0  Index: 0  
+ 06/07/26 12:43:10 , LWM2M: Observe: 10376   : 1   : 6  Status: 0  Index: 0  
+ 06/07/26 12:43:11 , LWM2M: Observe: 10377   : 0   : 3  Status: 0  Index: 0  
+ 06/07/26 12:43:11 , NBIT: Transmission: 27860  
+ 06/07/26 12:43:13 , LWM2M: Observe: 9   : 0   : 9  Status: 0  Index: 0  
+ 06/07/26 12:43:14 , LWM2M: Observe: 9   : 0   : 7  Status: 0  Index: 0  
+ 06/07/26 12:43:23 , NBIT: Temp(C): 32  Volt(mV): 2998  Modem Power State: 1  
+ 06/07/26 12:43:23 , LWM2M: Notify: 9   : 0   : 1  Status: 1  Ack: 2  
+ 06/07/26 12:43:36 , NBIT: Lwm2m Recovered: 10  
+ 06/07/26 12:43:36 , NBIT: Temp(C): 32  Volt(mV): 2998  Modem Power State: 2  
+ 06/07/26 12:43:37 , NBIT: Cereg: 0  
+ 06/07/26 12:43:38 , NBIT: Cereg: 2  
+ 06/07/26 12:43:40 , NBIT: Cereg: 1  
+ 06/07/26 12:43:41 , NBIT: Cereg: 1  
+ 06/07/26 12:43:46 , NBIT: SINR: 0  RSSI: 17  
+ 06/07/26 12:43:48 , NBIT: Temp(C): 32  Volt(mV): 2998  Modem Power State: 1  
+ 06/07/26 12:43:53 , NBIT: Temp(C): 32  Volt(mV): 2998  Modem Power State: 2  
+ 06/07/26 12:44:02 , LWM2M: Request: 10376   : 1   : 6  Type: 10  Status: 0  
+ 06/07/26 12:44:03 , NBIT: Earfcn: 1391  
+ 06/07/26 12:44:03 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 06/07/26 12:44:03 , NBIT: Cell ID: 0966C149  
+ 06/07/26 12:44:03 , NBIT: RSRQ: 65529  RSRP: 65456  
+ 06/07/26 12:44:03 , NBIT: SINR: 16  RSSI: 65463  
+ 06/07/26 12:44:03 , NBIT: TAC: 6182  Band: 3  
+ 06/07/26 12:44:03 , NBIT: Opr Mode: 2  Tx Power: 70  ECL: 0  
+ 06/07/26 12:44:03 , NBIT: Sleep Duration: 0  
+ 06/07/26 12:44:03 , NBIT: Rx Time(s): 448  
+ 06/07/26 12:44:03 , NBIT: Tx Time(s): 15  
+ 06/07/26 12:44:03 , LWM2M: Request: 10376   : 0   : 6  Type: 10  Status: 0  
+ 06/07/26 12:44:03 , LWM2M: Request: 9   : 0   : 9  Type: 10  Status: 0  
+ 06/07/26 12:44:03 , LWM2M: Request: 10377   : 0   : 3  Type: 10  Status: 0  
+ 06/07/26 12:44:04 , LWM2M: Request: 9   : 0   : 1  Type: 10  Status: 0  
+ 06/07/26 12:44:04 , LWM2M: Observe: 10376   : 1   : 6  Status: 0  Index: 0  
+ 06/07/26 12:44:04 , LWM2M: Request: 9   : 0   : 7  Type: 10  Status: 0  
+ 06/07/26 12:44:14 , NBIT: Temp(C): 32  Volt(mV): 2998  Modem Power State: 1  
+ 06/07/26 12:45:34 , NBIT: Transmission Failed: 304  
+ 06/07/26 12:45:38 , NBIT: Temp(C): 32  Volt(mV): 2998  Modem Power State: 2  
+ 06/07/26 12:45:38 , LWM2M: Observe: 9   : 0   : 9  Status: 0  Index: 0  
+ 06/07/26 12:45:38 , NBIT: Transmission: 27870  
+ 06/07/26 12:45:39 , LWM2M: Observe: 10377   : 0   : 3  Status: 0  Index: 0  
+ 06/07/26 12:45:41 , LWM2M: Observe: 9   : 0   : 1  Status: 0  Index: 0  
+ 06/07/26 12:45:42 , LWM2M: Observe: 9   : 0   : 7  Status: 0  Index: 0  
+ 06/07/26 12:45:47 , NBIT: Temp(C): 32  Volt(mV): 2998  Modem Power State: 1  
+ 06/07/26 12:45:48 , LWM2M: Notify: 9   : 0   : 1  Status: 1  Ack: 2  
+ 06/07/26 12:46:00 , NBIT: Lwm2m Recovered: 10  
+ 06/07/26 12:46:01 , NBIT: Temp(C): 32  Volt(mV): 2998  Modem Power State: 2  
+ 06/07/26 12:46:02 , NBIT: Cereg: 0  
+ 06/07/26 12:46:02 , NBIT: Cereg: 2  
+ 06/07/26 12:46:04 , NBIT: Cereg: 1  
+ 06/07/26 12:46:06 , NBIT: Cereg: 1  
+ 06/07/26 12:46:11 , NBIT: SINR: 0  RSSI: 19  
+ 06/07/26 12:46:12 , NBIT: Temp(C): 32  Volt(mV): 2998  Modem Power State: 1  
+ 06/07/26 12:46:19 , NBIT: Temp(C): 32  Volt(mV): 2998  Modem Power State: 2  
+ 06/07/26 12:46:32 , NBIT: Earfcn: 1391  
+ 06/07/26 12:46:32 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 06/07/26 12:46:32 , NBIT: Cell ID: 0966C149  
+ 06/07/26 12:46:32 , NBIT: RSRQ: 65531  RSRP: 65457  
+ 06/07/26 12:46:32 , NBIT: SINR: 19  RSSI: 65468  
+ 06/07/26 12:46:32 , NBIT: TAC: 6182  Band: 3  
+ 06/07/26 12:46:32 , NBIT: Opr Mode: 0  Tx Power: 2  ECL: 0  
+ 06/07/26 12:46:32 , NBIT: CME Error: 847  BC66 SubState: 0  BC66 State: PROCESS_REQUEST_Bc66LinkState   
+ 06/07/26 12:46:33 , NBIT: Earfcn: 1391  
+ 06/07/26 12:46:33 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 06/07/26 12:46:33 , NBIT: Cell ID: 0966C149  
+ 06/07/26 12:46:33 , NBIT: RSRQ: 65531  RSRP: 65457  
+ 06/07/26 12:46:33 , NBIT: SINR: 18  RSSI: 65462  
+ 06/07/26 12:46:33 , NBIT: TAC: 6182  Band: 3  
+ 06/07/26 12:46:33 , NBIT: Opr Mode: 0  Tx Power: 2  ECL: 0  
+ 06/07/26 12:46:33 , NBIT: Temp(C): 32  Volt(mV): 2998  Modem Error: 4  
+ 06/07/26 12:46:33 , NBIT: CME Error: 847  BC66 SubState: 0  BC66 State: PROCESS_REQUEST_Bc66LinkState   
+ 06/07/26 12:46:33 , NBIT: Temp(C): 32  Volt(mV): 2998  Modem Power State: 1  
+ 06/07/26 12:46:33 , NBIT: Temp(C): 32  Volt(mV): 2998  Modem Power State: 2  
+ 06/07/26 01:00:00 , LWM2M: Reading Next Run Time: 06/07/26 02:00:00  
+ 06/07/26 01:00:00 , LWM2M: Status Next Run Time: 07/07/26 01:00:00  
+ 06/07/26 01:41:34 , SNSR: Temp(C): 32  Volt(mV): 2998  
+ 06/07/26 01:41:34 , SNSR: Average Current (uA): 6671.8745  
+ 06/07/26 02:00:00 , LWM2M: Reading Next Run Time: 06/07/26 03:00:00  
+ 06/07/26 02:41:34 , SNSR: Temp(C): 32  Volt(mV): 3003  
+ 06/07/26 02:41:34 , SNSR: Average Current (uA): 5937.4995  
+ 06/07/26 03:00:00 , LWM2M: Reading Next Run Time: 06/07/26 04:00:00  
+ 06/07/26 03:05:51 , FLSV: MCU Reset> Software Watchdog: 080221B2  
+ 06/07/26 03:05:51 , FLSV: Task Sleep Status Bitmap:   
+ 06/07/26 03:05:53 , NBIT: Temp(C): 33  Volt(mV): 2998  Modem Power State: 2  
+ 06/07/26 03:05:53 , LWM2M: Reading Next Run Time: 06/07/26 04:00:00  
+ 06/07/26 03:05:53 , LWM2M: Reading Next Dispatch Time: 07/07/26 02:19:01  
+ 06/07/26 03:05:53 , LWM2M: Status Next Run Time: 06/07/26 04:00:00  
+ 06/07/26 03:05:53 , LWM2M: Status Next Dispatch Time: 07/07/26 02:19:01  
+ 06/07/26 03:05:53 , LWM2M: Query Next Run Time: 07/07/26 12:00:00  
+ 06/07/26 03:05:53 , LWM2M: Query Next Dispatch Time: 07/07/26 02:19:01  
+ 06/07/26 03:05:53 , SNSR: Temp(C): 33  Volt(mV): 2998  
+ 06/07/26 03:05:53 , SNSR: Average Current (uA): 7390.6245  
+ 06/07/26 03:05:57 , NBIT: Cereg: 2  
+ 06/07/26 03:06:00 , NBIT: Cereg: 1  
+ 06/07/26 03:06:01 , NBIT: Cereg: 1  
+ 06/07/26 03:06:05 , NBIT: SINR: 0  RSSI: 18  
+ 06/07/26 03:06:09 , NBIT: Temp(C): 33  Volt(mV): 2998  Modem Power State: 1  
+ 06/07/26 03:06:16 , NBIT: Temp(C): 33  Volt(mV): 2998  Modem Power State: 2  
+ 06/07/26 03:06:26 , NBIT: Earfcn: 1391  
+ 06/07/26 03:06:26 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 06/07/26 03:06:26 , NBIT: Cell ID: 0966C149  
+ 06/07/26 03:06:26 , NBIT: RSRQ: 65529  RSRP: 65454  
+ 06/07/26 03:06:26 , NBIT: SINR: 17  RSSI: 65461  
+ 06/07/26 03:06:26 , NBIT: TAC: 6182  Band: 3  
+ 06/07/26 03:06:26 , NBIT: Opr Mode: 2  Tx Power: 90  ECL: 0  
+ 06/07/26 03:06:26 , NBIT: Sleep Duration: 0  
+ 06/07/26 03:06:26 , NBIT: Rx Time(s): 103  
+ 06/07/26 03:06:26 , NBIT: Tx Time(s): 4  
+ 06/07/26 03:06:26 , LWM2M: Request: 10376   : 0   : 6  Type: 10  Status: 0  
+ 06/07/26 03:06:27 , LWM2M: Request: 9   : 0   : 7  Type: 10  Status: 0  
+ 06/07/26 03:06:27 , LWM2M: Request: 10376   : 1   : 6  Type: 10  Status: 0  
+ 06/07/26 03:06:27 , NBIT: Transmission: 27880  
+ 06/07/26 03:06:27 , LWM2M: Request: 10377   : 0   : 3  Type: 10  Status: 0  
+ 06/07/26 03:06:27 , LWM2M: Request: 9   : 0   : 1  Type: 10  Status: 0  
+ 06/07/26 03:06:28 , LWM2M: Request: 9   : 0   : 9  Type: 10  Status: 0  
+ 06/07/26 03:06:29 , LWM2M: Observe: 10376   : 0   : 6  Status: 0  Index: 0  
+ 06/07/26 03:06:31 , LWM2M: Observe: 9   : 0   : 7  Status: 0  Index: 0  
+ 06/07/26 03:06:32 , LWM2M: Observe: 10376   : 1   : 6  Status: 0  Index: 0  
+ 06/07/26 03:06:33 , LWM2M: Observe: 10377   : 0   : 3  Status: 0  Index: 0  
+ 06/07/26 03:06:35 , LWM2M: Observe: 9   : 0   : 1  Status: 0  Index: 0  
+ 06/07/26 03:06:36 , LWM2M: Observe: 9   : 0   : 9  Status: 0  Index: 0  
+ 06/07/26 03:06:44 , NBIT: Temp(C): 33  Volt(mV): 2998  Modem Power State: 1  
+ 06/07/26 03:06:45 , LWM2M: Notify: 9   : 0   : 1  Status: 1  Ack: 2  
+ 06/07/26 03:06:57 , NBIT: Lwm2m Recovered: 10  
+ 06/07/26 03:06:58 , NBIT: Temp(C): 33  Volt(mV): 2998  Modem Power State: 2  
+ 06/07/26 03:06:59 , NBIT: Cereg: 0  
+ 06/07/26 03:06:59 , NBIT: Cereg: 2  
+ 06/07/26 03:07:03 , NBIT: Cereg: 1  
+ 06/07/26 03:07:03 , NBIT: Cereg: 1  
+ 06/07/26 03:07:08 , NBIT: SINR: 0  RSSI: 19  
+ 06/07/26 03:07:12 , NBIT: Temp(C): 33  Volt(mV): 2998  Modem Power State: 1  
+ 06/07/26 03:07:12 , NBIT: Temp(C): 33  Volt(mV): 2998  Modem Power State: 2  
+ 06/07/26 03:07:22 , NBIT: Transmission: 27890  
+ 06/07/26 03:07:22 , LWM2M: Request: 10376   : 0   : 6  Type: 10  Status: 0  
+ 06/07/26 03:07:23 , NBIT: Earfcn: 1391  
+ 06/07/26 03:07:23 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 06/07/26 03:07:23 , NBIT: Cell ID: 0966C149  
+ 06/07/26 03:07:23 , NBIT: RSRQ: 65529  RSRP: 65454  
+ 06/07/26 03:07:23 , NBIT: SINR: 15  RSSI: 65461  
+ 06/07/26 03:07:23 , NBIT: TAC: 6182  Band: 3  
+ 06/07/26 03:07:23 , NBIT: Opr Mode: 2  Tx Power: 100  ECL: 0  
+ 06/07/26 03:07:23 , NBIT: Sleep Duration: 0  
+ 06/07/26 03:07:23 , NBIT: Rx Time(s): 289  
+ 06/07/26 03:07:23 , NBIT: Tx Time(s): 10  
+ 06/07/26 03:07:23 , LWM2M: Request: 10377   : 0   : 3  Type: 10  Status: 0  
+ 06/07/26 03:07:23 , LWM2M: Request: 10376   : 1   : 6  Type: 10  Status: 0  
+ 06/07/26 03:07:23 , LWM2M: Request: 9   : 0   : 1  Type: 10  Status: 0  
+ 06/07/26 03:07:23 , LWM2M: Request: 9   : 0   : 7  Type: 10  Status: 0  
+ 06/07/26 03:07:24 , LWM2M: Request: 9   : 0   : 9  Type: 10  Status: 0  
+ 06/07/26 03:07:25 , LWM2M: Observe: 10376   : 0   : 6  Status: 0  Index: 0  
+ 06/07/26 03:07:26 , LWM2M: Observe: 10377   : 0   : 3  Status: 0  Index: 0  
+ 06/07/26 03:07:28 , LWM2M: Observe: 10376   : 1   : 6  Status: 0  Index: 0  
+ 06/07/26 03:07:29 , LWM2M: Observe: 9   : 0   : 1  Status: 0  Index: 0  
+ 06/07/26 03:07:30 , LWM2M: Observe: 9   : 0   : 7  Status: 0  Index: 0  
+ 06/07/26 03:07:32 , LWM2M: Observe: 9   : 0   : 9  Status: 0  Index: 0  
+ 06/07/26 03:07:40 , NBIT: Temp(C): 33  Volt(mV): 2998  Modem Power State: 1  
+ 06/07/26 03:07:41 , LWM2M: Notify: 9   : 0   : 1  Status: 1  Ack: 2  
+ 06/07/26 03:07:53 , NBIT: Lwm2m Recovered: 10  
+ 06/07/26 03:07:54 , NBIT: Temp(C): 33  Volt(mV): 2998  Modem Power State: 2  
+ 06/07/26 03:07:55 , NBIT: Cereg: 0  
+ 06/07/26 03:07:55 , NBIT: Cereg: 2  
+ 06/07/26 03:07:58 , NBIT: Cereg: 1  
+ 06/07/26 03:07:59 , NBIT: Cereg: 1  
+ 06/07/26 03:08:04 , NBIT: SINR: 0  RSSI: 18  
+ 06/07/26 03:08:06 , NBIT: Transmission: 27900  
+ 06/07/26 03:08:06 , NBIT: Temp(C): 33  Volt(mV): 2998  Modem Power State: 1  
+ 06/07/26 03:08:07 , NBIT: Temp(C): 33  Volt(mV): 2998  Modem Power State: 2  
+ 06/07/26 03:08:18 , NBIT: Earfcn: 1391  
+ 06/07/26 03:08:18 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 06/07/26 03:08:18 , NBIT: Cell ID: 0966C149  
+ 06/07/26 03:08:18 , NBIT: RSRQ: 65528  RSRP: 65453  
+ 06/07/26 03:08:18 , NBIT: SINR: 15  RSSI: 65461  
+ 06/07/26 03:08:18 , NBIT: TAC: 6182  Band: 3  
+ 06/07/26 03:08:18 , NBIT: Opr Mode: 2  Tx Power: 100  ECL: 0  
+ 06/07/26 03:08:18 , NBIT: Sleep Duration: 0  
+ 06/07/26 03:08:18 , NBIT: Rx Time(s): 472  
+ 06/07/26 03:08:18 , NBIT: Tx Time(s): 15  
+ 06/07/26 03:08:18 , LWM2M: Request: 10376   : 0   : 6  Type: 10  Status: 0  
+ 06/07/26 03:08:19 , LWM2M: Request: 10376   : 1   : 6  Type: 10  Status: 0  
+ 06/07/26 03:08:19 , LWM2M: Request: 10377   : 0   : 3  Type: 10  Status: 0  
+ 06/07/26 03:08:19 , LWM2M: Request: 9   : 0   : 9  Type: 10  Status: 0  
+ 06/07/26 03:08:19 , LWM2M: Request: 9   : 0   : 1  Type: 10  Status: 0  
+ 06/07/26 03:08:20 , LWM2M: Request: 9   : 0   : 7  Type: 10  Status: 0  
+ 06/07/26 03:08:21 , LWM2M: Observe: 10376   : 0   : 6  Status: 0  Index: 0  
+ 06/07/26 03:08:22 , LWM2M: Observe: 10376   : 1   : 6  Status: 0  Index: 0  
+ 06/07/26 03:08:24 , LWM2M: Observe: 10377   : 0   : 3  Status: 0  Index: 0  
+ 06/07/26 03:08:25 , LWM2M: Observe: 9   : 0   : 9  Status: 0  Index: 0  
+ 06/07/26 03:08:26 , LWM2M: Observe: 9   : 0   : 1  Status: 0  Index: 0  
+ 06/07/26 03:08:28 , LWM2M: Observe: 9   : 0   : 7  Status: 0  Index: 0  
+ 06/07/26 03:08:36 , NBIT: Temp(C): 33  Volt(mV): 2998  Modem Power State: 1  
+ 06/07/26 03:08:37 , LWM2M: Notify: 9   : 0   : 1  Status: 1  Ack: 2  
+ 06/07/26 03:08:49 , NBIT: Lwm2m Recovered: 10  
+ 06/07/26 03:08:49 , NBIT: Temp(C): 33  Volt(mV): 2998  Modem Power State: 2  
+ 06/07/26 03:08:51 , NBIT: Cereg: 0  
+ 06/07/26 03:08:51 , NBIT: Cereg: 2  
+ 06/07/26 03:08:53 , NBIT: Cereg: 1  
+ 06/07/26 03:08:55 , NBIT: Cereg: 1  
+ 06/07/26 03:09:00 , NBIT: SINR: 0  RSSI: 18  
+ 06/07/26 03:09:03 , NBIT: Transmission: 27910  
+ 06/07/26 03:09:18 , NBIT: Earfcn: 1391  
+ 06/07/26 03:09:18 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 06/07/26 03:09:18 , NBIT: Cell ID: 0966C149  
+ 06/07/26 03:09:18 , NBIT: RSRQ: 65533  RSRP: 65456  
+ 06/07/26 03:09:18 , NBIT: SINR: 17  RSSI: 65459  
+ 06/07/26 03:09:18 , NBIT: TAC: 6182  Band: 3  
+ 06/07/26 03:09:18 , NBIT: Opr Mode: 0  Tx Power: 2  ECL: 0  
+ 06/07/26 03:09:18 , NBIT: CME Error: 847  BC66 SubState: 0  BC66 State: PROCESS_REQUEST_Bc66LinkState   
+ 06/07/26 03:09:18 , NBIT: Temp(C): 33  Volt(mV): 2998  Modem Power State: 1  
+ 06/07/26 03:09:19 , NBIT: Temp(C): 33  Volt(mV): 2998  Modem Error: 4  
+ 06/07/26 03:09:19 , NBIT: CME Error: 846  BC66 SubState: 0  BC66 State: PROCESS_REQUEST_Bc66LinkState   
+ 06/07/26 03:09:19 , NBIT: Temp(C): 33  Volt(mV): 2998  Modem Power State: 2  
+ 06/07/26 04:00:00 , LWM2M: Reading Next Run Time: 06/07/26 05:00:00  
+ 06/07/26 04:00:00 , LWM2M: Status Next Run Time: 07/07/26 04:00:00  
+ 06/07/26 04:05:53 , SNSR: Temp(C): 33  Volt(mV): 2998  
+ 06/07/26 04:05:53 , SNSR: Average Current (uA): 6093.75  
+ 06/07/26 05:00:00 , LWM2M: Reading Next Run Time: 06/07/26 06:00:00  
+ 06/07/26 05:05:53 , SNSR: Temp(C): 33  Volt(mV): 3005  
+ 06/07/26 05:05:53 , SNSR: Average Current (uA): 6265.6245  
+ 06/07/26 05:06:07 , FLSV: MCU Reset> Software Watchdog: 080221A6  
+ 06/07/26 05:06:07 , FLSV: Task Sleep Status Bitmap:   
+ 06/07/26 05:06:09 , NBIT: Temp(C): 32  Volt(mV): 3000  Modem Power State: 2  
+ 06/07/26 05:06:09 , LWM2M: Reading Next Run Time: 06/07/26 06:00:00  
+ 06/07/26 05:06:09 , LWM2M: Reading Next Dispatch Time: 07/07/26 02:19:01  
+ 06/07/26 05:06:09 , LWM2M: Status Next Run Time: 06/07/26 06:00:00  
+ 06/07/26 05:06:09 , LWM2M: Status Next Dispatch Time: 07/07/26 02:19:01  
+ 06/07/26 05:06:09 , LWM2M: Query Next Run Time: 07/07/26 12:00:00  
+ 06/07/26 05:06:09 , LWM2M: Query Next Dispatch Time: 07/07/26 02:19:01  
+ 06/07/26 05:06:09 , SNSR: Temp(C): 32  Volt(mV): 3000  
+ 06/07/26 05:06:09 , SNSR: Average Current (uA): 6781.2495  
+ 06/07/26 05:06:13 , NBIT: Cereg: 2  
+ 06/07/26 05:06:16 , NBIT: Cereg: 1  
+ 06/07/26 05:06:20 , NBIT: Cereg: 1  
+ 06/07/26 05:06:21 , NBIT: SINR: 0  RSSI: 19  
+ 06/07/26 05:06:29 , NBIT: Temp(C): 32  Volt(mV): 3000  Modem Power State: 1  
+ 06/07/26 05:06:30 , NBIT: Temp(C): 32  Volt(mV): 3000  Modem Power State: 2  
+ 06/07/26 05:06:40 , LWM2M: Request: 10377   : 0   : 3  Type: 10  Status: 0  
+ 06/07/26 05:06:40 , NBIT: Earfcn: 1391  
+ 06/07/26 05:06:40 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 06/07/26 05:06:40 , NBIT: Cell ID: 0966C149  
+ 06/07/26 05:06:40 , NBIT: RSRQ: 65529  RSRP: 65453  
+ 06/07/26 05:06:40 , NBIT: SINR: 14  RSSI: 65460  
+ 06/07/26 05:06:40 , NBIT: TAC: 6182  Band: 3  
+ 06/07/26 05:06:40 , NBIT: Opr Mode: 2  Tx Power: 100  ECL: 0  
+ 06/07/26 05:06:40 , NBIT: Sleep Duration: 0  
+ 06/07/26 05:06:40 , NBIT: Rx Time(s): 101  
+ 06/07/26 05:06:40 , NBIT: Tx Time(s): 4  
+ 06/07/26 05:06:40 , LWM2M: Request: 9   : 0   : 1  Type: 10  Status: 0  
+ 06/07/26 05:06:40 , LWM2M: Request: 10376   : 0   : 6  Type: 10  Status: 0  
+ 06/07/26 05:06:41 , LWM2M: Request: 10376   : 1   : 6  Type: 10  Status: 0  
+ 06/07/26 05:06:41 , LWM2M: Request: 9   : 0   : 7  Type: 10  Status: 0  
+ 06/07/26 05:06:41 , LWM2M: Observe: 10377   : 0   : 3  Status: 0  Index: 0  
+ 06/07/26 05:06:41 , LWM2M: Request: 9   : 0   : 9  Type: 10  Status: 0  
+ 06/07/26 05:06:41 , LWM2M: Observe: 9   : 0   : 1  Status: 0  Index: 0  
+ 06/07/26 05:06:43 , LWM2M: Observe: 10376   : 0   : 6  Status: 0  Index: 0  
+ 06/07/26 05:06:44 , LWM2M: Observe: 10376   : 1   : 6  Status: 0  Index: 0  
+ 06/07/26 05:06:46 , LWM2M: Observe: 9   : 0   : 7  Status: 0  Index: 0  
+ 06/07/26 05:06:46 , NBIT: Transmission: 27920  
+ 06/07/26 05:06:47 , LWM2M: Observe: 9   : 0   : 9  Status: 0  Index: 0  
+ 06/07/26 05:06:55 , NBIT: Temp(C): 32  Volt(mV): 3000  Modem Power State: 1  
+ 06/07/26 05:06:56 , LWM2M: Notify: 9   : 0   : 1  Status: 1  Ack: 2  
+ 06/07/26 05:06:56 , NBIT: Temp(C): 32  Volt(mV): 3000  Modem Power State: 1  
+ 06/07/26 05:06:57 , NBIT: Temp(C): 32  Volt(mV): 3000  Modem Power State: 2  
+ 06/07/26 05:07:00 , NBIT: Lwm2m Recovered: 0  
+ 06/07/26 05:07:05 , LWM2M: Notify: 9   : 0   : 7  Status: 0  Ack: 0  
+ 06/07/26 05:07:07 , LWM2M: Notify: 9   : 0   : 9  Status: 0  Ack: 0  
+ 06/07/26 05:07:11 , LWM2M: Notify: 10376   : 0   : 6  Status: 0  Ack: 0  
+ 06/07/26 05:07:12 , LWM2M: Notify: 10376   : 1   : 6  Status: 0  Ack: 0  
+ 06/07/26 05:07:15 , LWM2M: Notify: 10376   : 0   : 6  Status: 0  Ack: 0  
+ 06/07/26 05:07:19 , NBIT: Temp(C): 32  Volt(mV): 3000  Modem Power State: 1  
+ 06/07/26 05:07:19 , NBIT: Temp(C): 32  Volt(mV): 3000  Modem Power State: 1  
+ 06/07/26 05:20:40 , NBIT: Temp(C): 32  Volt(mV): 3000  Modem Power State: 2  
+ 06/07/26 05:20:43 , NBIT: Lwm2m Recovered: 0  
+ 06/07/26 05:20:47 , LWM2M: Notify: 9   : 0   : 1  Status: 0  Ack: 0  
+ 06/07/26 05:20:50 , LWM2M: Notify: 9   : 0   : 1  Status: 0  Ack: 0  
+ 06/07/26 05:20:54 , NBIT: Temp(C): 32  Volt(mV): 3000  Modem Power State: 1  
+ 06/07/26 05:20:55 , NBIT: Temp(C): 32  Volt(mV): 3000  Modem Power State: 1  
+ 06/07/26 06:00:00 , LWM2M: Reading Next Run Time: 06/07/26 07:00:00  
+ 06/07/26 06:00:00 , LWM2M: Status Next Run Time: 07/07/26 06:00:00  
+ 06/07/26 07:00:00 , LWM2M: Reading Next Run Time: 06/07/26 08:00:00  
+ 06/07/26 07:06:09 , SNSR: Temp(C): 31  Volt(mV): 3007  
+ 06/07/26 07:06:09 , SNSR: Average Current (uA): 484.37497  
+ 06/07/26 08:00:00 , LWM2M: Reading Next Run Time: 06/07/26 09:00:00  
+ 06/07/26 08:46:40 , LWM2M: Status Next Run Time: 06/07/26 09:00:00  
+ 06/07/26 09:00:00 , LWM2M: Reading Next Run Time: 06/07/26 10:00:00  
+ 06/07/26 09:00:00 , LWM2M: Status Next Run Time: 07/07/26 09:00:00  
+ 06/07/26 10:00:00 , LWM2M: Reading Next Run Time: 06/07/26 11:00:00  
+ 06/07/26 11:00:00 , LWM2M: Reading Next Run Time: 07/07/26 12:00:00  
+ 06/07/26 11:46:40 , LWM2M: Status Next Run Time: 07/07/26 12:00:00  
+ 07/07/26 12:00:00 , LWM2M: Reading Next Run Time: 07/07/26 01:00:00  
+ 07/07/26 12:00:00 , LWM2M: Status Next Run Time: 07/07/26 12:00:00  
+ 07/07/26 12:00:00 , LWM2M: Query Next Run Time: 08/07/26 12:00:00  
+ 07/07/26 12:00:01 , LWM2M: Query Next Run Time: 08/07/26 12:00:00  
+ 07/07/26 12:55:39 , LWM2M: Alarm Next Sample Time: 07/07/26 12:55:39  
+ 07/07/26 12:55:39 , LWM2M: Alarm Stop Sample Time: 08/07/26 12:55:39  
+ 07/07/26 01:00:00 , LWM2M: Reading Next Run Time: 07/07/26 02:00:00  
+ 07/07/26 02:00:00 , LWM2M: Reading Next Run Time: 07/07/26 03:00:00  
+ 07/07/26 02:06:09 , SNSR: Temp(C): 30  Volt(mV): 3007  
+ 07/07/26 02:06:09 , SNSR: Average Current (uA): 109.37499  
+ 07/07/26 02:19:01 , LWM2M: Reading Next Dispatch Time: 08/07/26 02:19:01  
+ 07/07/26 02:19:01 , LWM2M: Status Next Dispatch Time: 28/07/26 02:19:01  
+ 07/07/26 02:19:01 , LWM2M: Query Next Dispatch Time: 08/07/26 02:19:01  
+ 07/07/26 02:19:02 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 2  
+ 07/07/26 02:19:03 , NBIT: Cereg: 0  
+ 07/07/26 02:19:04 , NBIT: Cereg: 1  
+ 07/07/26 02:19:13 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 07/07/26 02:19:14 , LWM2M: Notify: 10376   : 0   : 6  Status: 1  Ack: 2  
+ 07/07/26 02:19:17 , NBIT: Transmission: 27930  
+ 07/07/26 02:19:26 , NBIT: Lwm2m Recovered: 10  
+ 07/07/26 02:19:26 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 2  
+ 07/07/26 02:19:27 , NBIT: Cereg: 0  
+ 07/07/26 02:19:28 , NBIT: Cereg: 2  
+ 07/07/26 02:19:29 , NBIT: Cereg: 1  
+ 07/07/26 02:19:31 , NBIT: Cereg: 1  
+ 07/07/26 02:19:36 , NBIT: SINR: 0  RSSI: 22  
+ 07/07/26 02:19:38 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 07/07/26 02:19:42 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 2  
+ 07/07/26 02:19:51 , LWM2M: Request: 10376   : 0   : 6  Type: 10  Status: 0  
+ 07/07/26 02:19:52 , NBIT: Earfcn: 1391  
+ 07/07/26 02:19:52 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 07/07/26 02:19:52 , NBIT: Cell ID: 0966C149  
+ 07/07/26 02:19:52 , NBIT: RSRQ: 65529  RSRP: 65460  
+ 07/07/26 02:19:52 , NBIT: SINR: 21  RSSI: 65467  
+ 07/07/26 02:19:52 , NBIT: TAC: 6182  Band: 3  
+ 07/07/26 02:19:52 , NBIT: Opr Mode: 2  Tx Power: 30  ECL: 0  
+ 07/07/26 02:19:52 , NBIT: Sleep Duration: 330862  
+ 07/07/26 02:19:52 , NBIT: Rx Time(s): 479  
+ 07/07/26 02:19:52 , NBIT: Tx Time(s): 15  
+ 07/07/26 02:19:52 , LWM2M: Request: 10377   : 0   : 3  Type: 10  Status: 0  
+ 07/07/26 02:19:52 , LWM2M: Request: 10376   : 1   : 6  Type: 10  Status: 0  
+ 07/07/26 02:19:52 , LWM2M: Request: 9   : 0   : 9  Type: 10  Status: 0  
+ 07/07/26 02:19:53 , LWM2M: Request: 9   : 0   : 1  Type: 10  Status: 0  
+ 07/07/26 02:19:53 , LWM2M: Request: 9   : 0   : 7  Type: 10  Status: 0  
+ 07/07/26 02:19:53 , LWM2M: Observe: 10376   : 0   : 6  Status: 0  Index: 0  
+ 07/07/26 02:19:54 , LWM2M: Observe: 10377   : 0   : 3  Status: 0  Index: 0  
+ 07/07/26 02:19:56 , LWM2M: Observe: 10376   : 1   : 6  Status: 0  Index: 0  
+ 07/07/26 02:19:57 , LWM2M: Observe: 9   : 0   : 9  Status: 0  Index: 0  
+ 07/07/26 02:19:59 , LWM2M: Observe: 9   : 0   : 1  Status: 0  Index: 0  
+ 07/07/26 02:20:00 , LWM2M: Observe: 9   : 0   : 7  Status: 0  Index: 0  
+ 07/07/26 02:20:00 , NBIT: Transmission: 27940  
+ 07/07/26 02:20:08 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 07/07/26 02:20:09 , LWM2M: Notify: 9   : 0   : 1  Status: 1  Ack: 2  
+ 07/07/26 02:20:21 , NBIT: Lwm2m Recovered: 10  
+ 07/07/26 02:20:22 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 2  
+ 07/07/26 02:20:23 , NBIT: Cereg: 0  
+ 07/07/26 02:20:24 , NBIT: Cereg: 2  
+ 07/07/26 02:20:26 , NBIT: Cereg: 1  
+ 07/07/26 02:20:27 , NBIT: Cereg: 1  
+ 07/07/26 02:20:32 , NBIT: SINR: 0  RSSI: 22  
+ 07/07/26 02:20:34 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 07/07/26 02:20:40 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 2  
+ 07/07/26 02:20:49 , LWM2M: Request: 9   : 0   : 1  Type: 10  Status: 0  
+ 07/07/26 02:20:50 , NBIT: Earfcn: 1391  
+ 07/07/26 02:20:50 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 07/07/26 02:20:50 , NBIT: Cell ID: 0966C149  
+ 07/07/26 02:20:50 , NBIT: RSRQ: 65529  RSRP: 65460  
+ 07/07/26 02:20:50 , NBIT: SINR: 20  RSSI: 65467  
+ 07/07/26 02:20:50 , NBIT: TAC: 6182  Band: 3  
+ 07/07/26 02:20:50 , NBIT: Opr Mode: 2  Tx Power: 30  ECL: 0  
+ 07/07/26 02:20:50 , NBIT: Sleep Duration: 330862  
+ 07/07/26 02:20:50 , NBIT: Rx Time(s): 647  
+ 07/07/26 02:20:50 , NBIT: Tx Time(s): 20  
+ 07/07/26 02:20:50 , LWM2M: Request: 10376   : 0   : 6  Type: 10  Status: 0  
+ 07/07/26 02:20:50 , LWM2M: Request: 10376   : 1   : 6  Type: 10  Status: 0  
+ 07/07/26 02:20:50 , LWM2M: Request: 10377   : 0   : 3  Type: 10  Status: 0  
+ 07/07/26 02:20:51 , LWM2M: Request: 9   : 0   : 9  Type: 10  Status: 0  
+ 07/07/26 02:20:51 , LWM2M: Observe: 9   : 0   : 1  Status: 0  Index: 0  
+ 07/07/26 02:20:51 , LWM2M: Request: 9   : 0   : 7  Type: 10  Status: 0  
+ 07/07/26 02:20:53 , LWM2M: Observe: 10376   : 0   : 6  Status: 0  Index: 0  
+ 07/07/26 02:20:54 , LWM2M: Observe: 10376   : 1   : 6  Status: 0  Index: 0  
+ 07/07/26 02:20:55 , LWM2M: Observe: 10377   : 0   : 3  Status: 0  Index: 0  
+ 07/07/26 02:20:57 , LWM2M: Observe: 9   : 0   : 9  Status: 0  Index: 0  
+ 07/07/26 02:20:57 , NBIT: Transmission: 27950  
+ 07/07/26 02:20:58 , LWM2M: Observe: 9   : 0   : 7  Status: 0  Index: 0  
+ 07/07/26 02:21:06 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 07/07/26 02:21:07 , LWM2M: Notify: 9   : 0   : 1  Status: 1  Ack: 2  
+ 07/07/26 02:21:19 , NBIT: Lwm2m Recovered: 10  
+ 07/07/26 02:21:20 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 2  
+ 07/07/26 02:21:21 , NBIT: Cereg: 0  
+ 07/07/26 02:21:22 , NBIT: Cereg: 2  
+ 07/07/26 02:21:23 , NBIT: Cereg: 1  
+ 07/07/26 02:21:25 , NBIT: Cereg: 1  
+ 07/07/26 02:21:30 , NBIT: SINR: 0  RSSI: 22  
+ 07/07/26 02:21:32 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 07/07/26 02:21:37 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 2  
+ 07/07/26 02:21:46 , LWM2M: Request: 10377   : 0   : 3  Type: 10  Status: 0  
+ 07/07/26 02:21:47 , NBIT: Earfcn: 1391  
+ 07/07/26 02:21:47 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 07/07/26 02:21:47 , NBIT: Cell ID: 0966C149  
+ 07/07/26 02:21:47 , NBIT: RSRQ: 65529  RSRP: 65460  
+ 07/07/26 02:21:47 , NBIT: SINR: 17  RSSI: 65468  
+ 07/07/26 02:21:47 , NBIT: TAC: 6182  Band: 3  
+ 07/07/26 02:21:47 , NBIT: Opr Mode: 2  Tx Power: 30  ECL: 0  
+ 07/07/26 02:21:47 , NBIT: Sleep Duration: 330862  
+ 07/07/26 02:21:47 , NBIT: Rx Time(s): 809  
+ 07/07/26 02:21:47 , NBIT: Tx Time(s): 26  
+ 07/07/26 02:21:47 , LWM2M: Request: 9   : 0   : 7  Type: 10  Status: 0  
+ 07/07/26 02:21:47 , LWM2M: Request: 10376   : 0   : 6  Type: 10  Status: 0  
+ 07/07/26 02:21:47 , LWM2M: Request: 10376   : 1   : 6  Type: 10  Status: 0  
+ 07/07/26 02:21:48 , LWM2M: Request: 9   : 0   : 1  Type: 10  Status: 0  
+ 07/07/26 02:21:48 , LWM2M: Observe: 10377   : 0   : 3  Status: 0  Index: 0  
+ 07/07/26 02:21:48 , LWM2M: Request: 9   : 0   : 9  Type: 10  Status: 0  
+ 07/07/26 02:21:48 , LWM2M: Observe: 9   : 0   : 7  Status: 0  Index: 0  
+ 07/07/26 02:21:50 , LWM2M: Observe: 10376   : 0   : 6  Status: 0  Index: 0  
+ 07/07/26 02:21:51 , LWM2M: Observe: 10376   : 1   : 6  Status: 0  Index: 0  
+ 07/07/26 02:21:51 , NBIT: Transmission: 27960  
+ 07/07/26 02:21:52 , LWM2M: Observe: 9   : 0   : 1  Status: 0  Index: 0  
+ 07/07/26 02:21:54 , LWM2M: Observe: 9   : 0   : 9  Status: 0  Index: 0  
+ 07/07/26 02:22:02 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 07/07/26 02:22:03 , LWM2M: Notify: 9   : 0   : 1  Status: 1  Ack: 2  
+ 07/07/26 02:22:15 , NBIT: Lwm2m Recovered: 10  
+ 07/07/26 02:22:15 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 2  
+ 07/07/26 02:22:16 , NBIT: Cereg: 0  
+ 07/07/26 02:22:17 , NBIT: Cereg: 2  
+ 07/07/26 02:22:18 , NBIT: Cereg: 1  
+ 07/07/26 02:22:20 , NBIT: Cereg: 1  
+ 07/07/26 02:22:25 , NBIT: SINR: 0  RSSI: 22  
+ 07/07/26 02:22:27 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 07/07/26 02:22:33 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 2  
+ 07/07/26 02:22:47 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 07/07/26 02:46:40 , LWM2M: Status Next Run Time: 07/07/26 03:00:00  
+ 07/07/26 03:00:00 , LWM2M: Reading Next Run Time: 07/07/26 04:00:00  
+ 07/07/26 03:00:00 , LWM2M: Status Next Run Time: 07/07/26 03:00:00  
+ 07/07/26 03:06:09 , SNSR: Temp(C): 30  Volt(mV): 3007  
+ 07/07/26 03:06:09 , SNSR: Average Current (uA): 5609.3745  
+ 07/07/26 04:00:00 , LWM2M: Reading Next Run Time: 07/07/26 05:00:00  
+ 07/07/26 04:06:09 , SNSR: Temp(C): 30  Volt(mV): 3007  
+ 07/07/26 04:06:09 , SNSR: Average Current (uA): 5671.8745  
+ 07/07/26 05:00:00 , LWM2M: Reading Next Run Time: 07/07/26 06:00:00  
+ 07/07/26 05:06:09 , SNSR: Temp(C): 30  Volt(mV): 3007  
+ 07/07/26 05:06:09 , SNSR: Average Current (uA): 5765.625  
+ 07/07/26 05:46:40 , LWM2M: Status Next Run Time: 07/07/26 06:00:00  
+ 07/07/26 06:00:00 , LWM2M: Reading Next Run Time: 07/07/26 07:00:00  
+ 07/07/26 06:00:00 , LWM2M: Status Next Run Time: 07/07/26 06:00:00  
+ 07/07/26 06:06:09 , SNSR: Temp(C): 30  Volt(mV): 3007  
+ 07/07/26 06:06:09 , SNSR: Average Current (uA): 5718.7495  
+ 07/07/26 07:00:00 , LWM2M: Reading Next Run Time: 07/07/26 08:00:00  
+ 07/07/26 07:06:09 , SNSR: Temp(C): 30  Volt(mV): 3007  
+ 07/07/26 07:06:09 , SNSR: Average Current (uA): 5749.9995  
+ 07/07/26 08:00:00 , LWM2M: Reading Next Run Time: 07/07/26 09:00:00  
+ 07/07/26 08:06:09 , SNSR: Temp(C): 30  Volt(mV): 3007  
+ 07/07/26 08:06:09 , SNSR: Average Current (uA): 5671.8745  
+ 07/07/26 08:46:40 , LWM2M: Status Next Run Time: 07/07/26 09:00:00  
+ 07/07/26 09:00:00 , LWM2M: Reading Next Run Time: 07/07/26 10:00:00  
+ 07/07/26 09:00:00 , LWM2M: Status Next Run Time: 07/07/26 09:00:00  
+ 07/07/26 09:06:09 , SNSR: Temp(C): 30  Volt(mV): 3007  
+ 07/07/26 09:06:09 , SNSR: Average Current (uA): 5625.0  
+ 07/07/26 10:00:00 , LWM2M: Reading Next Run Time: 07/07/26 11:00:00  
+ 07/07/26 10:06:09 , SNSR: Temp(C): 30  Volt(mV): 3005  
+ 07/07/26 10:06:09 , SNSR: Average Current (uA): 5625.0  
+ 07/07/26 10:19:41 , NBIT: CME Error: 33  BC66 SubState: 0  BC66 State: PROCESS_REQUEST_Bc66LinkState   
+ 07/07/26 10:19:46 , NBIT: CME Error: 33  BC66 SubState: 0  BC66 State: PROCESS_REQUEST_Bc66LinkState   
+ 07/07/26 10:19:51 , NBIT: CME Error: 33  BC66 SubState: 0  BC66 State: PROCESS_REQUEST_Bc66LinkState   
+ 07/07/26 10:19:56 , NBIT: Temp(C): 31  Volt(mV): 3009  Modem Error: 4  
+ 07/07/26 10:19:57 , NBIT: Modem Disabled. Restart Time: 08/07/26 10:19:57  
+ 07/07/26 10:19:57 , NBIT: Temp(C): 31  Volt(mV): 3009  Modem Power State: 2  
+ 07/07/26 10:19:58 , NBIT: Cereg: 0  
+ 07/07/26 10:19:58 , NBIT: Temp(C): 31  Volt(mV): 3009  Modem Power State: 0  
+ 07/07/26 11:00:00 , LWM2M: Reading Next Run Time: 07/07/26 12:00:00  
+ 07/07/26 11:46:40 , LWM2M: Status Next Run Time: 07/07/26 12:00:00  
+ 07/07/26 12:00:00 , LWM2M: Reading Next Run Time: 07/07/26 01:00:00  
+ 07/07/26 12:00:00 , LWM2M: Status Next Run Time: 08/07/26 12:00:00  
+ 07/07/26 01:00:00 , LWM2M: Reading Next Run Time: 07/07/26 02:00:00  
+ 07/07/26 02:00:00 , LWM2M: Reading Next Run Time: 07/07/26 03:00:00  
+ 07/07/26 02:46:40 , LWM2M: Status Next Run Time: 07/07/26 03:00:00  
+ 07/07/26 03:00:00 , LWM2M: Reading Next Run Time: 07/07/26 04:00:00  
+ 07/07/26 03:00:00 , LWM2M: Status Next Run Time: 08/07/26 03:00:00  
+ 07/07/26 04:00:00 , LWM2M: Reading Next Run Time: 07/07/26 05:00:00  
+ 07/07/26 05:00:00 , LWM2M: Reading Next Run Time: 07/07/26 06:00:00  
+ 07/07/26 05:06:09 , SNSR: Temp(C): 31  Volt(mV): 3007  
+ 07/07/26 05:06:09 , SNSR: Average Current (uA): 31.249998  
+ 07/07/26 05:46:40 , LWM2M: Status Next Run Time: 07/07/26 06:00:00  
+ 07/07/26 06:00:00 , LWM2M: Reading Next Run Time: 07/07/26 07:00:00  
+ 07/07/26 06:00:00 , LWM2M: Status Next Run Time: 08/07/26 06:00:00  
+ 07/07/26 07:00:00 , LWM2M: Reading Next Run Time: 07/07/26 08:00:00  
+ 07/07/26 07:06:09 , FLSV: LWM2M Readings Not Dispatched: 3  
+ 07/07/26 08:00:00 , LWM2M: Reading Next Run Time: 07/07/26 09:00:00  
+ 07/07/26 08:46:40 , LWM2M: Status Next Run Time: 07/07/26 09:00:00  
+ 07/07/26 09:00:00 , LWM2M: Reading Next Run Time: 07/07/26 10:00:00  
+ 07/07/26 09:00:00 , LWM2M: Status Next Run Time: 08/07/26 09:00:00  
+ 07/07/26 10:00:00 , LWM2M: Reading Next Run Time: 07/07/26 11:00:00  
+ 07/07/26 11:00:00 , LWM2M: Reading Next Run Time: 08/07/26 12:00:00  
+ 07/07/26 11:46:40 , LWM2M: Status Next Run Time: 08/07/26 12:00:00  
+ 08/07/26 12:00:00 , LWM2M: Reading Next Run Time: 08/07/26 01:00:00  
+ 08/07/26 12:00:00 , LWM2M: Status Next Run Time: 08/07/26 12:00:00  
+ 08/07/26 12:00:00 , LWM2M: Query Next Run Time: 09/07/26 12:00:00  
+ 08/07/26 12:00:01 , LWM2M: Query Next Run Time: 09/07/26 12:00:00  
+ 08/07/26 12:55:39 , LWM2M: Alarm Next Sample Time: 08/07/26 12:55:39  
+ 08/07/26 12:55:39 , LWM2M: Alarm Stop Sample Time: 09/07/26 12:55:39  
+ 08/07/26 01:00:00 , LWM2M: Reading Next Run Time: 08/07/26 02:00:00  
+ 08/07/26 02:00:00 , LWM2M: Reading Next Run Time: 08/07/26 03:00:00  
+ 08/07/26 02:19:01 , LWM2M: Reading Next Dispatch Time: 09/07/26 02:19:01  
+ 08/07/26 02:19:01 , LWM2M: Query Next Dispatch Time: 09/07/26 02:19:01  
+ 08/07/26 02:46:40 , LWM2M: Status Next Run Time: 08/07/26 03:00:00  
+ 08/07/26 03:00:00 , LWM2M: Reading Next Run Time: 08/07/26 04:00:00  
+ 08/07/26 03:00:00 , LWM2M: Status Next Run Time: 08/07/26 03:00:00  
+ 08/07/26 04:00:00 , LWM2M: Reading Next Run Time: 08/07/26 05:00:00  
+ 08/07/26 05:00:00 , LWM2M: Reading Next Run Time: 08/07/26 06:00:00  
+ 08/07/26 05:06:09 , SNSR: Temp(C): 29  Volt(mV): 3007  
+ 08/07/26 05:06:09 , SNSR: Average Current (uA): 15.624999  
+ 08/07/26 05:46:40 , LWM2M: Status Next Run Time: 08/07/26 06:00:00  
+ 08/07/26 06:00:00 , LWM2M: Reading Next Run Time: 08/07/26 07:00:00  
+ 08/07/26 06:00:00 , LWM2M: Status Next Run Time: 08/07/26 06:00:00  
+ 08/07/26 07:00:00 , LWM2M: Reading Next Run Time: 08/07/26 08:00:00  
+ 08/07/26 08:00:00 , LWM2M: Reading Next Run Time: 08/07/26 09:00:00  
+ 08/07/26 08:06:09 , FLSV: LWM2M Readings Not Dispatched: 3  
+ 08/07/26 08:46:40 , LWM2M: Status Next Run Time: 08/07/26 09:00:00  
+ 08/07/26 09:00:00 , LWM2M: Reading Next Run Time: 08/07/26 10:00:00  
+ 08/07/26 09:00:00 , LWM2M: Status Next Run Time: 08/07/26 09:00:00  
+ 08/07/26 10:00:00 , LWM2M: Reading Next Run Time: 08/07/26 11:00:00  
+ 08/07/26 10:19:59 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 2  
+ 08/07/26 10:20:02 , NBIT: Cereg: 2  
+ 08/07/26 10:20:05 , NBIT: Cereg: 1  
+ 08/07/26 10:20:10 , NBIT: Cereg: 1  
+ 08/07/26 10:20:11 , NBIT: SINR: 0  RSSI: 20  
+ 08/07/26 10:20:20 , LWM2M: Request: 10376   : 0   : 6  Type: 10  Status: 0  
+ 08/07/26 10:20:21 , NBIT: Earfcn: 1391  
+ 08/07/26 10:20:21 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 08/07/26 10:20:21 , NBIT: Cell ID: 0966C149  
+ 08/07/26 10:20:21 , NBIT: RSRQ: 65529  RSRP: 65458  
+ 08/07/26 10:20:21 , NBIT: SINR: 15  RSSI: 65465  
+ 08/07/26 10:20:21 , NBIT: TAC: 6182  Band: 3  
+ 08/07/26 10:20:21 , NBIT: Opr Mode: 2  Tx Power: 50  ECL: 0  
+ 08/07/26 10:20:21 , NBIT: Sleep Duration: 0  
+ 08/07/26 10:20:21 , NBIT: Rx Time(s): 62  
+ 08/07/26 10:20:21 , NBIT: Tx Time(s): 2  
+ 08/07/26 10:20:21 , LWM2M: Request: 10376   : 1   : 6  Type: 10  Status: 0  
+ 08/07/26 10:20:21 , LWM2M: Request: 9   : 0   : 1  Type: 10  Status: 0  
+ 08/07/26 10:20:21 , LWM2M: Request: 9   : 0   : 7  Type: 10  Status: 0  
+ 08/07/26 10:20:22 , LWM2M: Request: 10377   : 0   : 3  Type: 10  Status: 0  
+ 08/07/26 10:20:22 , LWM2M: Request: 9   : 0   : 9  Type: 10  Status: 0  
+ 08/07/26 10:20:23 , LWM2M: Observe: 10376   : 0   : 6  Status: 0  Index: 0  
+ 08/07/26 10:20:24 , NBIT: Transmission: 27970  
+ 08/07/26 10:20:25 , LWM2M: Observe: 10376   : 1   : 6  Status: 0  Index: 0  
+ 08/07/26 10:20:26 , LWM2M: Observe: 9   : 0   : 1  Status: 0  Index: 0  
+ 08/07/26 10:20:28 , LWM2M: Observe: 9   : 0   : 7  Status: 0  Index: 0  
+ 08/07/26 10:20:29 , LWM2M: Observe: 10377   : 0   : 3  Status: 0  Index: 0  
+ 08/07/26 10:20:30 , LWM2M: Observe: 9   : 0   : 9  Status: 0  Index: 0  
+ 08/07/26 10:20:33 , LWM2M: Notify: 9   : 0   : 1  Status: 0  Ack: 0  
+ 08/07/26 10:20:35 , LWM2M: Notify: 9   : 0   : 7  Status: 0  Ack: 0  
+ 08/07/26 10:20:36 , LWM2M: Notify: 9   : 0   : 9  Status: 0  Ack: 0  
+ 08/07/26 10:20:38 , LWM2M: Notify: 10376   : 0   : 6  Status: 0  Ack: 0  
+ 08/07/26 10:20:41 , LWM2M: Notify: 10376   : 1   : 6  Status: 0  Ack: 0  
+ 08/07/26 10:20:41 , NBIT: Transmission: 27980  
+ 08/07/26 10:20:43 , LWM2M: Notify: 10376   : 0   : 6  Status: 0  Ack: 0  
+ 08/07/26 10:20:45 , LWM2M: Notify: 10376   : 0   : 6  Status: 0  Ack: 0  
+ 08/07/26 10:20:52 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 08/07/26 10:20:53 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 08/07/26 11:00:00 , LWM2M: Reading Next Run Time: 08/07/26 12:00:00  
+ 08/07/26 11:46:40 , LWM2M: Status Next Run Time: 08/07/26 12:00:00  
+ 08/07/26 12:00:00 , LWM2M: Reading Next Run Time: 08/07/26 01:00:00  
+ 08/07/26 12:00:00 , LWM2M: Status Next Run Time: 09/07/26 12:00:00  
+ 08/07/26 01:00:00 , LWM2M: Reading Next Run Time: 08/07/26 02:00:00  
+ 08/07/26 02:00:00 , LWM2M: Reading Next Run Time: 08/07/26 03:00:00  
+ 08/07/26 02:46:40 , LWM2M: Status Next Run Time: 08/07/26 03:00:00  
+ 08/07/26 03:00:00 , LWM2M: Reading Next Run Time: 08/07/26 04:00:00  
+ 08/07/26 03:00:00 , LWM2M: Status Next Run Time: 09/07/26 03:00:00  
+ 08/07/26 04:00:00 , LWM2M: Reading Next Run Time: 08/07/26 05:00:00  
+ 08/07/26 05:00:00 , LWM2M: Reading Next Run Time: 08/07/26 06:00:00  
+ 08/07/26 05:06:10 , SNSR: Temp(C): 34  Volt(mV): 3007  
+ 08/07/26 05:06:10 , SNSR: Average Current (uA): -15.624999  
+ 08/07/26 05:46:40 , LWM2M: Status Next Run Time: 08/07/26 06:00:00  
+ 08/07/26 06:00:00 , LWM2M: Reading Next Run Time: 08/07/26 07:00:00  
+ 08/07/26 06:00:00 , LWM2M: Status Next Run Time: 09/07/26 06:00:00  
+ 08/07/26 07:00:00 , LWM2M: Reading Next Run Time: 08/07/26 08:00:00  
+ 08/07/26 08:00:00 , LWM2M: Reading Next Run Time: 08/07/26 09:00:00  
+ 08/07/26 08:46:40 , LWM2M: Status Next Run Time: 08/07/26 09:00:00  
+ 08/07/26 09:00:00 , LWM2M: Reading Next Run Time: 08/07/26 10:00:00  
+ 08/07/26 09:00:00 , LWM2M: Status Next Run Time: 09/07/26 09:00:00  
+ 08/07/26 10:00:00 , LWM2M: Reading Next Run Time: 08/07/26 11:00:00  
+ 08/07/26 11:00:00 , LWM2M: Reading Next Run Time: 09/07/26 12:00:00  
+ 08/07/26 11:46:40 , LWM2M: Status Next Run Time: 09/07/26 12:00:00  
+ 09/07/26 12:00:00 , LWM2M: Reading Next Run Time: 09/07/26 01:00:00  
+ 09/07/26 12:00:00 , LWM2M: Status Next Run Time: 09/07/26 12:00:00  
+ 09/07/26 12:00:00 , LWM2M: Query Next Run Time: 10/07/26 12:00:00  
+ 09/07/26 12:00:01 , LWM2M: Query Next Run Time: 10/07/26 12:00:00  
+ 09/07/26 12:55:39 , LWM2M: Alarm Next Sample Time: 09/07/26 12:55:39  
+ 09/07/26 12:55:39 , LWM2M: Alarm Stop Sample Time: 10/07/26 12:55:39  
+ 09/07/26 01:00:00 , LWM2M: Reading Next Run Time: 09/07/26 02:00:00  
+ 09/07/26 02:00:00 , LWM2M: Reading Next Run Time: 09/07/26 03:00:00  
+ 09/07/26 02:19:01 , LWM2M: Reading Next Dispatch Time: 10/07/26 02:19:01  
+ 09/07/26 02:19:01 , LWM2M: Query Next Dispatch Time: 10/07/26 02:19:01  
+ 09/07/26 02:19:02 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 2  
+ 09/07/26 02:19:03 , NBIT: Cereg: 0  
+ 09/07/26 02:19:04 , NBIT: Cereg: 1  
+ 09/07/26 02:19:12 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 09/07/26 02:19:12 , LWM2M: Notify: 10376   : 0   : 6  Status: 1  Ack: 2  
+ 09/07/26 02:31:42 , NBIT: Lwm2m Recovered: 10  
+ 09/07/26 02:31:42 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 2  
+ 09/07/26 02:31:43 , NBIT: Cereg: 0  
+ 09/07/26 02:31:44 , NBIT: Cereg: 2  
+ 09/07/26 02:31:46 , NBIT: Cereg: 1  
+ 09/07/26 02:31:47 , NBIT: Cereg: 1  
+ 09/07/26 02:31:52 , NBIT: SINR: 0  RSSI: 22  
+ 09/07/26 02:31:55 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 09/07/26 02:31:56 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 2  
+ 09/07/26 02:32:12 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 09/07/26 02:32:13 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 2  
+ 09/07/26 02:32:15 , NBIT: Earfcn: 1391  
+ 09/07/26 02:32:15 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 09/07/26 02:32:15 , NBIT: Cell ID: 0966C149  
+ 09/07/26 02:32:15 , NBIT: RSRQ: 65529  RSRP: 65461  
+ 09/07/26 02:32:15 , NBIT: SINR: 21  RSSI: 65468  
+ 09/07/26 02:32:15 , NBIT: TAC: 6182  Band: 3  
+ 09/07/26 02:32:15 , NBIT: Opr Mode: 2  Tx Power: 20  ECL: 0  
+ 09/07/26 02:32:15 , NBIT: Sleep Duration: 574923  
+ 09/07/26 02:32:15 , NBIT: Rx Time(s): 372  
+ 09/07/26 02:32:15 , NBIT: Tx Time(s): 11  
+ 09/07/26 02:32:15 , LWM2M: Request: 10376   : 0   : 6  Type: 10  Status: 0  
+ 09/07/26 02:32:15 , LWM2M: Request: 10376   : 1   : 6  Type: 10  Status: 0  
+ 09/07/26 02:32:16 , LWM2M: Request: 10377   : 0   : 3  Type: 10  Status: 0  
+ 09/07/26 02:32:16 , LWM2M: Request: 9   : 0   : 1  Type: 10  Status: 0  
+ 09/07/26 02:32:16 , LWM2M: Request: 9   : 0   : 9  Type: 10  Status: 0  
+ 09/07/26 02:32:17 , LWM2M: Request: 9   : 0   : 7  Type: 10  Status: 0  
+ 09/07/26 02:32:17 , LWM2M: Observe: 10376   : 0   : 6  Status: 0  Index: 0  
+ 09/07/26 02:32:18 , LWM2M: Observe: 10376   : 1   : 6  Status: 0  Index: 0  
+ 09/07/26 02:32:19 , LWM2M: Observe: 10377   : 0   : 3  Status: 0  Index: 0  
+ 09/07/26 02:32:20 , NBIT: Transmission: 27990  
+ 09/07/26 02:32:21 , LWM2M: Observe: 9   : 0   : 1  Status: 0  Index: 0  
+ 09/07/26 02:32:22 , LWM2M: Observe: 9   : 0   : 9  Status: 0  Index: 0  
+ 09/07/26 02:32:24 , LWM2M: Observe: 9   : 0   : 7  Status: 0  Index: 0  
+ 09/07/26 02:32:29 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 09/07/26 02:32:30 , LWM2M: Notify: 9   : 0   : 1  Status: 1  Ack: 2  
+ 09/07/26 02:32:42 , NBIT: Lwm2m Recovered: 10  
+ 09/07/26 02:32:42 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 2  
+ 09/07/26 02:32:43 , NBIT: Cereg: 0  
+ 09/07/26 02:32:44 , NBIT: Cereg: 2  
+ 09/07/26 02:32:46 , NBIT: Cereg: 1  
+ 09/07/26 02:32:47 , NBIT: Cereg: 1  
+ 09/07/26 02:32:52 , NBIT: SINR: 0  RSSI: 22  
+ 09/07/26 02:32:54 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 09/07/26 02:32:59 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 2  
+ 09/07/26 02:33:07 , LWM2M: Request: 10376   : 1   : 6  Type: 10  Status: 0  
+ 09/07/26 02:33:08 , NBIT: Earfcn: 1391  
+ 09/07/26 02:33:08 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 09/07/26 02:33:08 , NBIT: Cell ID: 0966C149  
+ 09/07/26 02:33:08 , NBIT: RSRQ: 65529  RSRP: 65461  
+ 09/07/26 02:33:08 , NBIT: SINR: 22  RSSI: 65468  
+ 09/07/26 02:33:08 , NBIT: TAC: 6182  Band: 3  
+ 09/07/26 02:33:08 , NBIT: Opr Mode: 2  Tx Power: 0  ECL: 0  
+ 09/07/26 02:33:08 , NBIT: Sleep Duration: 574923  
+ 09/07/26 02:33:08 , NBIT: Rx Time(s): 536  
+ 09/07/26 02:33:08 , NBIT: Tx Time(s): 16  
+ 09/07/26 02:33:08 , LWM2M: Request: 9   : 0   : 9  Type: 10  Status: 0  
+ 09/07/26 02:33:08 , LWM2M: Request: 10376   : 0   : 6  Type: 10  Status: 0  
+ 09/07/26 02:33:09 , LWM2M: Request: 10377   : 0   : 3  Type: 10  Status: 0  
+ 09/07/26 02:33:09 , LWM2M: Request: 9   : 0   : 1  Type: 10  Status: 0  
+ 09/07/26 02:33:09 , LWM2M: Observe: 10376   : 1   : 6  Status: 0  Index: 0  
+ 09/07/26 02:33:09 , LWM2M: Request: 9   : 0   : 7  Type: 10  Status: 0  
+ 09/07/26 02:33:09 , LWM2M: Observe: 9   : 0   : 9  Status: 0  Index: 0  
+ 09/07/26 02:33:09 , NBIT: Transmission: 28000  
+ 09/07/26 02:33:11 , LWM2M: Observe: 10376   : 0   : 6  Status: 0  Index: 0  
+ 09/07/26 02:33:12 , LWM2M: Observe: 10377   : 0   : 3  Status: 0  Index: 0  
+ 09/07/26 02:33:13 , LWM2M: Observe: 9   : 0   : 1  Status: 0  Index: 0  
+ 09/07/26 02:33:15 , LWM2M: Observe: 9   : 0   : 7  Status: 0  Index: 0  
+ 09/07/26 02:33:24 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 09/07/26 02:33:24 , LWM2M: Notify: 9   : 0   : 1  Status: 1  Ack: 2  
+ 09/07/26 02:33:36 , NBIT: Lwm2m Recovered: 10  
+ 09/07/26 02:33:36 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 2  
+ 09/07/26 02:33:38 , NBIT: Cereg: 0  
+ 09/07/26 02:33:38 , NBIT: Cereg: 2  
+ 09/07/26 02:33:41 , NBIT: Cereg: 1  
+ 09/07/26 02:33:42 , NBIT: Cereg: 1  
+ 09/07/26 02:33:47 , NBIT: SINR: 0  RSSI: 24  
+ 09/07/26 02:33:49 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 09/07/26 02:33:54 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 2  
+ 09/07/26 02:34:03 , LWM2M: Request: 10376   : 0   : 6  Type: 10  Status: 0  
+ 09/07/26 02:34:04 , NBIT: Earfcn: 1391  
+ 09/07/26 02:34:04 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 09/07/26 02:34:04 , NBIT: Cell ID: 0966C149  
+ 09/07/26 02:34:04 , NBIT: RSRQ: 65529  RSRP: 65461  
+ 09/07/26 02:34:04 , NBIT: SINR: 21  RSSI: 65468  
+ 09/07/26 02:34:04 , NBIT: TAC: 6182  Band: 3  
+ 09/07/26 02:34:04 , NBIT: Opr Mode: 2  Tx Power: 20  ECL: 0  
+ 09/07/26 02:34:04 , NBIT: Sleep Duration: 574923  
+ 09/07/26 02:34:04 , NBIT: Rx Time(s): 702  
+ 09/07/26 02:34:04 , NBIT: Tx Time(s): 22  
+ 09/07/26 02:34:04 , LWM2M: Request: 9   : 0   : 7  Type: 10  Status: 0  
+ 09/07/26 02:34:04 , LWM2M: Request: 10376   : 1   : 6  Type: 10  Status: 0  
+ 09/07/26 02:34:04 , LWM2M: Request: 9   : 0   : 1  Type: 10  Status: 0  
+ 09/07/26 02:34:05 , LWM2M: Request: 9   : 0   : 9  Type: 10  Status: 0  
+ 09/07/26 02:34:05 , LWM2M: Request: 10377   : 0   : 3  Type: 10  Status: 0  
+ 09/07/26 02:34:15 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 09/07/26 02:35:34 , NBIT: Transmission Failed: 305  
+ 09/07/26 02:35:38 , NBIT: Transmission: 28010  
+ 09/07/26 02:35:39 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 2  
+ 09/07/26 02:35:39 , LWM2M: Observe: 9   : 0   : 7  Status: 0  Index: 0  
+ 09/07/26 02:35:40 , LWM2M: Observe: 10376   : 1   : 6  Status: 0  Index: 0  
+ 09/07/26 02:35:41 , LWM2M: Observe: 9   : 0   : 1  Status: 0  Index: 0  
+ 09/07/26 02:35:43 , LWM2M: Observe: 9   : 0   : 9  Status: 0  Index: 0  
+ 09/07/26 02:35:44 , LWM2M: Observe: 10377   : 0   : 3  Status: 0  Index: 0  
+ 09/07/26 02:35:50 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 09/07/26 02:35:50 , LWM2M: Notify: 9   : 0   : 1  Status: 1  Ack: 2  
+ 09/07/26 02:36:03 , NBIT: Lwm2m Recovered: 10  
+ 09/07/26 02:36:03 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 2  
+ 09/07/26 02:36:04 , NBIT: Cereg: 0  
+ 09/07/26 02:36:05 , NBIT: Cereg: 2  
+ 09/07/26 02:36:06 , NBIT: Cereg: 1  
+ 09/07/26 02:36:08 , NBIT: Cereg: 1  
+ 09/07/26 02:36:13 , NBIT: SINR: 0  RSSI: 22  
+ 09/07/26 02:36:15 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 09/07/26 02:36:21 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 2  
+ 09/07/26 02:36:35 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 09/07/26 02:46:40 , LWM2M: Status Next Run Time: 09/07/26 03:00:00  
+ 09/07/26 03:00:00 , LWM2M: Reading Next Run Time: 09/07/26 04:00:00  
+ 09/07/26 03:00:00 , LWM2M: Status Next Run Time: 09/07/26 03:00:00  
+ 09/07/26 03:06:10 , SNSR: Temp(C): 30  Volt(mV): 3007  
+ 09/07/26 03:06:10 , SNSR: Average Current (uA): 5718.7495  
+ 09/07/26 04:00:00 , LWM2M: Reading Next Run Time: 09/07/26 05:00:00  
+ 09/07/26 04:06:10 , SNSR: Temp(C): 0  Volt(mV): 0  
+ 09/07/26 04:06:10 , SNSR: Average Current (uA): 5531.2495  
+ 09/07/26 05:00:00 , LWM2M: Reading Next Run Time: 09/07/26 06:00:00  
+ 09/07/26 05:06:10 , SNSR: Temp(C): 30  Volt(mV): 3009  
+ 09/07/26 05:06:10 , SNSR: Average Current (uA): 5765.625  
+ 09/07/26 05:46:40 , LWM2M: Status Next Run Time: 09/07/26 06:00:00  
+ 09/07/26 06:00:00 , LWM2M: Reading Next Run Time: 09/07/26 07:00:00  
+ 09/07/26 06:00:00 , LWM2M: Status Next Run Time: 09/07/26 06:00:00  
+ 09/07/26 06:06:10 , SNSR: Temp(C): 29  Volt(mV): 3005  
+ 09/07/26 06:06:10 , SNSR: Average Current (uA): 5578.1245  
+ 09/07/26 07:00:00 , LWM2M: Reading Next Run Time: 09/07/26 08:00:00  
+ 09/07/26 07:06:10 , SNSR: Temp(C): 0  Volt(mV): 0  
+ 09/07/26 07:06:10 , SNSR: Average Current (uA): 5781.2495  
+ 09/07/26 08:00:00 , LWM2M: Reading Next Run Time: 09/07/26 09:00:00  
+ 09/07/26 08:06:10 , SNSR: Temp(C): 0  Volt(mV): 0  
+ 09/07/26 08:06:10 , SNSR: Average Current (uA): 5609.3745  
+ 09/07/26 08:46:40 , LWM2M: Status Next Run Time: 09/07/26 09:00:00  
+ 09/07/26 09:00:00 , LWM2M: Reading Next Run Time: 09/07/26 10:00:00  
+ 09/07/26 09:00:00 , LWM2M: Status Next Run Time: 09/07/26 09:00:00  
+ 09/07/26 09:06:10 , SNSR: Temp(C): 0  Volt(mV): 0  
+ 09/07/26 09:06:10 , SNSR: Average Current (uA): 5656.25  
+ 09/07/26 10:00:00 , LWM2M: Reading Next Run Time: 09/07/26 11:00:00  
+ 09/07/26 10:06:10 , SNSR: Temp(C): 0  Volt(mV): 0  
+ 09/07/26 10:06:10 , SNSR: Average Current (uA): 5593.7495  
+ 09/07/26 10:31:58 , NBIT: CME Error: 33  BC66 SubState: 0  BC66 State: PROCESS_REQUEST_Bc66LinkState   
+ 09/07/26 10:32:03 , NBIT: CME Error: 33  BC66 SubState: 0  BC66 State: PROCESS_REQUEST_Bc66LinkState   
+ 09/07/26 10:32:08 , NBIT: CME Error: 33  BC66 SubState: 0  BC66 State: PROCESS_REQUEST_Bc66LinkState   
+ 09/07/26 10:32:13 , NBIT: Temp(C): 0  Volt(mV): 0  Modem Error: 4  
+ 09/07/26 10:32:13 , NBIT: Modem Disabled. Restart Time: 10/07/26 10:32:13  
+ 09/07/26 10:32:13 , NBIT: Temp(C): 0  Volt(mV): 0  Modem Power State: 2  
+ 09/07/26 10:32:14 , NBIT: Cereg: 0  
+ 09/07/26 10:32:14 , NBIT: Temp(C): 0  Volt(mV): 0  Modem Power State: 0  
+ 09/07/26 11:00:00 , LWM2M: Reading Next Run Time: 09/07/26 12:00:00  
+ 09/07/26 11:46:40 , LWM2M: Status Next Run Time: 09/07/26 12:00:00  
+ 09/07/26 12:00:00 , LWM2M: Reading Next Run Time: 09/07/26 01:00:00  
+ 09/07/26 12:00:00 , LWM2M: Status Next Run Time: 10/07/26 12:00:00  
+ 09/07/26 12:06:10 , FLSV: LWM2M Readings Not Dispatched: 3  
+ 09/07/26 01:00:00 , LWM2M: Reading Next Run Time: 09/07/26 02:00:00  
+ 09/07/26 02:00:00 , LWM2M: Reading Next Run Time: 09/07/26 03:00:00  
+ 09/07/26 02:06:10 , SNSR: Temp(C): 35  Volt(mV): 3007  
+ 09/07/26 02:06:10 , SNSR: Average Current (uA): 2046.875  
+ 09/07/26 02:46:40 , LWM2M: Status Next Run Time: 09/07/26 03:00:00  
+ 09/07/26 03:00:00 , LWM2M: Reading Next Run Time: 09/07/26 04:00:00  
+ 09/07/26 03:00:00 , LWM2M: Status Next Run Time: 10/07/26 03:00:00  
+ 09/07/26 04:00:00 , LWM2M: Reading Next Run Time: 09/07/26 05:00:00  
+ 09/07/26 05:00:00 , LWM2M: Reading Next Run Time: 09/07/26 06:00:00  
+ 09/07/26 05:06:10 , SNSR: Temp(C): 34  Volt(mV): 3007  
+ 09/07/26 05:06:10 , SNSR: Average Current (uA): 46.874996  
+ 09/07/26 05:46:40 , LWM2M: Status Next Run Time: 09/07/26 06:00:00  
+ 09/07/26 06:00:00 , LWM2M: Reading Next Run Time: 09/07/26 07:00:00  
+ 09/07/26 06:00:00 , LWM2M: Status Next Run Time: 10/07/26 06:00:00  
+ 09/07/26 07:00:00 , LWM2M: Reading Next Run Time: 09/07/26 08:00:00  
+ 09/07/26 08:00:00 , LWM2M: Reading Next Run Time: 09/07/26 09:00:00  
+ 09/07/26 08:46:40 , LWM2M: Status Next Run Time: 09/07/26 09:00:00  
+ 09/07/26 09:00:00 , LWM2M: Reading Next Run Time: 09/07/26 10:00:00  
+ 09/07/26 09:00:00 , LWM2M: Status Next Run Time: 10/07/26 09:00:00  
+ 09/07/26 10:00:00 , LWM2M: Reading Next Run Time: 09/07/26 11:00:00  
+ 09/07/26 11:00:00 , LWM2M: Reading Next Run Time: 10/07/26 12:00:00  
+ 09/07/26 11:46:40 , LWM2M: Status Next Run Time: 10/07/26 12:00:00  
+ 10/07/26 12:00:00 , LWM2M: Reading Next Run Time: 10/07/26 01:00:00  
+ 10/07/26 12:00:00 , LWM2M: Status Next Run Time: 10/07/26 12:00:00  
+ 10/07/26 12:00:00 , LWM2M: Query Next Run Time: 11/07/26 12:00:00  
+ 10/07/26 12:00:01 , LWM2M: Query Next Run Time: 11/07/26 12:00:00  
+ 10/07/26 12:55:39 , LWM2M: Alarm Next Sample Time: 10/07/26 12:55:39  
+ 10/07/26 12:55:39 , LWM2M: Alarm Stop Sample Time: 11/07/26 12:55:39  
+ 10/07/26 01:00:00 , LWM2M: Reading Next Run Time: 10/07/26 02:00:00  
+ 10/07/26 01:06:10 , FLSV: LWM2M Readings Not Dispatched: 3  
+ 10/07/26 02:00:00 , LWM2M: Reading Next Run Time: 10/07/26 03:00:00  
+ 10/07/26 02:19:01 , LWM2M: Reading Next Dispatch Time: 11/07/26 02:19:01  
+ 10/07/26 02:19:01 , LWM2M: Query Next Dispatch Time: 11/07/26 02:19:01  
+ 10/07/26 02:46:40 , LWM2M: Status Next Run Time: 10/07/26 03:00:00  
+ 10/07/26 03:00:00 , LWM2M: Reading Next Run Time: 10/07/26 04:00:00  
+ 10/07/26 03:00:00 , LWM2M: Status Next Run Time: 10/07/26 03:00:00  
+ 10/07/26 04:00:00 , LWM2M: Reading Next Run Time: 10/07/26 05:00:00  
+ 10/07/26 05:00:00 , LWM2M: Reading Next Run Time: 10/07/26 06:00:00  
+ 10/07/26 05:06:10 , SNSR: Temp(C): 30  Volt(mV): 3009  
+ 10/07/26 05:06:10 , SNSR: Average Current (uA): 62.499996  
+ 10/07/26 05:46:40 , LWM2M: Status Next Run Time: 10/07/26 06:00:00  
+ 10/07/26 06:00:00 , LWM2M: Reading Next Run Time: 10/07/26 07:00:00  
+ 10/07/26 06:00:00 , LWM2M: Status Next Run Time: 10/07/26 06:00:00  
+ 10/07/26 07:00:00 , LWM2M: Reading Next Run Time: 10/07/26 08:00:00  
+ 10/07/26 07:06:10 , SNSR: Temp(C): 30  Volt(mV): 3007  
+ 10/07/26 07:06:10 , SNSR: Average Current (uA): 109.37499  
+ 10/07/26 08:00:00 , LWM2M: Reading Next Run Time: 10/07/26 09:00:00  
+ 10/07/26 08:46:40 , LWM2M: Status Next Run Time: 10/07/26 09:00:00  
+ 10/07/26 09:00:00 , LWM2M: Reading Next Run Time: 10/07/26 10:00:00  
+ 10/07/26 09:00:00 , LWM2M: Status Next Run Time: 10/07/26 09:00:00  
+ 10/07/26 10:00:00 , LWM2M: Reading Next Run Time: 10/07/26 11:00:00  
+ 10/07/26 10:32:15 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 2  
+ 10/07/26 10:32:18 , NBIT: Cereg: 2  
+ 10/07/26 10:32:22 , NBIT: Cereg: 1  
+ 10/07/26 10:32:26 , NBIT: Cereg: 1  
+ 10/07/26 10:32:27 , NBIT: SINR: 0  RSSI: 18  
+ 10/07/26 10:32:33 , NBIT: Transmission: 28020  
+ 10/07/26 10:32:36 , NBIT: Earfcn: 1391  
+ 10/07/26 10:32:36 , NBIT: Pci: 5  EarfcnOffset: 1  
+ 10/07/26 10:32:36 , NBIT: Cell ID: 0966C149  
+ 10/07/26 10:32:36 , NBIT: RSRQ: 65529  RSRP: 65456  
+ 10/07/26 10:32:36 , NBIT: SINR: 19  RSSI: 65463  
+ 10/07/26 10:32:36 , NBIT: TAC: 6182  Band: 3  
+ 10/07/26 10:32:36 , NBIT: Opr Mode: 2  Tx Power: 80  ECL: 0  
+ 10/07/26 10:32:36 , NBIT: Sleep Duration: 0  
+ 10/07/26 10:32:36 , NBIT: Rx Time(s): 61  
+ 10/07/26 10:32:36 , NBIT: Tx Time(s): 2  
+ 10/07/26 10:32:36 , LWM2M: Request: 10376   : 1   : 6  Type: 10  Status: 0  
+ 10/07/26 10:32:36 , LWM2M: Request: 9   : 0   : 1  Type: 10  Status: 0  
+ 10/07/26 10:32:37 , LWM2M: Request: 10376   : 0   : 6  Type: 10  Status: 0  
+ 10/07/26 10:32:37 , LWM2M: Request: 10377   : 0   : 3  Type: 10  Status: 0  
+ 10/07/26 10:32:37 , LWM2M: Observe: 10376   : 1   : 6  Status: 0  Index: 0  
+ 10/07/26 10:32:37 , LWM2M: Request: 9   : 0   : 9  Type: 10  Status: 0  
+ 10/07/26 10:32:37 , LWM2M: Observe: 9   : 0   : 1  Status: 0  Index: 0  
+ 10/07/26 10:32:38 , LWM2M: Request: 9   : 0   : 7  Type: 10  Status: 0  
+ 10/07/26 10:32:39 , LWM2M: Observe: 10376   : 0   : 6  Status: 0  Index: 0  
+ 10/07/26 10:32:40 , LWM2M: Observe: 10377   : 0   : 3  Status: 0  Index: 0  
+ 10/07/26 10:32:42 , LWM2M: Observe: 9   : 0   : 9  Status: 0  Index: 0  
+ 10/07/26 10:32:43 , LWM2M: Observe: 9   : 0   : 7  Status: 0  Index: 0  
+ 10/07/26 10:32:45 , LWM2M: Notify: 9   : 0   : 1  Status: 0  Ack: 0  
+ 10/07/26 10:32:48 , LWM2M: Notify: 9   : 0   : 7  Status: 0  Ack: 0  
+ 10/07/26 10:32:48 , NBIT: Transmission: 28030  
+ 10/07/26 10:32:50 , LWM2M: Notify: 9   : 0   : 9  Status: 0  Ack: 0  
+ 10/07/26 10:32:53 , LWM2M: Notify: 10376   : 0   : 6  Status: 0  Ack: 0  
+ 10/07/26 10:32:55 , LWM2M: Notify: 10376   : 1   : 6  Status: 0  Ack: 0  
+ 10/07/26 10:32:57 , LWM2M: Notify: 10377   : 0   : 3  Status: 0  Ack: 0  
+ 10/07/26 10:33:00 , LWM2M: Notify: 10376   : 0   : 6  Status: 0  Ack: 0  
+ 10/07/26 10:33:02 , LWM2M: Notify: 10376   : 0   : 6  Status: 0  Ack: 0  
+ 10/07/26 10:33:09 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 10/07/26 10:33:10 , NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: 1  
+ 10/07/26 11:00:00 , LWM2M: Reading Next Run Time: 10/07/26 12:00:00  
+ 10/07/26 11:46:40 , LWM2M: Status Next Run Time: 10/07/26 12:00:00  
+ 10/07/26 12:00:00 , LWM2M: Reading Next Run Time: 10/07/26 01:00:00  
+ 10/07/26 12:00:00 , LWM2M: Status Next Run Time: 11/07/26 12:00:00  
+ 10/07/26 01:00:00 , LWM2M: Reading Next Run Time: 10/07/26 02:00:00  
+ 10/07/26 01:52:10 , NBIT: Temp(C): 37  Volt(mV): 3007  Modem Power State: 2  
+ 10/07/26 01:52:11 , NBIT: Cereg: 0  
+ 10/07/26 01:52:12 , NBIT: Cereg: 1  
+ 10/07/26 01:52:20 , NBIT: Temp(C): 37  Volt(mV): 3007  Modem Power State: 1  
+ 10/07/26 01:52:21 , LWM2M: Notify: 10377   : 0   : 3  Status: 1  Ack: 2  

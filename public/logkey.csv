@@ -1,0 +1,106 @@
+No,Log (PC App),Log (OneTouchApp),Explanation
+1,FLSV: LWM2M Readings Not Dispatched: 0,FLSV: LWM2M Readings Not Dispatched: 0,Failsafe message for not dispatched reading logs.
+2,FLSV: MCU Reset> Firmware Update: 0800066D,FLSV: MCU Reset> Firmware Update: 0800066D,Failsafe message for firmware update
+3,FLSV: MCU Reset> PVD/PVM: 0800066D,FLSV: MCU Reset> PVD/PVM: 0800066D,Failsafe message for PVD in device.
+4,GKCOAP: Report Next Time: 27/03/26 02:03:15,GKCOAP: Report Next Time: 27/03/26 02:03:15,Next GKCOAP reporting time
+5,LOGG: Meter Log: 25783,LOGG: Meter Log: 25783,Total reading logs
+6,LWM2M: Alarm Next Sample Time: 25/03/26 02:41:15,LWM2M: Alarm Next Sample Time: 25/03/26 02:41:15,Next alarm sample time
+7,LWM2M: Execute: 9 : 0 : 10 Status: 2 Result: 15,LWM2M: Execute: 9 : 0 : 10 Status: 2 Result: 15,FOTA command for firmware activation
+8,LWM2M: Notify: 10376 : 0 : 6 Status: 1 Ack: 2,LWM2M: Notify: 10376 : 0 : 6 Status: 1 Ack: 2,LWM2M resource for readings
+9,LWM2M: Query Next Dispatch Time: 24/03/26 02:30:12,LWM2M: Query Next Dispatch Time: 24/03/26 02:30:12,Next query transmission time
+10,LWM2M: Reading Next Dispatch Time: 24-03-26 02:30:12,LWM2M: Reading Next Dispatch Time: 24-03-26 02:30:12,Next reading transmission time
+11,LWM2M: Request: 9 : 0 : 10 Type: 9 Status: 0,LWM2M: Request: 9 : 0 : 10 Type: 9 Status: 0,FOTA command to request firmware activation
+12,LWM2M: Status Next Run Time: 23-03-26 03:00:00,LWM2M: Status Next Run Time: 23-03-26 03:00:00,Next status log time
+13,LWM2M: Swmgt Current Block: 0,LWM2M: Swmgt Current Block: 0,FOTA first package initiation
+14,LWM2M: Swmgt Current Block: 461,LWM2M: Swmgt Current Block: 461,FOTA packet download
+15,NBIT: Cereg: 2,NBIT: Cereg: 2,Network registration/attach
+16,NBIT: CME Error: 3 BC66 SubState: 0 BC66 State: PROCESS_REQUEST_Bc66LinkState,NBIT: CME Error: 3 BC66 SubState: 0 BC66 State: PROCESS_REQUEST_Bc66LinkState,CME Error
+17,NBIT: CME Error: 32 BC66 SubState: 0 BC66 State: PROCESS_REQUEST_Bc66LinkState,NBIT: CME Error: 32 BC66 SubState: 0 BC66 State: PROCESS_REQUEST_Bc66LinkState,CME Error
+18,NBIT: CME Error: 33 BC66 SubState: 0 BC66 State: PROCESS_REQUEST_Bc66LinkState,NBIT: CME Error: 33 BC66 SubState: 0 BC66 State: PROCESS_REQUEST_Bc66LinkState,CME Error
+19,NBIT: CME Error: 4 BC66 SubState: 0 BC66 State: PROCESS_REQUEST_Bc66LinkState,NBIT: CME Error: 4 BC66 SubState: 0 BC66 State: PROCESS_REQUEST_Bc66LinkState,CME Error
+20,NBIT: CME Error: 846 BC66 SubState: 0 BC66 State: PROCESS_REQUEST_Bc66LinkState,NBIT: CME Error: 846 BC66 SubState: 0 BC66 State: PROCESS_REQUEST_Bc66LinkState,CME Error
+21,NBIT: Coap Recovered: 0,NBIT: Coap Recovered: 0,Coap recovered successfully
+22,NBIT: Lwm2m Recovered: 0,NBIT: Lwm2m Recovered: 0,Lwm2m recovered successfully
+23,NBIT: Temp(C): 27 Volt(mV): 3010 Modem Error: ERROR_RECEIVED,NBIT: Temp(C): 27 Volt(mV): 3010 Modem Error: 2,Modem Error
+24,NBIT: Temp(C): 27 Volt(mV): 3010 Modem Error: RESP_ERR,NBIT: Temp(C): 27 Volt(mV): 3010 Modem Error: 3,Modem Error
+25,NBIT: Temp(C): 27 Volt(mV): 3010 Modem Error: RESP_TIMEOUT,NBIT: Temp(C): 30 Volt(mV): 2996 Modem Error: 4,Modem Error
+26,NBIT: Temp(C): 27 Volt(mV): 3009 Modem Error: HARD_RESET,NBIT: Temp(C): 30 Volt(mV): 2996 Modem Error: 5,Modem Error
+27,NBIT: Temp(C): 27 Volt(mV): 3009 Modem Power State: DISABLED,NBIT: Temp(C): 30 Volt(mV): 2996 Modem Power State: 0,Modem disabled
+28,NBIT: Temp(C): 27 Volt(mV): 3009 Modem Power State: SLEEP,NBIT: Temp(C): 30 Volt(mV): 2996 Modem Power State: 1,Modem sleep
+29,NBIT: Temp(C): 27 Volt(mV): 3009 Modem Power State: ACTIVE,NBIT: Temp(C): 30 Volt(mV): 2996 Modem Power State: 2,Modem activate
+30,NBIT: Transmission Failed:,NBIT: Transmission Failed:,Count of failed transmission
+31,NBIT: Transmission:,NBIT: Transmission:,Count of total transmission
+32,SNSR: Average Current (uA): 15.624999,SNSR: Average Current (uA): 15.624999,Average current consumption
+33,SNSR: Temp(C): 39 Volt(mV): 2996,SNSR: Temp(C): 39 Volt(mV): 2996,MCU Voltage level
+34,FLSV: MCU Reset> User: 0800A3AA,FLSV: MCU Reset> User: 0800A3AA,User reboot
+35,LWM2M: Execute: 9 : 0 : 11 Status: 2 Result: 0,LWM2M: Execute: 9 : 0 : 11 Status: 2 Result: 0,FOTA Command deactivate firmware
+36,LWM2M: Notify: 10376 : 0 : 6 Status: 0 Ack: 0,LWM2M: Notify: 10376 : 0 : 6 Status: 0 Ack: 0,LWM2M resource for readings
+37,LWM2M: Notify: 10376 : 1 : 6 Status: 0 Ack: 0,LWM2M: Notify: 10376 : 1 : 6 Status: 0 Ack: 0,LWM2M resource for status
+38,LWM2M: Notify: 10377 : 0 : 3 Status: 0 Ack: 0,LWM2M: Notify: 10377 : 0 : 3 Status: 0 Ack: 0,LWM2M resource for alarm
+39,LWM2M: Notify: 9 : 0 : 1 Status: 0 Ack: 0,LWM2M: Notify: 9 : 0 : 1 Status: 0 Ack: 0,LWM2M resource for firmware version
+40,LWM2M: Notify: 9 : 0 : 7 Status: 0 Ack: 0,LWM2M: Notify: 9 : 0 : 7 Status: 0 Ack: 0,LWM2M resource for firmware update state
+41,LWM2M: Notify: 9 : 0 : 9 Status: 0 Ack: 0,LWM2M: Notify: 9 : 0 : 9 Status: 0 Ack: 0,LWM2M resource for firmware update result
+42,LWM2M: Observe: 10376 : 0 : 6 Status: 0 Index: 0,LWM2M: Observe: 10376 : 0 : 6 Status: 0 Index: 0,LWM2M Object registration
+43,LWM2M: Observe: 10376 : 1 : 6 Status: 0 Index: 0,LWM2M: Observe: 10376 : 1 : 6 Status: 0 Index: 0,LWM2M Object registration
+44,LWM2M: Observe: 10377 : 0 : 3 Status: 0 Index: 0,LWM2M: Observe: 10377 : 0 : 3 Status: 0 Index: 0,LWM2M Object registration
+45,LWM2M: Observe: 9 : 0 : 1 Status: 0 Index: 0,LWM2M: Observe: 9 : 0 : 1 Status: 0 Index: 0,LWM2M Object registration
+46,LWM2M: Observe: 9 : 0 : 7 Status: 0 Index: 0,LWM2M: Observe: 9 : 0 : 7 Status: 0 Index: 0,LWM2M Object registration
+47,LWM2M: Observe: 9 : 0 : 9 Status: 0 Index: 0,LWM2M: Observe: 9 : 0 : 9 Status: 0 Index: 0,LWM2M Object registration
+48,LWM2M: Request: 10376 : 0 : 6 Type: 10 Status: 0,LWM2M: Request: 10376 : 0 : 6 Type: 10 Status: 0,LWM2M Object registration
+49,LWM2M: Request: 10376 : 1 : 6 Type: 10 Status: 0,LWM2M: Request: 10376 : 1 : 6 Type: 10 Status: 0,LWM2M Object registration
+50,LWM2M: Request: 10377 : 0 : 3 Type: 10 Status: 0,LWM2M: Request: 10377 : 0 : 3 Type: 10 Status: 0,LWM2M Object registration
+51,LWM2M: Request: 9 : 0 : 11 Type: 9 Status: 0,LWM2M: Request: 9 : 0 : 11 Type: 9 Status: 0,FOTA Command deactivate firmware
+52,LWM2M: Request: 9 : 0 : 3 Type: 7 Status: 0,LWM2M: Request: 9 : 0 : 3 Type: 7 Status: 0,FOTA Command for firmware package URI
+53,LWM2M: Request: 9 : 0 : 1 Type: 10 Status: 0,LWM2M: Request: 9 : 0 : 1 Type: 10 Status: 0,LWM2M Object registration
+54,LWM2M: Request: 9 : 0 : 7 Type: 10 Status: 0,LWM2M: Request: 9 : 0 : 7 Type: 10 Status: 0,LWM2M Object registration
+55,LWM2M: Request: 9 : 0 : 9 Type: 10 Status: 0,LWM2M: Request: 9 : 0 : 9 Type: 10 Status: 0,LWM2M Object registration
+56,LWM2M: Write: 9 : 0 : 3 Status: 2 Result: 15,LWM2M: Write: 9 : 0 : 3 Status: 2 Result: 15,FOTA Command for firmware package URI
+57,NBIT: Cell ID: 0951F248,NBIT: Cell ID: 0951F248,Cell ID number
+58,NBIT: Cereg: 1,NBIT: Cereg: 1,Successful network registration/attach
+59,NBIT: CME Error: 847 BC66 SubState: 0 BC66 State: PROCESS_REQUEST_Bc66LinkState,NBIT: CME Error: 847 BC66 SubState: 0 BC66 State: PROCESS_REQUEST_Bc66LinkState,CME Error
+60,NBIT: Earfcn: 1391,NBIT: Earfcn: 1391,Modem Parameter
+61,NBIT: Opr Mode: 2 Tx Power: 230 ECL: 0,NBIT: Opr Mode: 2 Tx Power: 230 ECL: 0,Modem Parameter
+62,NBIT: Pci: 401 EarfcnOffset: 1,NBIT: Pci: 401 EarfcnOffset: 1,Modem Parameter
+63,NBIT: RSRQ: 65528 RSRP: 65450,NBIT: RSRQ: 65528 RSRP: 65450,Modem Parameter
+64,NBIT: Rx Time(s): 85,NBIT: Rx Time(s): 85,Modem Parameter
+65,NBIT: SINR: 11 RSSI: 65458,NBIT: SINR: 11 RSSI: 65458,Modem Parameter
+66,NBIT: Sleep Duration: 0,NBIT: Sleep Duration: 0,Modem Parameter
+67,NBIT: TAC: 6182 Band: 3,NBIT: TAC: 6182 Band: 3,Modem Parameter
+68,NBIT: Transmission: 14980,NBIT: Transmission: 14980,Modem Parameter
+69,NBIT: Tx Time(s): 4,NBIT: Tx Time(s): 4,Modem Parameter
+70,LWM2M: Request: 9 : 0 : 4 Type: 9 Status: 0,LWM2M: Request: 9 : 0 : 4 Type: 9 Status: 0,FOTA Command firmware installation
+71,LWM2M: Execute: 9 : 0 : 4 Status: 2 Result: 15,LWM2M: Execute: 9 : 0 : 4 Status: 2 Result: 15,FOTA Command firmware installation
+72,LWM2M: Next Get Time: 1775412358 Swmgt Backoff: 05-Apr-2026 18:05:58,LWM2M: Next Get Time: 1775412358 Swmgt Backoff: 05-Apr-2026 18:05:58,FOTA Command firmware package backoff
+73,LWM2M: Swmgt Store Error: 00000000,LWM2M: Swmgt Store Error: 00000000,FOTA Command package download error
+74,NBIT: Modem Disabled. Restart Time: 11/04/26 09:38:48,NBIT: Modem Disabled. Restart Time: 11/04/26 09:38:48,Modem disable and restart message.
+75,NBIT: SIM Error: 1,NBIT: SIM Error: 1,SIM Error count
+76,FLSV: GKCOAP Hang:,FLSV: GKCOAP Hang:,Failsafe GKCOAP hang/not connecting
+77,FLSV: MCU Reset> Option Byte Load: 00000000,FLSV: MCU Reset> Option Byte Load: 00000000,MCU Reset
+78,M95M01: Validate Error: 11,M95M01: Validate Error: 11,EEPROM Hardware error
+79,LWM2M: Status Next Run Time: 23/03/26 03:00:00,LWM2M: Status Next Run Time: 23/03/26 03:00:00,Next status log time
+80,LWM2M: Alarm Next Sample Time:,LWM2M: Alarm Next Sample Time:,Next alarm sample time
+81,LWM2M: Alarm Stop Sample Time:,LWM2M: Alarm Stop Sample Time:,Next alarm sample stop time
+82,LWM2M: Reading Next Dispatch Time:,LWM2M: Reading Next Dispatch Time:,Reading dispatch time
+83,LWM2M: Reading Next Run Time:,LWM2M: Reading Next Run Time:,Next reading log time
+85,NBIT: Lwm2m Recovered: 10,NBIT: Lwm2m Recovered: 10,LWM2M reset timeout
+86,NBIT: Lwm2m Recovered: 2,NBIT: Lwm2m Recovered: 2,Lwm2m recovered failed
+87,LWM2M: Query Next Run Time:,LWM2M: Query Next Run Time:,Next query run time
+88,LWM2M: Reading Dispatch Dispatch Time:,LWM2M: Reading Dispatch Dispatch Time:,Dispatch Time for Reading
+89,LWM2M: Status Next Dispatch Time:,LWM2M: Status Next Dispatch Time:, Dispatch Time for Status 
+90,DBG: BOTS,DBG: BOTS, Bootstrap occured
+91,DBG: SIM?,DBG: SIM?, Checking SIM status
+92,DBG: SMOK,DBG: SMOK, SIM is good
+93,DBG: QCCI,DBG: QCCI, Received QCCID from the modem
+94,DBG: +IP,DBG: +IP, Received IP status
+95,DBG: CEDR,DBG: CEDR, Network registration
+96,DBG: NTW1,DBG: NTW1, Go to CSQ_AttachmentState
+97,DBG: LUNK,DBG: LUNK, LWM2M Registration status unknown
+98,DBG: QCNF,DBG: QCNF, LWM2M Configuration Received
+99,DBG: LREJ,DBG: LREJ, LWM2M Rejected
+100,DBG: LREG,DBG: LREG, LWM2M Registered
+100,DBG: NTW2,DBG: NTW2, Go to END_AttachmentState
+100,DBG: NTW3,DBG: NTW3, Go to WAIT_FOR_REGISTRATION_State
+100,DBG: NBOT,DBG: NBOT, Bootstrap skipped
+101,FLSV: MCU Reset> Brown Out:,FLSV: MCU Reset> Brown Out:, Device BOR
+102,GKCOAP: Report Start Time:,GKCOAP: Report Start Time:, CoAP Reporting Time
+103,FLSV: MCU Reset> Software Watchdog:,FLSV: MCU Reset> Software Watchdog:, Software Watch Dog Triggered

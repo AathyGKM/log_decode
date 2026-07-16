@@ -1,0 +1,127 @@
+import { useCallback, useEffect, useState } from 'react'
+import { FileUpload } from './components/FileUpload'
+import { FileReportPanel, openFileReportWindow } from './components/FileReportPanel'
+import { FileNavSidebar } from './components/FileNavSidebar'
+import { ScrollToTopButton } from './components/ScrollToTopButton'
+import { parseKey } from './lib/parseKey'
+import { parsePatterns } from './lib/parsePatterns'
+import { parseLog } from './lib/parseLog'
+import { matchKey } from './lib/matchKey'
+import { matchTransmissionRanges } from './lib/matchTransmissions'
+import { buildUnifiedView } from './lib/buildUnifiedView'
+import { buildTimeline } from './lib/buildTimeline'
+import { summarise } from './lib/summarise'
+import { evaluatePerformance } from './lib/evaluatePerformance'
+import { formatSummaryText } from './lib/formatSummaryText'
+import type { KeyEntry, TransmissionPattern } from './types'
+import type { FileReportPanelProps } from './components/FileReportPanel'
+
+type FileResult = FileReportPanelProps
+
+export default function App() {
+  const [keys, setKeys] = useState<KeyEntry[]>([])
+  const [patterns, setPatterns] = useState<TransmissionPattern[]>([])
+  const [keysLoading, setKeysLoading] = useState(true)
+  const [keysError, setKeysError] = useState(false)
+  const [fileResults, setFileResults] = useState<FileResult[]>([])
+
+  useEffect(() => {
+    Promise.all([parseKey(), parsePatterns()])
+      .then(([k, p]) => { setKeys(k); setPatterns(p); setKeysLoading(false) })
+      .catch(() => { setKeysError(true); setKeysLoading(false) })
+  }, [])
+
+  const handleFiles = useCallback((files: { name: string; text: string }[]) => {
+    const results = files.map(file => {
+      const rows = parseLog(file.text)
+      const decodedRows = matchKey(rows, keys)
+      const ranges = matchTransmissionRanges(decodedRows, patterns)
+      const matched = ranges.map(r => r.transmission)
+      const tl = buildTimeline(decodedRows)
+      const summary = summarise(decodedRows, tl)
+      const result: FileResult = {
+        id: crypto.randomUUID(),
+        fileName: file.name,
+        decoded: decodedRows,
+        summary,
+        performance: evaluatePerformance(summary, tl),
+        timeline: tl,
+        transmissions: matched,
+        unifiedItems: buildUnifiedView(decodedRows, ranges, tl),
+      }
+      return result
+    })
+    setFileResults(prev => [...prev, ...results])
+  }, [keys, patterns])
+
+  const handleOpenAllInNewWindows = useCallback(() => {
+    const blocked = fileResults.filter(r => !openFileReportWindow(r)).length
+    if (blocked > 0) {
+      alert(`${blocked} window(s) were blocked by the browser's popup blocker. Please allow popups for this site and try again.`)
+    }
+  }, [fileResults])
+
+  const handleDownloadAllSummaries = useCallback(() => {
+    const separator = `\n${'='.repeat(60)}\n\n`
+    const text = fileResults.map(r => formatSummaryText(r.fileName, r.summary, r.performance)).join(separator)
+    const blob = new Blob([text], { type: 'text/plain' })
+    const url = URL.createObjectURL(blob)
+    const a = document.createElement('a')
+    a.href = url
+    const now = new Date()
+    const pad = (n: number) => String(n).padStart(2, '0')
+    const stamp = `${now.getFullYear()}-${pad(now.getMonth() + 1)}-${pad(now.getDate())}_${pad(now.getHours())}-${pad(now.getMinutes())}-${pad(now.getSeconds())}`
+    a.download = `log-summaries-${stamp}.txt`
+    a.click()
+    URL.revokeObjectURL(url)
+  }, [fileResults])
+
+  return (
+    <div className="min-h-screen bg-gray-100">
+      <header className="bg-white border-b border-gray-200">
+        <div className="max-w-7xl mx-auto px-4 py-4">
+          <h1 className="text-2xl font-bold text-gray-900">NB-IoT Log Decoder</h1>
+          <p className="text-sm text-gray-500 mt-0.5">
+            Upload device log CSV files to decode and analyse events
+          </p>
+        </div>
+      </header>
+
+      <main className="max-w-7xl mx-auto px-4 py-6 space-y-6">
+        {keysError && (
+          <div className="rounded-md bg-red-50 border border-red-200 p-4 text-sm text-red-700">
+            Failed to load knowledge base (logkey.csv). Make sure it is present in the public folder.
+          </div>
+        )}
+
+        <FileUpload onLoad={handleFiles} disabled={keysLoading || keysError} />
+
+        {fileResults.length > 0 && (
+          <div className="flex justify-end gap-2">
+            <button
+              onClick={handleDownloadAllSummaries}
+              className="text-xs px-2.5 py-1 border border-gray-300 rounded text-gray-600 bg-white hover:bg-gray-50"
+            >
+              Download all summaries (.txt)
+            </button>
+            <button
+              onClick={handleOpenAllInNewWindows}
+              className="text-xs px-2.5 py-1 border border-gray-300 rounded text-gray-600 bg-white hover:bg-gray-50"
+            >
+              Open all in new windows
+            </button>
+          </div>
+        )}
+
+        {fileResults.map(result => (
+          <FileReportPanel key={result.id} {...result} />
+        ))}
+      </main>
+
+      <FileNavSidebar
+        files={fileResults.map(r => ({ id: r.id, fileName: r.fileName, status: r.summary.overallStatus }))}
+      />
+      <ScrollToTopButton />
+    </div>
+  )
+}

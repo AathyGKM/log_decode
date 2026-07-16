@@ -1,0 +1,1202 @@
+Date, Time, Event
+09-Jul-2026,15:08:12,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+09-Jul-2026,15:08:16,NBIT: Temp(C): 27  Volt(mV): 3007  Modem Power State: SLEEP 
+09-Jul-2026,15:08:16,NBIT: Temp(C): 27  Volt(mV): 3007  Modem Power State: SLEEP 
+09-Jul-2026,15:09:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:10:03 
+09-Jul-2026,15:09:25,NBIT: Temp(C): 27  Volt(mV): 3007  Modem Power State: ACTIVE 
+09-Jul-2026,15:09:28,NBIT: Cereg: 2 
+09-Jul-2026,15:09:31,DBG: SIM?
+09-Jul-2026,15:09:31,DBG: SMOK
+09-Jul-2026,15:09:31,DBG: QCCI
+09-Jul-2026,15:09:31,NBIT: Cereg: 1 
+09-Jul-2026,15:09:31,DBG: NTW1
+09-Jul-2026,15:09:33,DBG: EDRX
+09-Jul-2026,15:09:33,NBIT: Cereg: 1 
+09-Jul-2026,15:09:33,DBG: +IP
+09-Jul-2026,15:09:37,NBIT: SINR: 0  RSSI: 16 
+09-Jul-2026,15:09:39,DBG: NBOT
+09-Jul-2026,15:09:42,DBG: LREG
+09-Jul-2026,15:09:42,NBIT: Transmission: 3440 
+09-Jul-2026,15:09:43,DBG: QCNF
+09-Jul-2026,15:09:43,NBIT: Earfcn: 3701 
+09-Jul-2026,15:09:43,NBIT: Pci: 299  EarfcnOffset: 2 
+09-Jul-2026,15:09:43,NBIT: Cell ID: 03F91A7A 
+09-Jul-2026,15:09:43,NBIT: RSRQ: -9  RSRP: -88 
+09-Jul-2026,15:09:43,NBIT: SINR: 2  RSSI: -79 
+09-Jul-2026,15:09:43,NBIT: TAC: 29901  Band: 8 
+09-Jul-2026,15:09:43,NBIT: Opr Mode: 3  Tx Power: 90  ECL: 0 
+09-Jul-2026,15:09:43,NBIT: Sleep Duration: 0 
+09-Jul-2026,15:09:43,NBIT: Rx Time(s): 89 
+09-Jul-2026,15:09:43,NBIT: Tx Time(s): 10 
+09-Jul-2026,15:09:43,LWM2M: Request: 10376  : 0  : 6  Type: 10  Status: 0 
+09-Jul-2026,15:09:43,LWM2M: Request: 9  : 0  : 1  Type: 10  Status: 0 
+09-Jul-2026,15:09:43,LWM2M: Request: 9  : 0  : 9  Type: 10  Status: 0 
+09-Jul-2026,15:09:44,LWM2M: Request: 10376  : 1  : 6  Type: 10  Status: 0 
+09-Jul-2026,15:09:44,LWM2M: Observe: 10376  : 0  : 6  Status: 0  Index: 0 
+09-Jul-2026,15:09:44,LWM2M: Request: 10377  : 0  : 3  Type: 10  Status: 0 
+09-Jul-2026,15:09:44,LWM2M: Observe: 9  : 0  : 1  Status: 0  Index: 0 
+09-Jul-2026,15:09:44,LWM2M: Request: 9  : 0  : 7  Type: 10  Status: 0 
+09-Jul-2026,15:09:44,LWM2M: Observe: 9  : 0  : 9  Status: 0  Index: 0 
+09-Jul-2026,15:09:46,LWM2M: Observe: 10376  : 1  : 6  Status: 0  Index: 0 
+09-Jul-2026,15:09:47,LWM2M: Observe: 10377  : 0  : 3  Status: 0  Index: 0 
+09-Jul-2026,15:09:49,LWM2M: Observe: 9  : 0  : 7  Status: 0  Index: 0 
+09-Jul-2026,15:09:51,LWM2M: Notify: 9  : 0  : 1  Status: 0  Ack: 0 
+09-Jul-2026,15:09:53,LWM2M: Notify: 9  : 0  : 7  Status: 0  Ack: 0 
+09-Jul-2026,15:09:55,LWM2M: Notify: 9  : 0  : 9  Status: 0  Ack: 0 
+09-Jul-2026,15:09:55,NBIT: Transmission: 3450 
+09-Jul-2026,15:09:58,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+09-Jul-2026,15:09:59,LWM2M: Notify: 10376  : 1  : 6  Status: 0  Ack: 0 
+09-Jul-2026,15:10:01,LWM2M: Notify: 10377  : 0  : 3  Status: 0  Ack: 0 
+09-Jul-2026,15:10:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:11:03 
+09-Jul-2026,15:10:09,NBIT: Temp(C): 27  Volt(mV): 3007  Modem Power State: SLEEP 
+09-Jul-2026,15:10:16,NBIT: Temp(C): 27  Volt(mV): 3007  Modem Power State: SLEEP 
+09-Jul-2026,15:11:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:12:03 
+09-Jul-2026,15:12:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:13:03 
+09-Jul-2026,15:12:59,LWM2M: READING NEXT DISPATCH TIME: 09-Jul-2026 15:17:59 
+09-Jul-2026,15:13:00,NBIT: Temp(C): 27  Volt(mV): 3007  Modem Power State: ACTIVE 
+09-Jul-2026,15:13:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:14:03 
+09-Jul-2026,15:13:03,NBIT: Lwm2m Recovered: 0 
+09-Jul-2026,15:13:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+09-Jul-2026,15:13:12,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+09-Jul-2026,15:13:15,NBIT: Temp(C): 27  Volt(mV): 3007  Modem Power State: SLEEP 
+09-Jul-2026,15:13:15,NBIT: Temp(C): 27  Volt(mV): 3007  Modem Power State: SLEEP 
+09-Jul-2026,15:14:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:15:03 
+09-Jul-2026,15:15:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:16:03 
+09-Jul-2026,15:16:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:17:03 
+09-Jul-2026,15:17:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:18:03 
+09-Jul-2026,15:17:59,LWM2M: READING NEXT DISPATCH TIME: 09-Jul-2026 15:22:59 
+09-Jul-2026,15:18:00,NBIT: Temp(C): 27  Volt(mV): 3007  Modem Power State: ACTIVE 
+09-Jul-2026,15:18:02,NBIT: Lwm2m Recovered: 0 
+09-Jul-2026,15:18:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:19:03 
+09-Jul-2026,15:18:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+09-Jul-2026,15:18:12,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+09-Jul-2026,15:18:16,NBIT: Temp(C): 27  Volt(mV): 3007  Modem Power State: SLEEP 
+09-Jul-2026,15:18:16,NBIT: Temp(C): 27  Volt(mV): 3007  Modem Power State: SLEEP 
+09-Jul-2026,15:19:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:20:03 
+09-Jul-2026,15:20:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:21:03 
+09-Jul-2026,15:21:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:22:03 
+09-Jul-2026,15:22:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:23:03 
+09-Jul-2026,15:22:59,LWM2M: READING NEXT DISPATCH TIME: 09-Jul-2026 15:27:59 
+09-Jul-2026,15:23:00,NBIT: Temp(C): 27  Volt(mV): 3007  Modem Power State: ACTIVE 
+09-Jul-2026,15:23:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:24:03 
+09-Jul-2026,15:23:03,NBIT: Lwm2m Recovered: 0 
+09-Jul-2026,15:23:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+09-Jul-2026,15:23:12,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+09-Jul-2026,15:23:16,NBIT: Temp(C): 27  Volt(mV): 3007  Modem Power State: SLEEP 
+09-Jul-2026,15:23:16,NBIT: Temp(C): 27  Volt(mV): 3007  Modem Power State: SLEEP 
+09-Jul-2026,15:24:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:25:03 
+09-Jul-2026,15:25:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:26:03 
+09-Jul-2026,15:26:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:27:03 
+09-Jul-2026,15:27:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:28:03 
+09-Jul-2026,15:27:59,LWM2M: READING NEXT DISPATCH TIME: 09-Jul-2026 15:32:59 
+09-Jul-2026,15:28:00,NBIT: Temp(C): 28  Volt(mV): 3005  Modem Power State: ACTIVE 
+09-Jul-2026,15:28:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:29:03 
+09-Jul-2026,15:28:03,NBIT: Lwm2m Recovered: 0 
+09-Jul-2026,15:28:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+09-Jul-2026,15:28:09,NBIT: Transmission: 3460 
+09-Jul-2026,15:28:11,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+09-Jul-2026,15:28:15,NBIT: Temp(C): 28  Volt(mV): 3005  Modem Power State: SLEEP 
+09-Jul-2026,15:28:15,NBIT: Temp(C): 28  Volt(mV): 3005  Modem Power State: SLEEP 
+09-Jul-2026,15:29:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:30:03 
+09-Jul-2026,15:30:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:31:03 
+09-Jul-2026,15:31:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:32:03 
+09-Jul-2026,15:32:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:33:03 
+09-Jul-2026,15:32:59,LWM2M: READING NEXT DISPATCH TIME: 09-Jul-2026 15:37:59 
+09-Jul-2026,15:33:00,NBIT: Temp(C): 28  Volt(mV): 3005  Modem Power State: ACTIVE 
+09-Jul-2026,15:33:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:34:03 
+09-Jul-2026,15:33:03,NBIT: Lwm2m Recovered: 0 
+09-Jul-2026,15:33:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+09-Jul-2026,15:33:12,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+09-Jul-2026,15:33:15,NBIT: Temp(C): 28  Volt(mV): 3005  Modem Power State: SLEEP 
+09-Jul-2026,15:33:15,NBIT: Temp(C): 28  Volt(mV): 3005  Modem Power State: SLEEP 
+09-Jul-2026,15:34:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:35:03 
+09-Jul-2026,15:35:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:36:03 
+09-Jul-2026,15:36:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:37:03 
+09-Jul-2026,15:37:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:38:03 
+09-Jul-2026,15:37:59,LWM2M: READING NEXT DISPATCH TIME: 09-Jul-2026 15:42:59 
+09-Jul-2026,15:38:00,NBIT: Temp(C): 28  Volt(mV): 3005  Modem Power State: ACTIVE 
+09-Jul-2026,15:38:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:39:03 
+09-Jul-2026,15:38:03,NBIT: Lwm2m Recovered: 0 
+09-Jul-2026,15:38:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+09-Jul-2026,15:38:12,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+09-Jul-2026,15:38:16,NBIT: Temp(C): 28  Volt(mV): 3005  Modem Power State: SLEEP 
+09-Jul-2026,15:38:16,NBIT: Temp(C): 28  Volt(mV): 3005  Modem Power State: SLEEP 
+09-Jul-2026,15:39:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:40:03 
+09-Jul-2026,15:40:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:41:03 
+09-Jul-2026,15:41:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:42:03 
+09-Jul-2026,15:42:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:43:03 
+09-Jul-2026,15:42:59,LWM2M: READING NEXT DISPATCH TIME: 09-Jul-2026 15:47:59 
+09-Jul-2026,15:43:00,NBIT: Temp(C): 28  Volt(mV): 3005  Modem Power State: ACTIVE 
+09-Jul-2026,15:43:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:44:03 
+09-Jul-2026,15:43:04,NBIT: Lwm2m Recovered: 0 
+09-Jul-2026,15:43:11,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+09-Jul-2026,15:43:13,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+09-Jul-2026,15:43:17,NBIT: Temp(C): 28  Volt(mV): 3005  Modem Power State: SLEEP 
+09-Jul-2026,15:43:17,NBIT: Temp(C): 28  Volt(mV): 3005  Modem Power State: SLEEP 
+09-Jul-2026,15:44:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:45:03 
+09-Jul-2026,15:45:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:46:03 
+09-Jul-2026,15:46:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:47:03 
+09-Jul-2026,15:47:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:48:03 
+09-Jul-2026,15:47:59,LWM2M: READING NEXT DISPATCH TIME: 09-Jul-2026 15:52:59 
+09-Jul-2026,15:48:00,NBIT: Temp(C): 28  Volt(mV): 3005  Modem Power State: ACTIVE 
+09-Jul-2026,15:48:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:49:03 
+09-Jul-2026,15:48:03,NBIT: Lwm2m Recovered: 0 
+09-Jul-2026,15:48:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+09-Jul-2026,15:48:12,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+09-Jul-2026,15:48:16,NBIT: Temp(C): 28  Volt(mV): 3005  Modem Power State: SLEEP 
+09-Jul-2026,15:48:16,NBIT: Temp(C): 28  Volt(mV): 3005  Modem Power State: SLEEP 
+09-Jul-2026,15:49:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:50:03 
+09-Jul-2026,15:50:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:51:03 
+09-Jul-2026,15:51:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:52:03 
+09-Jul-2026,15:52:03,LWM2M: Reading Next Run Time: 09-Jul-2026 15:53:03 
+09-Jul-2026,15:52:39,FLSV: MCU Reset> Firmware Update: 00000000 
+09-Jul-2026,15:52:42,NBIT: Temp(C): 28  Volt(mV): 3000  Modem Power State: ACTIVE 
+09-Jul-2026,15:52:42,LWM2M: Reading Next Run Time: 09-Jul-2026 15:52:42 
+09-Jul-2026,15:52:42,LWM2M: Reading Next Run Time: 09-Jul-2026 15:53:42 
+09-Jul-2026,15:52:42,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 01:37:59 
+09-Jul-2026,15:52:42,LWM2M: Status Next Run Time: 09-Jul-2026 16:00:00 
+09-Jul-2026,15:52:42,LWM2M: Status Next Dispatch Time: 10-Jul-2026 01:37:59 
+09-Jul-2026,15:52:42,LWM2M: Query Next Run Time: 10-Jul-2026 00:00:00 
+09-Jul-2026,15:52:42,LWM2M: Query Next Dispatch Time: 10-Jul-2026 01:37:59 
+09-Jul-2026,15:52:42,SNSR: Temp(C): 28  Volt(mV): 3000 
+09-Jul-2026,15:52:42,SNSR: Average Current (uA): 1187.5 
+09-Jul-2026,15:52:45,NBIT: Cereg: 2 
+09-Jul-2026,15:52:48,DBG: SIM?
+09-Jul-2026,15:52:48,DBG: SMOK
+09-Jul-2026,15:52:49,DBG: QCCI
+09-Jul-2026,15:52:49,NBIT: Cereg: 1 
+09-Jul-2026,15:52:49,DBG: NTW1
+09-Jul-2026,15:52:49,DBG: EDRX
+09-Jul-2026,15:52:49,NBIT: Cereg: 1 
+09-Jul-2026,15:52:49,DBG: +IP
+09-Jul-2026,15:52:54,NBIT: SINR: 0  RSSI: 22 
+09-Jul-2026,15:53:01,DBG: BOTS
+09-Jul-2026,15:53:12,DBG: LREG
+09-Jul-2026,15:53:12,NBIT: Transmission: 3470 
+09-Jul-2026,15:53:13,DBG: QCNF
+09-Jul-2026,15:53:13,NBIT: Earfcn: 3701 
+09-Jul-2026,15:53:13,NBIT: Pci: 299  EarfcnOffset: 2 
+09-Jul-2026,15:53:13,NBIT: Cell ID: 03F91A7A 
+09-Jul-2026,15:53:13,NBIT: RSRQ: -8  RSRP: -79 
+09-Jul-2026,15:53:13,NBIT: SINR: 10  RSSI: -71 
+09-Jul-2026,15:53:13,NBIT: TAC: 29901  Band: 8 
+09-Jul-2026,15:53:13,NBIT: Opr Mode: 3  Tx Power: 0  ECL: 0 
+09-Jul-2026,15:53:13,NBIT: Sleep Duration: 0 
+09-Jul-2026,15:53:13,NBIT: Rx Time(s): 183 
+09-Jul-2026,15:53:13,NBIT: Tx Time(s): 19 
+09-Jul-2026,15:53:13,LWM2M: Request: 10376  : 0  : 6  Type: 10  Status: 0 
+09-Jul-2026,15:53:13,LWM2M: Request: 10376  : 1  : 6  Type: 10  Status: 0 
+09-Jul-2026,15:53:13,LWM2M: Request: 9  : 0  : 1  Type: 10  Status: 0 
+09-Jul-2026,15:53:14,LWM2M: Request: 10377  : 0  : 3  Type: 10  Status: 0 
+09-Jul-2026,15:53:14,LWM2M: Observe: 10376  : 0  : 6  Status: 0  Index: 0 
+09-Jul-2026,15:53:14,LWM2M: Request: 9  : 0  : 7  Type: 10  Status: 0 
+09-Jul-2026,15:53:14,LWM2M: Observe: 10376  : 1  : 6  Status: 0  Index: 0 
+09-Jul-2026,15:53:14,LWM2M: Request: 9  : 0  : 9  Type: 10  Status: 0 
+09-Jul-2026,15:53:14,LWM2M: Observe: 9  : 0  : 1  Status: 0  Index: 0 
+09-Jul-2026,15:53:16,LWM2M: Observe: 10377  : 0  : 3  Status: 0  Index: 0 
+09-Jul-2026,15:53:17,LWM2M: Observe: 9  : 0  : 7  Status: 0  Index: 0 
+09-Jul-2026,15:53:18,LWM2M: Observe: 9  : 0  : 9  Status: 0  Index: 0 
+09-Jul-2026,15:53:22,LWM2M: Notify: 9  : 0  : 1  Status: 0  Ack: 0 
+09-Jul-2026,15:53:23,LWM2M: Notify: 9  : 0  : 7  Status: 0  Ack: 0 
+09-Jul-2026,15:53:25,LWM2M: Notify: 9  : 0  : 9  Status: 0  Ack: 0 
+09-Jul-2026,15:53:25,NBIT: Transmission: 3480 
+09-Jul-2026,15:53:27,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+09-Jul-2026,15:53:29,LWM2M: Notify: 10376  : 1  : 6  Status: 0  Ack: 0 
+09-Jul-2026,15:53:31,LWM2M: Notify: 10377  : 0  : 3  Status: 0  Ack: 0 
+09-Jul-2026,15:53:39,NBIT: Temp(C): 28  Volt(mV): 3000  Modem Power State: SLEEP 
+09-Jul-2026,15:53:42,LWM2M: Reading Next Run Time: 09-Jul-2026 15:54:42 
+09-Jul-2026,15:53:43,LWM2M: Notify: 10377  : 0  : 3  Status: 1  Ack: 2 
+09-Jul-2026,15:53:43,NBIT: Temp(C): 28  Volt(mV): 3000  Modem Power State: ACTIVE 
+09-Jul-2026,15:54:08,NBIT: Temp(C): 28  Volt(mV): 3000  Modem Power State: SLEEP 
+09-Jul-2026,15:54:09,LWM2M: Notify: 10377  : 0  : 3  Status: 1  Ack: 2 
+09-Jul-2026,15:54:09,NBIT: Temp(C): 28  Volt(mV): 3000  Modem Power State: SLEEP 
+09-Jul-2026,15:54:42,LWM2M: Reading Next Run Time: 09-Jul-2026 15:55:42 
+09-Jul-2026,15:55:42,LWM2M: Reading Next Run Time: 09-Jul-2026 15:56:42 
+09-Jul-2026,15:56:42,LWM2M: Reading Next Run Time: 09-Jul-2026 15:57:42 
+09-Jul-2026,15:57:42,LWM2M: Reading Next Run Time: 09-Jul-2026 15:58:42 
+09-Jul-2026,15:58:42,LWM2M: Reading Next Run Time: 09-Jul-2026 15:59:42 
+09-Jul-2026,15:59:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:00:42 
+09-Jul-2026,16:00:00,LWM2M: Status Next Run Time: 10-Jul-2026 04:00:00 
+09-Jul-2026,16:00:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:01:42 
+09-Jul-2026,16:01:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:02:42 
+09-Jul-2026,16:02:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:03:42 
+09-Jul-2026,16:03:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:04:42 
+09-Jul-2026,16:04:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:05:42 
+09-Jul-2026,16:05:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:06:42 
+09-Jul-2026,16:06:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:07:42 
+09-Jul-2026,16:07:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:08:42 
+09-Jul-2026,16:08:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:09:42 
+09-Jul-2026,16:09:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:10:42 
+09-Jul-2026,16:10:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:11:42 
+09-Jul-2026,16:11:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:12:42 
+09-Jul-2026,16:12:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:13:42 
+09-Jul-2026,16:13:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:14:42 
+09-Jul-2026,16:14:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:15:42 
+09-Jul-2026,16:15:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:16:42 
+09-Jul-2026,16:16:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:17:42 
+09-Jul-2026,16:17:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:18:42 
+09-Jul-2026,16:18:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:19:42 
+09-Jul-2026,16:19:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:20:42 
+09-Jul-2026,16:20:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:21:42 
+09-Jul-2026,16:21:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:22:42 
+09-Jul-2026,16:22:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:23:42 
+09-Jul-2026,16:23:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:24:42 
+09-Jul-2026,16:24:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:25:42 
+09-Jul-2026,16:25:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:26:42 
+09-Jul-2026,16:26:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:27:42 
+09-Jul-2026,16:27:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:28:42 
+09-Jul-2026,16:28:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:29:42 
+09-Jul-2026,16:29:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:30:42 
+09-Jul-2026,16:30:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:31:42 
+09-Jul-2026,16:31:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:32:42 
+09-Jul-2026,16:32:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:33:42 
+09-Jul-2026,16:33:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:34:42 
+09-Jul-2026,16:34:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:35:42 
+09-Jul-2026,16:35:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:36:42 
+09-Jul-2026,16:36:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:37:42 
+09-Jul-2026,16:37:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:38:42 
+09-Jul-2026,16:38:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:39:42 
+09-Jul-2026,16:39:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:40:42 
+09-Jul-2026,16:40:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:41:42 
+09-Jul-2026,16:41:42,LWM2M: Reading Next Run Time: 09-Jul-2026 16:42:42 
+09-Jul-2026,16:42:03,NBIT: Temp(C): 28  Volt(mV): 3000  Modem Power State: ACTIVE 
+09-Jul-2026,16:42:07,NBIT: Cereg: 2 
+09-Jul-2026,16:42:09,DBG: EDRX
+09-Jul-2026,16:42:09,NBIT: Cereg: 1 
+09-Jul-2026,16:42:10,DBG: SIM?
+09-Jul-2026,16:42:10,DBG: SMOK
+09-Jul-2026,16:42:10,DBG: QCCI
+09-Jul-2026,16:42:10,DBG: +IP
+09-Jul-2026,16:42:10,NBIT: Cereg: 1 
+09-Jul-2026,16:42:10,DBG: NTW1
+09-Jul-2026,16:42:15,NBIT: SINR: 0  RSSI: 19 
+09-Jul-2026,16:42:18,DBG: NBOT
+09-Jul-2026,16:42:21,DBG: LREG
+09-Jul-2026,16:42:22,DBG: QCNF
+09-Jul-2026,16:42:22,NBIT: Earfcn: 3701 
+09-Jul-2026,16:42:22,NBIT: Pci: 299  EarfcnOffset: 2 
+09-Jul-2026,16:42:22,NBIT: Cell ID: 03F91A7A 
+09-Jul-2026,16:42:22,NBIT: RSRQ: -7  RSRP: -81 
+09-Jul-2026,16:42:22,NBIT: SINR: 16  RSSI: -74 
+09-Jul-2026,16:42:22,NBIT: TAC: 29901  Band: 8 
+09-Jul-2026,16:42:22,NBIT: Opr Mode: 3  Tx Power: 10  ECL: 0 
+09-Jul-2026,16:42:22,NBIT: Sleep Duration: 0 
+09-Jul-2026,16:42:22,NBIT: Rx Time(s): 100 
+09-Jul-2026,16:42:22,NBIT: Tx Time(s): 10 
+09-Jul-2026,16:42:22,LWM2M: Request: 10376  : 0  : 6  Type: 10  Status: 0 
+09-Jul-2026,16:42:22,LWM2M: Request: 10376  : 1  : 6  Type: 10  Status: 0 
+09-Jul-2026,16:42:22,LWM2M: Request: 10377  : 0  : 3  Type: 10  Status: 0 
+09-Jul-2026,16:42:23,LWM2M: Request: 9  : 0  : 7  Type: 10  Status: 0 
+09-Jul-2026,16:42:23,LWM2M: Request: 9  : 0  : 1  Type: 10  Status: 0 
+09-Jul-2026,16:42:23,LWM2M: Request: 9  : 0  : 9  Type: 10  Status: 0 
+09-Jul-2026,16:42:24,LWM2M: Request: 10376  : 0  : 3  Type: 7  Status: 0 
+09-Jul-2026,16:42:24,LWM2M: Observe: 10376  : 0  : 6  Status: 0  Index: 0 
+09-Jul-2026,16:42:25,LWM2M: Observe: 10376  : 1  : 6  Status: 0  Index: 0 
+09-Jul-2026,16:42:26,LWM2M: Observe: 10377  : 0  : 3  Status: 0  Index: 0 
+09-Jul-2026,16:42:26,NBIT: Transmission: 3490 
+09-Jul-2026,16:42:28,LWM2M: Observe: 9  : 0  : 7  Status: 0  Index: 0 
+09-Jul-2026,16:42:29,LWM2M: Observe: 9  : 0  : 1  Status: 0  Index: 0 
+09-Jul-2026,16:42:30,LWM2M: Observe: 9  : 0  : 9  Status: 0  Index: 0 
+09-Jul-2026,16:42:30,LWM2M: Reading Next Run Time: 09-Jul-2026 16:42:30 
+09-Jul-2026,16:42:30,LWM2M: Reading Next Run Time: 09-Jul-2026 16:43:30 
+09-Jul-2026,16:42:30,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 01:37:59 
+09-Jul-2026,16:42:32,LWM2M: Write: 10376  : 0  : 3  Status: 2  Result: 0 
+09-Jul-2026,16:42:33,LWM2M: Request: 10376  : 0  : 4  Type: 7  Status: 0 
+09-Jul-2026,16:42:34,LWM2M: Notify: 9  : 0  : 1  Status: 0  Ack: 0 
+09-Jul-2026,16:42:34,LWM2M: Reading Next Run Time: 09-Jul-2026 16:42:34 
+09-Jul-2026,16:42:34,LWM2M: Reading Next Run Time: 09-Jul-2026 16:57:34 
+09-Jul-2026,16:42:34,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 01:37:59 
+09-Jul-2026,16:42:34,LWM2M: Write: 10376  : 0  : 4  Status: 2  Result: 0 
+09-Jul-2026,16:42:37,LWM2M: Notify: 9  : 0  : 7  Status: 0  Ack: 0 
+09-Jul-2026,16:42:39,LWM2M: Notify: 9  : 0  : 9  Status: 0  Ack: 0 
+09-Jul-2026,16:42:42,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+09-Jul-2026,16:42:45,LWM2M: Notify: 10376  : 1  : 6  Status: 0  Ack: 0 
+09-Jul-2026,16:42:45,NBIT: Transmission: 3500 
+09-Jul-2026,16:42:48,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+09-Jul-2026,16:42:52,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+09-Jul-2026,16:42:58,NBIT: Temp(C): 28  Volt(mV): 3000  Modem Power State: SLEEP 
+09-Jul-2026,16:43:05,NBIT: Temp(C): 28  Volt(mV): 3000  Modem Power State: SLEEP 
+09-Jul-2026,16:57:34,LWM2M: Reading Next Run Time: 09-Jul-2026 17:12:34 
+09-Jul-2026,17:12:34,LWM2M: Reading Next Run Time: 09-Jul-2026 17:27:34 
+09-Jul-2026,17:27:34,LWM2M: Reading Next Run Time: 09-Jul-2026 17:42:34 
+09-Jul-2026,17:42:34,LWM2M: Reading Next Run Time: 09-Jul-2026 17:57:34 
+09-Jul-2026,17:57:34,LWM2M: Reading Next Run Time: 09-Jul-2026 18:12:34 
+09-Jul-2026,18:12:34,LWM2M: Reading Next Run Time: 09-Jul-2026 18:27:34 
+09-Jul-2026,18:27:34,LWM2M: Reading Next Run Time: 09-Jul-2026 18:42:34 
+09-Jul-2026,18:42:34,LWM2M: Reading Next Run Time: 09-Jul-2026 18:57:34 
+09-Jul-2026,18:46:40,LWM2M: Status Next Run Time: 09-Jul-2026 19:00:00 
+09-Jul-2026,18:57:34,LWM2M: Reading Next Run Time: 09-Jul-2026 19:12:34 
+09-Jul-2026,19:00:00,LWM2M: Status Next Run Time: 10-Jul-2026 07:00:00 
+09-Jul-2026,19:12:34,LWM2M: Reading Next Run Time: 09-Jul-2026 19:27:34 
+09-Jul-2026,19:27:34,LWM2M: Reading Next Run Time: 09-Jul-2026 19:42:34 
+09-Jul-2026,19:42:34,LWM2M: Reading Next Run Time: 09-Jul-2026 19:57:34 
+09-Jul-2026,19:57:34,LWM2M: Reading Next Run Time: 09-Jul-2026 20:12:34 
+09-Jul-2026,20:12:34,LWM2M: Reading Next Run Time: 09-Jul-2026 20:27:34 
+09-Jul-2026,20:27:34,LWM2M: Reading Next Run Time: 09-Jul-2026 20:42:34 
+09-Jul-2026,20:42:34,LWM2M: Reading Next Run Time: 09-Jul-2026 20:57:34 
+09-Jul-2026,20:57:34,LWM2M: Reading Next Run Time: 09-Jul-2026 21:12:34 
+09-Jul-2026,21:12:34,LWM2M: Reading Next Run Time: 09-Jul-2026 21:27:34 
+09-Jul-2026,21:27:34,LWM2M: Reading Next Run Time: 09-Jul-2026 21:42:34 
+09-Jul-2026,21:42:34,LWM2M: Reading Next Run Time: 09-Jul-2026 21:57:34 
+09-Jul-2026,21:46:40,LWM2M: Status Next Run Time: 09-Jul-2026 22:00:00 
+09-Jul-2026,21:52:42,SNSR: Temp(C): 30  Volt(mV): 3005 
+09-Jul-2026,21:52:42,SNSR: Average Current (uA): 109.375 
+09-Jul-2026,21:57:34,LWM2M: Reading Next Run Time: 09-Jul-2026 22:12:34 
+09-Jul-2026,22:00:00,LWM2M: Status Next Run Time: 10-Jul-2026 10:00:00 
+09-Jul-2026,22:12:34,LWM2M: Reading Next Run Time: 09-Jul-2026 22:27:34 
+09-Jul-2026,22:27:34,LWM2M: Reading Next Run Time: 09-Jul-2026 22:42:34 
+09-Jul-2026,22:42:34,LWM2M: Reading Next Run Time: 09-Jul-2026 22:57:34 
+09-Jul-2026,22:57:34,LWM2M: Reading Next Run Time: 09-Jul-2026 23:12:34 
+09-Jul-2026,23:12:34,LWM2M: Reading Next Run Time: 09-Jul-2026 23:27:34 
+09-Jul-2026,23:27:34,LWM2M: Reading Next Run Time: 09-Jul-2026 23:42:34 
+09-Jul-2026,23:42:34,LWM2M: Reading Next Run Time: 09-Jul-2026 23:57:34 
+09-Jul-2026,23:57:34,LWM2M: Reading Next Run Time: 10-Jul-2026 00:12:34 
+10-Jul-2026,00:00:00,LWM2M: Query Next Run Time: 11-Jul-2026 00:00:00 
+10-Jul-2026,00:00:01,LWM2M: Query Next Run Time: 11-Jul-2026 00:00:00 
+10-Jul-2026,00:12:34,LWM2M: Reading Next Run Time: 10-Jul-2026 00:27:34 
+10-Jul-2026,00:27:34,LWM2M: Reading Next Run Time: 10-Jul-2026 00:42:34 
+10-Jul-2026,00:42:34,LWM2M: Reading Next Run Time: 10-Jul-2026 00:57:34 
+10-Jul-2026,00:46:40,LWM2M: Status Next Run Time: 10-Jul-2026 01:00:00 
+10-Jul-2026,00:57:34,LWM2M: Reading Next Run Time: 10-Jul-2026 01:12:34 
+10-Jul-2026,01:00:00,LWM2M: Status Next Run Time: 10-Jul-2026 13:00:00 
+10-Jul-2026,01:12:34,LWM2M: Reading Next Run Time: 10-Jul-2026 01:27:34 
+10-Jul-2026,01:27:34,LWM2M: Reading Next Run Time: 10-Jul-2026 01:42:34 
+10-Jul-2026,01:37:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 01:42:59 
+10-Jul-2026,01:37:59,LWM2M: Status Next Dispatch Time: 31-Jul-2026 01:37:59 
+10-Jul-2026,01:37:59,LWM2M: Query Next Dispatch Time: 11-Jul-2026 01:37:59 
+10-Jul-2026,01:38:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,01:38:01,NBIT: Cereg: 0 
+10-Jul-2026,01:38:01,NBIT: Lwm2m Recovered: 5 
+10-Jul-2026,01:38:02,DBG: EDRX
+10-Jul-2026,01:38:02,NBIT: Cereg: 1 
+10-Jul-2026,01:38:02,DBG: +IP
+10-Jul-2026,01:38:03,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,01:38:07,NBIT: Cereg: 2 
+10-Jul-2026,01:38:10,DBG: SIM?
+10-Jul-2026,01:38:10,DBG: SMOK
+10-Jul-2026,01:38:10,DBG: QCCI
+10-Jul-2026,01:38:10,NBIT: Cereg: 1 
+10-Jul-2026,01:38:10,DBG: NTW1
+10-Jul-2026,01:38:12,DBG: EDRX
+10-Jul-2026,01:38:12,NBIT: Cereg: 1 
+10-Jul-2026,01:38:13,DBG: +IP
+10-Jul-2026,01:38:15,NBIT: SINR: 0  RSSI: 21 
+10-Jul-2026,01:38:17,DBG: NBOT
+10-Jul-2026,01:38:20,DBG: LREG
+10-Jul-2026,01:38:20,DBG: QCNF
+10-Jul-2026,01:38:21,NBIT: Earfcn: 3701 
+10-Jul-2026,01:38:21,NBIT: Pci: 299  EarfcnOffset: 2 
+10-Jul-2026,01:38:21,NBIT: Cell ID: 03F91A7A 
+10-Jul-2026,01:38:21,NBIT: RSRQ: -7  RSRP: -77 
+10-Jul-2026,01:38:21,NBIT: SINR: 13  RSSI: -69 
+10-Jul-2026,01:38:21,NBIT: TAC: 29901  Band: 8 
+10-Jul-2026,01:38:21,NBIT: Opr Mode: 3  Tx Power: -20  ECL: 255 
+10-Jul-2026,01:38:21,NBIT: Sleep Duration: 0 
+10-Jul-2026,01:38:21,NBIT: Rx Time(s): 72 
+10-Jul-2026,01:38:21,NBIT: Tx Time(s): 9 
+10-Jul-2026,01:38:21,LWM2M: Request: 10376  : 0  : 6  Type: 10  Status: 0 
+10-Jul-2026,01:38:21,LWM2M: Request: 10377  : 0  : 3  Type: 10  Status: 0 
+10-Jul-2026,01:38:21,LWM2M: Request: 9  : 0  : 1  Type: 10  Status: 0 
+10-Jul-2026,01:38:21,LWM2M: Request: 9  : 0  : 7  Type: 10  Status: 0 
+10-Jul-2026,01:38:22,LWM2M: Request: 10376  : 1  : 6  Type: 10  Status: 0 
+10-Jul-2026,01:38:22,LWM2M: Request: 9  : 0  : 9  Type: 10  Status: 0 
+10-Jul-2026,01:38:23,LWM2M: Observe: 10376  : 0  : 6  Status: 0  Index: 0 
+10-Jul-2026,01:38:25,LWM2M: Observe: 10377  : 0  : 3  Status: 0  Index: 0 
+10-Jul-2026,01:38:26,LWM2M: Observe: 9  : 0  : 1  Status: 0  Index: 0 
+10-Jul-2026,01:38:27,LWM2M: Observe: 9  : 0  : 7  Status: 0  Index: 0 
+10-Jul-2026,01:38:27,NBIT: Transmission: 3510 
+10-Jul-2026,01:38:29,LWM2M: Observe: 10376  : 1  : 6  Status: 0  Index: 0 
+10-Jul-2026,01:38:30,LWM2M: Observe: 9  : 0  : 9  Status: 0  Index: 0 
+10-Jul-2026,01:38:33,LWM2M: Notify: 9  : 0  : 1  Status: 0  Ack: 0 
+10-Jul-2026,01:38:35,LWM2M: Notify: 9  : 0  : 7  Status: 0  Ack: 0 
+10-Jul-2026,01:38:37,LWM2M: Notify: 9  : 0  : 9  Status: 0  Ack: 0 
+10-Jul-2026,01:38:40,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,01:38:42,LWM2M: Notify: 10376  : 1  : 6  Status: 0  Ack: 0 
+10-Jul-2026,01:38:46,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,01:38:53,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,01:38:54,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,01:42:34,LWM2M: Reading Next Run Time: 10-Jul-2026 01:57:34 
+10-Jul-2026,01:42:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 01:47:59 
+10-Jul-2026,01:43:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,01:43:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,01:43:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,01:43:14,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,01:43:14,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,01:47:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 01:52:59 
+10-Jul-2026,01:48:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,01:48:04,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,01:48:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,01:48:14,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,01:48:14,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,01:52:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 01:57:59 
+10-Jul-2026,01:53:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,01:53:01,NBIT: Transmission: 3520 
+10-Jul-2026,01:53:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,01:53:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,01:53:14,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,01:53:14,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,01:57:34,LWM2M: Reading Next Run Time: 10-Jul-2026 02:12:34 
+10-Jul-2026,01:57:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 02:02:59 
+10-Jul-2026,01:58:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,01:58:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,01:58:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,01:58:12,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,01:58:12,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,02:02:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 02:07:59 
+10-Jul-2026,02:03:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,02:03:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,02:03:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,02:03:14,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,02:03:14,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,02:07:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 02:12:59 
+10-Jul-2026,02:08:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,02:08:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,02:08:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,02:08:13,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,02:08:13,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,02:12:34,LWM2M: Reading Next Run Time: 10-Jul-2026 02:27:34 
+10-Jul-2026,02:12:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 02:17:59 
+10-Jul-2026,02:13:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,02:13:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,02:13:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,02:13:13,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,02:13:13,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,02:17:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 02:22:59 
+10-Jul-2026,02:18:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,02:18:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,02:18:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,02:18:13,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,02:18:13,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,02:22:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 02:27:59 
+10-Jul-2026,02:23:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,02:23:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,02:23:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,02:23:13,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,02:23:13,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,02:27:34,LWM2M: Reading Next Run Time: 10-Jul-2026 02:42:34 
+10-Jul-2026,02:27:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 02:32:59 
+10-Jul-2026,02:28:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,02:28:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,02:28:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,02:28:12,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,02:28:12,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,02:32:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 02:37:59 
+10-Jul-2026,02:33:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,02:33:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,02:33:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,02:33:13,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,02:33:13,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,02:37:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 02:42:59 
+10-Jul-2026,02:37:59,DBG: EDRX
+10-Jul-2026,02:38:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,02:38:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,02:38:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,02:38:12,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,02:38:12,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,02:42:34,LWM2M: Reading Next Run Time: 10-Jul-2026 02:57:34 
+10-Jul-2026,02:42:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 02:47:59 
+10-Jul-2026,02:43:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,02:43:01,NBIT: Transmission: 3530 
+10-Jul-2026,02:43:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,02:43:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,02:43:14,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,02:43:14,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,02:47:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 02:52:59 
+10-Jul-2026,02:48:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,02:48:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,02:48:11,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,02:48:15,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,02:48:15,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,02:52:42,SNSR: Temp(C): 30  Volt(mV): 3003 
+10-Jul-2026,02:52:42,SNSR: Average Current (uA): 2015.625 
+10-Jul-2026,02:52:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 02:57:59 
+10-Jul-2026,02:53:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,02:53:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,02:53:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,02:53:13,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,02:53:13,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,02:57:34,LWM2M: Reading Next Run Time: 10-Jul-2026 03:12:34 
+10-Jul-2026,02:57:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 03:02:59 
+10-Jul-2026,02:58:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,02:58:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,02:58:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,02:58:13,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,02:58:13,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,03:02:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 03:07:59 
+10-Jul-2026,03:03:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,03:03:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,03:03:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,03:03:30,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,03:03:30,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,03:07:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 03:12:59 
+10-Jul-2026,03:08:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,03:08:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,03:08:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,03:08:12,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,03:08:13,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,03:12:34,LWM2M: Reading Next Run Time: 10-Jul-2026 03:27:34 
+10-Jul-2026,03:12:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 03:17:59 
+10-Jul-2026,03:13:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,03:13:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,03:13:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,03:13:14,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,03:13:14,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,03:17:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 03:22:59 
+10-Jul-2026,03:18:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,03:18:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,03:18:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,03:18:13,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,03:18:13,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,03:22:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 03:27:59 
+10-Jul-2026,03:23:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,03:23:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,03:23:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,03:23:13,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,03:23:13,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,03:27:34,LWM2M: Reading Next Run Time: 10-Jul-2026 03:42:34 
+10-Jul-2026,03:27:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 03:32:59 
+10-Jul-2026,03:27:59,DBG: EDRX
+10-Jul-2026,03:28:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,03:28:13,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,03:28:20,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,03:28:23,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,03:28:23,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,03:32:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 03:37:59 
+10-Jul-2026,03:33:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,03:33:01,NBIT: Transmission: 3540 
+10-Jul-2026,03:33:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,03:33:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,03:33:14,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,03:33:14,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,03:37:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 03:42:59 
+10-Jul-2026,03:38:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,03:38:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,03:38:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,03:38:12,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,03:38:12,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,03:42:34,LWM2M: Reading Next Run Time: 10-Jul-2026 03:57:34 
+10-Jul-2026,03:42:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 03:47:59 
+10-Jul-2026,03:43:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,03:43:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,03:43:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,03:43:14,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,03:43:14,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,03:46:40,LWM2M: Status Next Run Time: 10-Jul-2026 04:00:00 
+10-Jul-2026,03:47:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 03:52:59 
+10-Jul-2026,03:48:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,03:48:04,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,03:48:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,03:48:14,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,03:48:14,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,03:52:42,SNSR: Temp(C): 30  Volt(mV): 3005 
+10-Jul-2026,03:52:42,SNSR: Average Current (uA): 15.625 
+10-Jul-2026,03:52:42,FLSV: LWM2M Readings Not Dispatched: 0 
+10-Jul-2026,03:52:42,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Error: HARD_RESET 
+10-Jul-2026,03:52:43,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,03:52:46,NBIT: Cereg: 2 
+10-Jul-2026,03:52:49,DBG: SIM?
+10-Jul-2026,03:52:49,DBG: SMOK
+10-Jul-2026,03:52:49,DBG: QCCI
+10-Jul-2026,03:52:50,NBIT: Cereg: 1 
+10-Jul-2026,03:52:50,DBG: NTW1
+10-Jul-2026,03:52:52,DBG: EDRX
+10-Jul-2026,03:52:52,NBIT: Cereg: 1 
+10-Jul-2026,03:52:52,DBG: +IP
+10-Jul-2026,03:52:55,NBIT: SINR: 0  RSSI: 21 
+10-Jul-2026,03:52:58,DBG: NBOT
+10-Jul-2026,03:52:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 03:57:59 
+10-Jul-2026,03:53:01,DBG: LREG
+10-Jul-2026,03:53:02,DBG: QCNF
+10-Jul-2026,03:53:02,NBIT: Earfcn: 3701 
+10-Jul-2026,03:53:02,NBIT: Pci: 299  EarfcnOffset: 2 
+10-Jul-2026,03:53:02,NBIT: Cell ID: 03F91A7A 
+10-Jul-2026,03:53:02,NBIT: RSRQ: -9  RSRP: -77 
+10-Jul-2026,03:53:02,NBIT: SINR: 13  RSSI: -68 
+10-Jul-2026,03:53:02,NBIT: TAC: 29901  Band: 8 
+10-Jul-2026,03:53:02,NBIT: Opr Mode: 3  Tx Power: -20  ECL: 255 
+10-Jul-2026,03:53:02,NBIT: Sleep Duration: 0 
+10-Jul-2026,03:53:02,NBIT: Rx Time(s): 79 
+10-Jul-2026,03:53:02,NBIT: Tx Time(s): 10 
+10-Jul-2026,03:53:02,LWM2M: Request: 10376  : 0  : 6  Type: 10  Status: 0 
+10-Jul-2026,03:53:02,LWM2M: Request: 10376  : 1  : 6  Type: 10  Status: 0 
+10-Jul-2026,03:53:03,LWM2M: Request: 9  : 0  : 1  Type: 10  Status: 0 
+10-Jul-2026,03:53:03,LWM2M: Request: 9  : 0  : 7  Type: 10  Status: 0 
+10-Jul-2026,03:53:03,LWM2M: Observe: 10376  : 0  : 6  Status: 0  Index: 0 
+10-Jul-2026,03:53:03,LWM2M: Request: 10377  : 0  : 3  Type: 10  Status: 0 
+10-Jul-2026,03:53:03,LWM2M: Observe: 10376  : 1  : 6  Status: 0  Index: 0 
+10-Jul-2026,03:53:04,LWM2M: Request: 9  : 0  : 9  Type: 10  Status: 0 
+10-Jul-2026,03:53:04,LWM2M: Observe: 9  : 0  : 1  Status: 0  Index: 0 
+10-Jul-2026,03:53:05,LWM2M: Observe: 9  : 0  : 7  Status: 0  Index: 0 
+10-Jul-2026,03:53:05,NBIT: Transmission: 3550 
+10-Jul-2026,03:53:06,LWM2M: Observe: 10377  : 0  : 3  Status: 0  Index: 0 
+10-Jul-2026,03:53:08,LWM2M: Observe: 9  : 0  : 9  Status: 0  Index: 0 
+10-Jul-2026,03:53:11,LWM2M: Notify: 9  : 0  : 1  Status: 0  Ack: 0 
+10-Jul-2026,03:53:12,LWM2M: Notify: 9  : 0  : 7  Status: 0  Ack: 0 
+10-Jul-2026,03:53:14,LWM2M: Notify: 9  : 0  : 9  Status: 0  Ack: 0 
+10-Jul-2026,03:53:17,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,03:53:18,LWM2M: Notify: 10376  : 1  : 6  Status: 0  Ack: 0 
+10-Jul-2026,03:53:24,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,03:53:31,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,03:57:34,LWM2M: Reading Next Run Time: 10-Jul-2026 04:12:34 
+10-Jul-2026,03:57:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 04:02:59 
+10-Jul-2026,03:58:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,03:58:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,03:58:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,03:58:13,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,03:58:13,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,04:00:00,LWM2M: Status Next Run Time: 10-Jul-2026 16:00:00 
+10-Jul-2026,04:02:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 04:07:59 
+10-Jul-2026,04:03:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,04:03:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,04:03:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,04:03:13,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,04:03:13,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,04:07:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 04:12:59 
+10-Jul-2026,04:08:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,04:08:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,04:08:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,04:08:14,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,04:08:14,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,04:12:34,LWM2M: Reading Next Run Time: 10-Jul-2026 04:27:34 
+10-Jul-2026,04:12:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 04:17:59 
+10-Jul-2026,04:13:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,04:13:01,NBIT: Transmission: 3560 
+10-Jul-2026,04:13:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,04:13:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,04:13:13,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,04:13:13,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,04:17:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 04:22:59 
+10-Jul-2026,04:18:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,04:18:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,04:18:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,04:18:12,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,04:18:12,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,04:22:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 04:27:59 
+10-Jul-2026,04:23:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,04:23:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,04:23:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,04:23:12,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,04:23:12,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,04:27:34,LWM2M: Reading Next Run Time: 10-Jul-2026 04:42:34 
+10-Jul-2026,04:27:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 04:32:59 
+10-Jul-2026,04:28:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,04:28:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,04:28:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,04:28:14,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,04:28:14,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,04:32:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 04:37:59 
+10-Jul-2026,04:33:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,04:33:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,04:33:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,04:33:12,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,04:33:12,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,04:37:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 04:42:59 
+10-Jul-2026,04:38:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,04:38:04,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,04:38:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,04:38:14,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,04:38:14,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,04:42:34,LWM2M: Reading Next Run Time: 10-Jul-2026 04:57:34 
+10-Jul-2026,04:42:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 04:47:59 
+10-Jul-2026,04:43:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,04:43:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,04:43:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,04:43:14,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,04:43:14,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,04:47:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 04:52:59 
+10-Jul-2026,04:48:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,04:48:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,04:48:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,04:48:12,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,04:48:12,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,04:52:42,SNSR: Temp(C): 30  Volt(mV): 3007 
+10-Jul-2026,04:52:42,SNSR: Average Current (uA): 125 
+10-Jul-2026,04:52:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 04:57:59 
+10-Jul-2026,04:53:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,04:53:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,04:53:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,04:53:13,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,04:53:13,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,04:57:34,LWM2M: Reading Next Run Time: 10-Jul-2026 05:12:34 
+10-Jul-2026,04:57:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 05:02:59 
+10-Jul-2026,04:58:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,04:58:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,04:58:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,04:58:13,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,04:58:13,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,05:02:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 05:07:59 
+10-Jul-2026,05:03:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,05:03:02,NBIT: Transmission: 3570 
+10-Jul-2026,05:03:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,05:03:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,05:03:29,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,05:03:29,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,05:07:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 05:12:59 
+10-Jul-2026,05:08:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,05:08:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,05:08:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,05:08:14,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,05:08:15,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,05:12:34,LWM2M: Reading Next Run Time: 10-Jul-2026 05:27:34 
+10-Jul-2026,05:12:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 05:17:59 
+10-Jul-2026,05:13:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,05:13:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,05:13:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,05:13:30,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,05:13:30,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,05:17:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 05:22:59 
+10-Jul-2026,05:18:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,05:18:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,05:18:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,05:18:12,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,05:18:13,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,05:22:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 05:27:59 
+10-Jul-2026,05:23:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,05:23:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,05:23:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,05:23:14,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,05:23:14,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,05:27:34,LWM2M: Reading Next Run Time: 10-Jul-2026 05:42:34 
+10-Jul-2026,05:27:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 05:32:59 
+10-Jul-2026,05:28:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,05:28:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,05:28:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,05:28:12,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,05:28:12,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,05:32:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 05:37:59 
+10-Jul-2026,05:33:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,05:33:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,05:33:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,05:33:15,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,05:33:15,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,05:37:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 05:42:59 
+10-Jul-2026,05:38:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,05:38:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,05:38:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,05:38:14,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,05:38:15,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,05:42:34,LWM2M: Reading Next Run Time: 10-Jul-2026 05:57:34 
+10-Jul-2026,05:42:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 05:47:59 
+10-Jul-2026,05:43:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,05:43:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,05:43:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,05:43:14,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,05:43:14,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,05:47:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 05:52:59 
+10-Jul-2026,05:48:00,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: ACTIVE 
+10-Jul-2026,05:48:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,05:48:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,05:48:13,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,05:48:13,NBIT: Temp(C): 30  Volt(mV): 3005  Modem Power State: SLEEP 
+10-Jul-2026,05:52:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 05:57:59 
+10-Jul-2026,05:53:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,05:53:01,NBIT: Transmission: 3580 
+10-Jul-2026,05:53:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,05:53:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,05:53:13,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,05:53:13,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,05:57:34,LWM2M: Reading Next Run Time: 10-Jul-2026 06:12:34 
+10-Jul-2026,05:57:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 06:02:59 
+10-Jul-2026,05:58:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,05:58:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,05:58:12,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,05:58:16,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,05:58:17,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,06:02:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 06:07:59 
+10-Jul-2026,06:03:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,06:03:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,06:03:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,06:03:13,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,06:03:13,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,06:07:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 06:12:59 
+10-Jul-2026,06:07:59,DBG: EDRX
+10-Jul-2026,06:08:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,06:08:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,06:08:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,06:08:12,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,06:08:12,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,06:12:34,LWM2M: Reading Next Run Time: 10-Jul-2026 06:27:34 
+10-Jul-2026,06:12:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 06:17:59 
+10-Jul-2026,06:13:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,06:13:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,06:13:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,06:13:13,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,06:13:13,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,06:17:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 06:22:59 
+10-Jul-2026,06:18:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,06:18:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,06:18:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,06:18:12,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,06:18:12,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,06:22:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 06:27:59 
+10-Jul-2026,06:23:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,06:23:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,06:23:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,06:23:12,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,06:23:12,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,06:27:34,LWM2M: Reading Next Run Time: 10-Jul-2026 06:42:34 
+10-Jul-2026,06:27:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 06:32:59 
+10-Jul-2026,06:28:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,06:28:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,06:28:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,06:28:14,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,06:28:14,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,06:32:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 06:37:59 
+10-Jul-2026,06:33:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,06:33:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,06:33:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,06:33:12,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,06:33:12,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,06:37:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 06:42:59 
+10-Jul-2026,06:38:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,06:38:04,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,06:38:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,06:38:14,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,06:38:14,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,06:42:34,LWM2M: Reading Next Run Time: 10-Jul-2026 06:57:34 
+10-Jul-2026,06:42:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 06:47:59 
+10-Jul-2026,06:43:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,06:43:01,NBIT: Transmission: 3590 
+10-Jul-2026,06:43:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,06:43:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,06:43:14,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,06:43:14,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,06:46:40,LWM2M: Status Next Run Time: 10-Jul-2026 07:00:00 
+10-Jul-2026,06:47:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 06:52:59 
+10-Jul-2026,06:48:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,06:48:04,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,06:48:11,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,06:48:14,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,06:48:15,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,06:52:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 06:57:59 
+10-Jul-2026,06:53:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,06:53:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,06:53:11,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,06:53:15,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,06:53:15,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,06:57:34,LWM2M: Reading Next Run Time: 10-Jul-2026 07:12:34 
+10-Jul-2026,06:57:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 07:02:59 
+10-Jul-2026,06:58:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,06:58:04,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,06:58:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,06:58:15,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,06:58:15,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,07:00:00,LWM2M: Status Next Run Time: 10-Jul-2026 19:00:00 
+10-Jul-2026,07:02:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 07:07:59 
+10-Jul-2026,07:03:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,07:03:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,07:03:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,07:03:12,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,07:03:12,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,07:07:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 07:12:59 
+10-Jul-2026,07:08:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,07:08:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,07:08:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,07:08:12,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,07:08:12,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,07:12:34,LWM2M: Reading Next Run Time: 10-Jul-2026 07:27:34 
+10-Jul-2026,07:12:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 07:17:59 
+10-Jul-2026,07:13:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,07:13:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,07:13:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,07:13:13,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,07:13:13,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,07:17:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 07:22:59 
+10-Jul-2026,07:18:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,07:18:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,07:18:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,07:18:12,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,07:18:12,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,07:22:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 07:27:59 
+10-Jul-2026,07:23:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,07:23:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,07:23:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,07:23:12,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,07:23:12,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,07:27:34,LWM2M: Reading Next Run Time: 10-Jul-2026 07:42:34 
+10-Jul-2026,07:27:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 07:32:59 
+10-Jul-2026,07:28:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,07:28:04,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,07:28:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,07:28:15,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,07:28:16,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,07:32:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 07:37:59 
+10-Jul-2026,07:33:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,07:33:01,NBIT: Transmission: 3600 
+10-Jul-2026,07:33:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,07:33:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,07:33:12,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,07:33:12,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,07:37:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 07:42:59 
+10-Jul-2026,07:38:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,07:38:04,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,07:38:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,07:38:15,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,07:38:15,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,07:42:34,LWM2M: Reading Next Run Time: 10-Jul-2026 07:57:34 
+10-Jul-2026,07:42:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 07:47:59 
+10-Jul-2026,07:43:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,07:43:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,07:43:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,07:43:14,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,07:43:15,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,07:47:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 07:52:59 
+10-Jul-2026,07:48:00,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: ACTIVE 
+10-Jul-2026,07:48:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,07:48:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,07:48:14,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,07:48:14,NBIT: Temp(C): 30  Volt(mV): 3003  Modem Power State: SLEEP 
+10-Jul-2026,07:52:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 07:57:59 
+10-Jul-2026,07:53:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,07:53:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,07:53:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,07:53:13,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,07:53:13,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,07:57:34,LWM2M: Reading Next Run Time: 10-Jul-2026 08:12:34 
+10-Jul-2026,07:57:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 08:02:59 
+10-Jul-2026,07:58:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,07:58:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,07:58:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,07:58:13,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,07:58:13,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:02:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 08:07:59 
+10-Jul-2026,08:03:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,08:03:04,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,08:03:11,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,08:03:15,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:03:15,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:07:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 08:12:59 
+10-Jul-2026,08:08:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,08:08:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,08:08:11,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,08:08:15,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:08:15,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:12:34,LWM2M: Reading Next Run Time: 10-Jul-2026 08:27:34 
+10-Jul-2026,08:12:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 08:17:59 
+10-Jul-2026,08:13:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,08:13:15,NBIT: Cereg: 3 
+10-Jul-2026,08:13:15,NBIT: Lwm2m Recovered: 5 
+10-Jul-2026,08:13:16,DBG: EDRX
+10-Jul-2026,08:13:16,NBIT: Cereg: 1 
+10-Jul-2026,08:13:17,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,08:13:17,DBG: +IP
+10-Jul-2026,08:13:21,NBIT: Cereg: 2 
+10-Jul-2026,08:13:23,DBG: EDRX
+10-Jul-2026,08:13:23,NBIT: Cereg: 1 
+10-Jul-2026,08:13:24,DBG: SIM?
+10-Jul-2026,08:13:24,DBG: SMOK
+10-Jul-2026,08:13:24,DBG: QCCI
+10-Jul-2026,08:13:24,NBIT: Cereg: 1 
+10-Jul-2026,08:13:24,DBG: NTW1
+10-Jul-2026,08:13:24,DBG: +IP
+10-Jul-2026,08:13:29,NBIT: SINR: 0  RSSI: 21 
+10-Jul-2026,08:13:31,DBG: NBOT
+10-Jul-2026,08:13:31,NBIT: Transmission: 3610 
+10-Jul-2026,08:13:34,DBG: LREG
+10-Jul-2026,08:13:35,DBG: QCNF
+10-Jul-2026,08:13:35,NBIT: Earfcn: 3701 
+10-Jul-2026,08:13:35,NBIT: Pci: 299  EarfcnOffset: 2 
+10-Jul-2026,08:13:35,NBIT: Cell ID: 03F91A7A 
+10-Jul-2026,08:13:35,NBIT: RSRQ: -7  RSRP: -78 
+10-Jul-2026,08:13:35,NBIT: SINR: 14  RSSI: -70 
+10-Jul-2026,08:13:35,NBIT: TAC: 29901  Band: 8 
+10-Jul-2026,08:13:35,NBIT: Opr Mode: 3  Tx Power: -10  ECL: 255 
+10-Jul-2026,08:13:35,NBIT: Sleep Duration: 0 
+10-Jul-2026,08:13:35,NBIT: Rx Time(s): 97 
+10-Jul-2026,08:13:35,NBIT: Tx Time(s): 10 
+10-Jul-2026,08:13:35,LWM2M: Request: 10376  : 1  : 6  Type: 10  Status: 0 
+10-Jul-2026,08:13:35,LWM2M: Request: 10376  : 0  : 6  Type: 10  Status: 0 
+10-Jul-2026,08:13:35,LWM2M: Request: 10377  : 0  : 3  Type: 10  Status: 0 
+10-Jul-2026,08:13:36,LWM2M: Request: 9  : 0  : 1  Type: 10  Status: 0 
+10-Jul-2026,08:13:36,LWM2M: Observe: 10376  : 1  : 6  Status: 0  Index: 0 
+10-Jul-2026,08:13:36,LWM2M: Request: 9  : 0  : 7  Type: 10  Status: 0 
+10-Jul-2026,08:13:36,LWM2M: Observe: 10376  : 0  : 6  Status: 0  Index: 0 
+10-Jul-2026,08:13:37,LWM2M: Request: 9  : 0  : 9  Type: 10  Status: 0 
+10-Jul-2026,08:13:37,LWM2M: Observe: 10377  : 0  : 3  Status: 0  Index: 0 
+10-Jul-2026,08:13:38,LWM2M: Observe: 9  : 0  : 1  Status: 0  Index: 0 
+10-Jul-2026,08:13:39,LWM2M: Observe: 9  : 0  : 7  Status: 0  Index: 0 
+10-Jul-2026,08:13:41,LWM2M: Observe: 9  : 0  : 9  Status: 0  Index: 0 
+10-Jul-2026,08:13:44,LWM2M: Notify: 9  : 0  : 1  Status: 0  Ack: 0 
+10-Jul-2026,08:13:45,LWM2M: Notify: 9  : 0  : 7  Status: 0  Ack: 0 
+10-Jul-2026,08:13:45,NBIT: Transmission: 3620 
+10-Jul-2026,08:13:47,LWM2M: Notify: 9  : 0  : 9  Status: 0  Ack: 0 
+10-Jul-2026,08:13:50,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,08:13:51,LWM2M: Notify: 10376  : 1  : 6  Status: 0  Ack: 0 
+10-Jul-2026,08:13:58,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:13:58,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:17:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 08:22:59 
+10-Jul-2026,08:18:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,08:18:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,08:18:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,08:18:12,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:18:12,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:22:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 08:27:59 
+10-Jul-2026,08:23:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,08:23:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,08:23:08,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,08:23:13,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:23:13,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:27:34,LWM2M: Reading Next Run Time: 10-Jul-2026 08:42:34 
+10-Jul-2026,08:27:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 08:32:59 
+10-Jul-2026,08:28:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,08:28:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,08:28:11,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,08:28:14,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:28:14,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:32:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 08:37:59 
+10-Jul-2026,08:33:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,08:33:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,08:33:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,08:33:13,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:33:13,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:37:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 08:42:59 
+10-Jul-2026,08:38:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,08:38:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,08:38:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,08:38:14,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:38:15,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:42:34,LWM2M: Reading Next Run Time: 10-Jul-2026 08:57:34 
+10-Jul-2026,08:42:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 08:47:59 
+10-Jul-2026,08:43:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,08:43:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,08:43:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,08:43:30,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:43:30,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:47:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 08:52:59 
+10-Jul-2026,08:48:00,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,08:48:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,08:48:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,08:48:12,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:48:13,NBIT: Temp(C): 30  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:52:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 08:57:59 
+10-Jul-2026,08:53:00,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,08:53:01,NBIT: Transmission: 3630 
+10-Jul-2026,08:53:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,08:53:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,08:53:13,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:53:13,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:57:34,LWM2M: Reading Next Run Time: 10-Jul-2026 09:12:34 
+10-Jul-2026,08:57:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 09:02:59 
+10-Jul-2026,08:58:00,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,08:58:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,08:58:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,08:58:13,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,08:58:13,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:02:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 09:07:59 
+10-Jul-2026,09:03:00,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,09:03:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,09:03:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,09:03:14,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:03:14,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:07:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 09:12:59 
+10-Jul-2026,09:08:00,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,09:08:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,09:08:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,09:08:13,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:08:13,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:12:34,LWM2M: Reading Next Run Time: 10-Jul-2026 09:27:34 
+10-Jul-2026,09:12:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 09:17:59 
+10-Jul-2026,09:13:00,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,09:13:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,09:13:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,09:13:12,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:13:12,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:17:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 09:22:59 
+10-Jul-2026,09:18:00,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,09:18:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,09:18:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,09:18:14,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:18:14,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:22:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 09:27:59 
+10-Jul-2026,09:23:00,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,09:23:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,09:23:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,09:23:12,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:23:12,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:27:34,LWM2M: Reading Next Run Time: 10-Jul-2026 09:42:34 
+10-Jul-2026,09:27:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 09:32:59 
+10-Jul-2026,09:28:00,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,09:28:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,09:28:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,09:28:30,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:28:30,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:32:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 09:37:59 
+10-Jul-2026,09:33:00,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,09:33:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,09:33:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,09:33:13,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:33:13,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:37:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 09:42:59 
+10-Jul-2026,09:38:00,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,09:38:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,09:38:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,09:38:13,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:38:13,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:42:34,LWM2M: Reading Next Run Time: 10-Jul-2026 09:57:34 
+10-Jul-2026,09:42:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 09:47:59 
+10-Jul-2026,09:43:00,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,09:43:01,NBIT: Transmission: 3640 
+10-Jul-2026,09:43:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,09:43:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,09:43:14,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:43:14,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:46:40,LWM2M: Status Next Run Time: 10-Jul-2026 10:00:00 
+10-Jul-2026,09:47:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 09:52:59 
+10-Jul-2026,09:48:00,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,09:48:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,09:48:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,09:48:13,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:48:13,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:52:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 09:57:59 
+10-Jul-2026,09:53:00,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,09:53:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,09:53:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,09:53:12,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:53:12,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:57:34,LWM2M: Reading Next Run Time: 10-Jul-2026 10:12:34 
+10-Jul-2026,09:57:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 10:02:59 
+10-Jul-2026,09:58:00,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,09:58:04,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,09:58:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,09:58:14,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,09:58:14,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,10:00:00,LWM2M: Status Next Run Time: 10-Jul-2026 22:00:00 
+10-Jul-2026,10:02:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 10:07:59 
+10-Jul-2026,10:03:00,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,10:03:04,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,10:03:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,10:03:15,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,10:03:15,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,10:07:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 10:12:59 
+10-Jul-2026,10:08:00,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,10:08:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,10:08:11,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,10:08:15,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,10:08:15,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,10:12:34,LWM2M: Reading Next Run Time: 10-Jul-2026 10:27:34 
+10-Jul-2026,10:12:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 10:17:59 
+10-Jul-2026,10:13:00,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,10:13:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,10:13:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,10:13:14,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,10:13:14,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,10:17:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 10:22:59 
+10-Jul-2026,10:18:00,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,10:18:04,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,10:18:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,10:18:14,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,10:18:14,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,10:22:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 10:27:59 
+10-Jul-2026,10:23:00,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,10:23:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,10:23:10,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,10:23:13,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,10:23:13,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,10:27:34,LWM2M: Reading Next Run Time: 10-Jul-2026 10:42:34 
+10-Jul-2026,10:27:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 10:32:59 
+10-Jul-2026,10:28:00,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: ACTIVE 
+10-Jul-2026,10:28:03,NBIT: Lwm2m Recovered: 0 
+10-Jul-2026,10:28:09,LWM2M: Notify: 10376  : 0  : 6  Status: 0  Ack: 0 
+10-Jul-2026,10:28:13,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,10:28:13,NBIT: Temp(C): 28  Volt(mV): 3007  Modem Power State: SLEEP 
+10-Jul-2026,10:32:59,LWM2M: READING NEXT DISPATCH TIME: 10-Jul-2026 10:37:59 
