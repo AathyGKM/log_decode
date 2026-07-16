@@ -1,3 +1,5 @@
+//This file contains the logic to build a timeline of communication sessions from a list of decoded log rows. Each session is defined by a sequence of events starting with an ACTIVE modem state and ending with either a SLEEP or DISABLED state. The timeline also includes pre-session and post-session events, as well as gap detection between sessions.
+
 import type { DecodedRow, TimelineEvent, TimelineSession } from '../types'
 import { parseDateTime, compareDateTime } from './dateTime'
 
