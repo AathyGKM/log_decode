@@ -1,18 +1,12 @@
 import { useState } from 'react'
 import type { ReactNode } from 'react'
 import type { CountedStat, DecodedRow, PerformanceScore, SummaryStats } from '../types'
-import { avg, minMax, formatDuration, groupByExplanation } from '../lib/summaryFormat'
+import { avg, minMax, formatDuration, groupByExplanation, performanceColor } from '../lib/summaryFormat'
 
 interface Props {
   stats: SummaryStats
   performance: PerformanceScore
   onNavigateToEvent?: (row: DecodedRow) => void
-}
-
-function performanceColor(pct: number): { text: string; bg: string; bar: string } {
-  if (pct >= 80) return { text: 'text-green-700', bg: 'bg-green-50', bar: 'bg-green-500' }
-  if (pct >= 50) return { text: 'text-amber-700', bg: 'bg-amber-50', bar: 'bg-amber-400' }
-  return { text: 'text-red-700', bg: 'bg-red-50', bar: 'bg-red-500' }
 }
 
 function PerformanceSection({ performance }: { performance: PerformanceScore }) {

@@ -1,11 +1,13 @@
-import { useCallback, useEffect, useState } from 'react'
+import { useCallback, useEffect, useMemo, useState } from 'react'
 import { FileUpload } from './components/FileUpload'
 import { FileReportPanel, openFileReportWindow } from './components/FileReportPanel'
+import { PerformanceOverview } from './components/PerformanceOverview'
 import { FileNavSidebar } from './components/FileNavSidebar'
 import { ScrollToTopButton } from './components/ScrollToTopButton'
 import { parseKey } from './lib/parseKey'
 import { parsePatterns } from './lib/parsePatterns'
 import { parseLog } from './lib/parseLog'
+import { filterRowsFromStart } from './lib/filterRowsFromStart'
 import { matchKey } from './lib/matchKey'
 import { matchTransmissionRanges } from './lib/matchTransmissions'
 import { buildUnifiedView } from './lib/buildUnifiedView'
@@ -18,12 +20,53 @@ import type { FileReportPanelProps } from './components/FileReportPanel'
 
 type FileResult = FileReportPanelProps
 
+interface UploadedFile {
+  id: string
+  name: string
+  text: string
+}
+
+function decodeFile(
+  id: string,
+  name: string,
+  text: string,
+  keys: KeyEntry[],
+  patterns: TransmissionPattern[],
+  startDateTime: Date | null,
+): FileResult {
+  const rows = filterRowsFromStart(parseLog(text), startDateTime)
+  const decodedRows = matchKey(rows, keys)
+  const ranges = matchTransmissionRanges(decodedRows, patterns)
+  const matched = ranges.map(r => r.transmission)
+  const tl = buildTimeline(decodedRows)
+  const summary = summarise(decodedRows, tl)
+  return {
+    id,
+    fileName: name,
+    decoded: decodedRows,
+    summary,
+    performance: evaluatePerformance(summary, tl),
+    timeline: tl,
+    transmissions: matched,
+    unifiedItems: buildUnifiedView(decodedRows, ranges, tl),
+  }
+}
+
 export default function App() {
   const [keys, setKeys] = useState<KeyEntry[]>([])
   const [patterns, setPatterns] = useState<TransmissionPattern[]>([])
   const [keysLoading, setKeysLoading] = useState(true)
   const [keysError, setKeysError] = useState(false)
   const [fileResults, setFileResults] = useState<FileResult[]>([])
+  const [uploadedFiles, setUploadedFiles] = useState<UploadedFile[]>([])
+  const [startDate, setStartDate] = useState('')
+  const [startTime, setStartTime] = useState('')
+
+  const startDateTime = useMemo(() => {
+    if (!startDate) return null
+    const d = new Date(`${startDate}T${startTime || '00:00:00'}`)
+    return isNaN(d.getTime()) ? null : d
+  }, [startDate, startTime])
 
   useEffect(() => {
     Promise.all([parseKey(), parsePatterns()])
@@ -32,27 +75,19 @@ export default function App() {
   }, [])
 
   const handleFiles = useCallback((files: { name: string; text: string }[]) => {
-    const results = files.map(file => {
-      const rows = parseLog(file.text)
-      const decodedRows = matchKey(rows, keys)
-      const ranges = matchTransmissionRanges(decodedRows, patterns)
-      const matched = ranges.map(r => r.transmission)
-      const tl = buildTimeline(decodedRows)
-      const summary = summarise(decodedRows, tl)
-      const result: FileResult = {
-        id: crypto.randomUUID(),
-        fileName: file.name,
-        decoded: decodedRows,
-        summary,
-        performance: evaluatePerformance(summary, tl),
-        timeline: tl,
-        transmissions: matched,
-        unifiedItems: buildUnifiedView(decodedRows, ranges, tl),
-      }
-      return result
-    })
+    const newUploads = files.map(file => ({ id: crypto.randomUUID(), name: file.name, text: file.text }))
+    const results = newUploads.map(u => decodeFile(u.id, u.name, u.text, keys, patterns, startDateTime))
+    setUploadedFiles(prev => [...prev, ...newUploads])
     setFileResults(prev => [...prev, ...results])
-  }, [keys, patterns])
+  }, [keys, patterns, startDateTime])
+
+  // Re-decode every already-uploaded file whenever the start point changes,
+  // using each file's retained raw text — no need to re-select it from disk.
+  useEffect(() => {
+    if (uploadedFiles.length === 0) return
+    setFileResults(() => uploadedFiles.map(u => decodeFile(u.id, u.name, u.text, keys, patterns, startDateTime)))
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [startDateTime])
 
   const handleOpenAllInNewWindows = useCallback(() => {
     const blocked = fileResults.filter(r => !openFileReportWindow(r)).length
@@ -94,7 +129,40 @@ export default function App() {
           </div>
         )}
 
+        <div className="bg-white rounded-lg border border-gray-200 p-3 flex flex-wrap items-center gap-3 text-sm">
+          <span className="text-gray-600 font-medium">Decode start point (optional):</span>
+          <input
+            type="date"
+            value={startDate}
+            onChange={e => setStartDate(e.target.value)}
+            className="border border-gray-300 rounded px-2 py-1 text-sm text-gray-700"
+          />
+          <input
+            type="time"
+            step="1"
+            value={startTime}
+            onChange={e => setStartTime(e.target.value)}
+            disabled={!startDate}
+            className="border border-gray-300 rounded px-2 py-1 text-sm text-gray-700 disabled:opacity-50"
+          />
+          {startDate && (
+            <button
+              onClick={() => { setStartDate(''); setStartTime('') }}
+              className="text-xs text-gray-400 hover:text-gray-600 underline"
+            >
+              Clear
+            </button>
+          )}
+          <span className="text-xs text-gray-400">
+            Rows before this date/time are excluded from decoding — applies to all uploaded logs and re-decodes any already loaded.
+          </span>
+        </div>
+
         <FileUpload onLoad={handleFiles} disabled={keysLoading || keysError} />
+
+        <PerformanceOverview
+          files={fileResults.map(r => ({ id: r.id, fileName: r.fileName, overall: r.performance.overall }))}
+        />
 
         {fileResults.length > 0 && (
           <div className="flex justify-end gap-2">

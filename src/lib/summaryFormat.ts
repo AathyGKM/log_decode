@@ -29,3 +29,9 @@ export function groupByExplanation(rows: DecodedRow[]): { explanation: string; r
     .map(([explanation, rs]) => ({ explanation, rows: rs }))
     .sort((a, b) => b.rows.length - a.rows.length)
 }
+
+export function performanceColor(pct: number): { text: string; bg: string; bar: string } {
+  if (pct >= 80) return { text: 'text-green-700', bg: 'bg-green-50', bar: 'bg-green-500' }
+  if (pct >= 50) return { text: 'text-amber-700', bg: 'bg-amber-50', bar: 'bg-amber-400' }
+  return { text: 'text-red-700', bg: 'bg-red-50', bar: 'bg-red-500' }
+}

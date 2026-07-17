@@ -43,6 +43,24 @@ function sessionLabel(events: TimelineEvent[]): string {
   const failedAlarmIdx = evts.findIndex(e =>
     e.includes('LWM2M: Notify: 10377') && (e.includes('Status: 1') || e.includes('Ack: 2'))
   )
+  const transmissionFailedIdx = evts.findIndex(e => e.includes('NBIT: Transmission Failed:'))
+  const recovered2Idx = evts.findIndex(e => e.includes('NBIT: Lwm2m Recovered: 2'))
+  // The specific set of Request/Observe/Notify events that make up a full
+  // modem-reset registration cycle — order among these doesn't matter, they
+  // just all need to fall between the ACTIVE marker and the ending SLEEP.
+  const modemResetMidEventIdxs = [
+    evts.findIndex(e => e.includes('LWM2M: Request: 10376 : 0')),
+    evts.findIndex(e => e.includes('LWM2M: Request: 10376 : 1')),
+    evts.findIndex(e => e.includes('LWM2M: Request: 10377 : 0')),
+    evts.findIndex(e => e.includes('LWM2M: Request: 9 : 0 : 1')),
+    evts.findIndex(e => e.includes('LWM2M: Observe: 10376 : 0')),
+    evts.findIndex(e => e.includes('LWM2M: Observe: 10376 : 1')),
+    evts.findIndex(e => e.includes('LWM2M: Observe: 10377 : 0')),
+    evts.findIndex(e => e.includes('LWM2M: Observe: 9 : 0')),
+    evts.findIndex(e => e.includes('LWM2M: Notify: 9 : 0')),
+    evts.findIndex(e => e.includes('LWM2M: Notify: 10376 : 0')),
+    evts.findIndex(e => e.includes('LWM2M: Notify: 10376 : 1')),
+  ]
   let obnineLastIdx = -1
   for (let k = evts.length - 1; k >= 0; k--) {
     if (evts[k].includes('LWM2M: Observe: 9')) { obnineLastIdx = k; break }
@@ -60,6 +78,17 @@ function sessionLabel(events: TimelineEvent[]): string {
   if (activeIdx !== -1 && recoverIdx !== -1 && alarmIdx !== -1 && sleepIdx !== -1 && activeIdx < recoverIdx && recoverIdx < alarmIdx && alarmIdx < sleepIdx)
     return 'Communication session — Successful Short Alarm Transmission'
   if (
+    activeIdx !== -1 && recoverIdx !== -1 && sleepIdx !== -1 &&
+    activeIdx < recoverIdx && recoverIdx < sleepIdx &&
+    !evts.some(e => e.includes('LWM2M:'))
+  )
+    return 'Communication session — Modem Short No Transmission'
+  if (
+    activeIdx !== -1 && recoverIdx !== -1 && sleepIdx !== -1 && transmissionFailedIdx !== -1 &&
+    activeIdx < recoverIdx && recoverIdx < sleepIdx && sleepIdx < transmissionFailedIdx
+  )
+    return 'Communication session — Failed Transmission'
+  if (
     activeIdx !== -1 && obnineLastIdx !== -1 && sleepIdx !== -1 &&
     activeIdx < obnineLastIdx && obnineLastIdx === sleepIdx - 1
   )
@@ -72,6 +101,18 @@ function sessionLabel(events: TimelineEvent[]): string {
   evts.some(e => e.includes('LWM2M: Notify: 10376'))
   )
     return 'Communication session — User Reboot Successful Transmission'
+  if (
+    recovered2Idx !== -1 && activeIdx !== -1 && sleepIdx !== -1 &&
+    recovered2Idx < activeIdx && activeIdx < sleepIdx &&
+    !evts.some(e => e.includes('LWM2M: Notify:'))
+  )
+    return 'Communication session — Modem Incomplete Reset'
+  if (
+    recovered2Idx !== -1 && activeIdx !== -1 && sleepIdx !== -1 &&
+    recovered2Idx < activeIdx &&
+    modemResetMidEventIdxs.every(idx => idx !== -1 && idx > activeIdx && idx < sleepIdx)
+  )
+    return 'Communication session — Modem Reset Successful Transmission'
   if (
   activeIdx !== -1 &&
   evts.some(e => e.includes('LWM2M: Request: 10376')) &&
@@ -95,6 +136,13 @@ function sessionLabel(events: TimelineEvent[]): string {
   evts.some(e => e.includes('LWM2M: Notify: 10376'))
   )
     return 'Communication session — Successful Transmission'
+
+  if (
+    activeIdx !== -1 && sleepIdx !== -1 && activeIdx < sleepIdx &&
+    !evts.some(e => e.includes('NBIT: Lwm2m Recovered:')) &&
+    !evts.some(e => e.includes('LWM2M: Notify:'))
+  )
+    return 'Communication session — modem enable no transmission'
 
   return 'Communication session — Unknown'
 }
@@ -150,17 +198,23 @@ export function buildTimeline(rows: DecodedRow[]): TimelineSession[] {
 
     const group: DecodedRow[] = []
 
-    // A firmware-update MCU reset is often logged a few seconds before the
-    // modem reactivates, landing in the gap before this session's own ACTIVE
-    // marker rather than inside any session. Pull it into this session as its
-    // lead-in row, since it's the reset that triggered this reactivation.
-    if (i > 0 && sorted[i - 1].event.includes('FLSV: MCU Reset> Firmware Update')) {
+    // A firmware-update MCU reset — or an Lwm2m Recovered: 2 self-reset — is
+    // often logged a few seconds before the modem reactivates, landing in the
+    // gap before this session's own ACTIVE marker rather than inside any
+    // session. Pull it into this session as its lead-in row, since it's the
+    // reset that triggered this reactivation.
+    if (
+      i > 0 &&
+      (sorted[i - 1].event.includes('FLSV: MCU Reset> Firmware Update') ||
+        sorted[i - 1].event.includes('NBIT: Lwm2m Recovered: 2'))
+    ) {
       group.push(sorted[i - 1])
     }
 
     const sessionStart = group[0] ?? sorted[i]
     let endRow = sorted[i]
     let sawSingleSleep = false
+    let sawRecovered = false
 
     while (i < sorted.length) {
       const row = sorted[i]
@@ -175,6 +229,8 @@ export function buildTimeline(rows: DecodedRow[]): TimelineSession[] {
       const isFailedAlarmNotify =
         row.event.includes('LWM2M: Notify: 10377') &&
         (row.event.includes('Status: 1') || row.event.includes('Ack: 2'))
+      const isTransmissionFailed = row.event.includes('NBIT: Transmission Failed:')
+      if (row.event.includes('NBIT: Lwm2m Recovered: 0')) sawRecovered = true
       i++
       if (wasDisabled) {
         break
@@ -188,12 +244,17 @@ export function buildTimeline(rows: DecodedRow[]): TimelineSession[] {
           break
         }
         // Single SLEEP — keep collecting, but now watch for a failed alarm
-        // notify arriving afterward, which concludes a "fake transmission".
+        // notify or a failed-transmission count arriving afterward, either of
+        // which concludes an abnormal session right here.
         sawSingleSleep = true
         continue
       }
       if (sawSingleSleep && isFailedAlarmNotify) {
         // ACTIVE → single SLEEP → failed alarm Notify: conclude the session here.
+        break
+      }
+      if (sawSingleSleep && sawRecovered && isTransmissionFailed) {
+        // ACTIVE → Lwm2m Recovered: 0 → single SLEEP → Transmission Failed: conclude here.
         break
       }
     }
